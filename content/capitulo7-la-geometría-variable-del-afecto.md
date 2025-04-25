@@ -87,7 +87,7 @@ casi una confidencia estratégica.
 —Ha pasado algo Turbio—, escribió de nuevo, la palabra resonando con ecos inquietantes.
 Kirlian sintió un déjà vu frío. —¿Otra vez? —respondió, el sarcasmo apenas velando la aprensión.
 La historia que siguió era, en su superficie, simple. Una quedada post-juegos de mesa. Alice y Demian, de nuevo. Un banco. Una conversación tranquila. Y de repente, la pregunta de Demian: "¿Te puedo besar?". La negativa de Alice.
-—Ricardo —había sido su respuesta, según contó ella misma.
+—Kirlian —había sido su respuesta, según contó ella misma.
 Pero esta vez, la crisis de Alice no era sobre su propia identidad o la naturaleza de su relación con Kirlian. Era sobre él. Su método.
 —¿Quién coño soy yo para eso? —repitió la pregunta de noviembre, pero la siguió con una nueva acusación, una que golpeó a Kirlian donde más le dolía—. Kirlian, me enturbia que te acuerdes de todo. Que releas conversaciones. Que analices hacia dónde van las cosas.
 Hizo una pausa virtual, como si tomara aire antes de asestar el golpe final.
