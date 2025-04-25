@@ -1,0 +1,28 @@
+# The URL the site will be built for
+base_url = "https://localhost:1111"
+
+author = "Ricardo Ruiz"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+theme = "after-dark"
+
+
+taxonomies = [
+    # You can enable/disable RSS
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+    {name = "novela", paginate_by = 10, sort_by = "weight", order = "asc"},
+]
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
