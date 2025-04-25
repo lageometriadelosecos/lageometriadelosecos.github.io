@@ -25,4 +25,4 @@ jobs:
           PAGES_BRANCH: master
           BUILD_DIR: .
           TOKEN: ${{ secrets.TOKEN }}
-          REPOSITORY: username/username.github.io
+          REPOSITORY: lageometriadelosecos/lageometriadelosecos.github.io
