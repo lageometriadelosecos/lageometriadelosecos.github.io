@@ -1,7 +1,7 @@
 # The URL the site will be built for
-base_url = "https://localhost:1111"
+base_url = "https://lageometriadelosecos.github.io"
 
-author = "Ricardo Ruiz"
+author = "Kirlian"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
