@@ -5,7 +5,7 @@ weight = 6
 
 El eco de las palabras flotaba aún en el aire mental de Kirlian días después.
 "Asexual", la etiqueta clínica pegada por rumores. La lógica descarnada de
-Miguel: "Fuck your feelings". Ambas resonaban no como revelaciones, sino como
+Ben: "Fuck your feelings". Ambas resonaban no como revelaciones, sino como
 distorsiones, simplificaciones burdas de la maraña que sentía dentro. La
 reacción instintiva fue replegarse, no hacia la apatía total, sino hacia el
 único terreno donde sentía cierto control: el análisis y la planificación
