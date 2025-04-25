@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://lageometriadelosecos.github.io/sitemap.xml
