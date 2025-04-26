@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 25: Código QR para un Corazón Roto"
-weight = 25
+title = "Capítulo 26: Código QR para un Corazón Roto"
+weight = 26
 +++
 
 El tiempo, después de aquella conversación funcional pero extrañamente hueca con
