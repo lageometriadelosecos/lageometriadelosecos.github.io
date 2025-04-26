@@ -30,7 +30,7 @@ jobs:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           # Optional: Specify the branch to deploy to if it's not 'master'
-          # PAGES_BRANCH: main # Uncomment and set if your deployment branch is 'main'
+          PAGES_BRANCH: master # Uncomment and set if your deployment branch is 'main'
 
           # Optional: Specify the directory containing the Zola project if not root
           # BUILD_DIR: site # Uncomment and set if your zola project is in 'site/'
