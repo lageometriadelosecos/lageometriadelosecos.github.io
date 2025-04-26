@@ -1,28 +1,39 @@
-on: push
+name: Deploy Zola Site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - source # Or whichever branch contains your Zola source code
+
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/main'
-    steps:
-      - name: 'checkout'
-        uses: actions/checkout@v4
-      - name: 'build'
-        uses: shalzz/zola-deploy-action@master
-        env:
-          PAGES_BRANCH: gh-pages 
-          BUILD_DIR: .
-          TOKEN: ${{  secrets.TOKEN }}
-          # BUILD_ONLY: true
   build_and_deploy:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+
+    # Add this permissions block!
+    permissions:
+      contents: write # Allows the action to push to the repository
+
     steps:
-      - name: 'checkout'
+      - name: Checkout Source Code
         uses: actions/checkout@v4
-      - name: 'build and deploy'
-        uses: shalzz/zola-deploy-action@master
+        with:
+          # If your Zola project uses submodules (like your theme)
+          submodules: true
+
+      - name: Build and Deploy
+        uses: shalzz/zola-deploy-action@master # Or specify a specific version tag like @v0.17.2
         env:
-          PAGES_BRANCH: master
-          BUILD_DIR: .
-          TOKEN: ${{ secrets.TOKEN }}
-          REPOSITORY: lageometriadelosecos/lageometriadelosecos.github.io
+          # The GITHUB_TOKEN secret is automatically available to the workflow
+          # Pass it to the action using the 'TOKEN' environment variable
+          # OR check the action's documentation if it uses a 'with:' input instead.
+          # Based on the docker run command, it seems to expect an env var named TOKEN
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # Optional: Specify the branch to deploy to if it's not 'master'
+          # PAGES_BRANCH: main # Uncomment and set if your deployment branch is 'main'
+
+          # Optional: Specify the directory containing the Zola project if not root
+          # BUILD_DIR: site # Uncomment and set if your zola project is in 'site/'
+
+          # Optional: Add a custom commit message
+          # COMMIT_MESSAGE: "Deploy Zola site [skip ci]"
