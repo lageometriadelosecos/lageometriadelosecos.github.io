@@ -3,7 +3,7 @@ name: Deploy Zola Site to GitHub Pages
 on:
   push:
     branches:
-      - source # Or whichever branch contains your Zola source code
+      - main # Or whichever branch contains your Zola source code
 
 jobs:
   build_and_deploy:
@@ -27,7 +27,7 @@ jobs:
           # Pass it to the action using the 'TOKEN' environment variable
           # OR check the action's documentation if it uses a 'with:' input instead.
           # Based on the docker run command, it seems to expect an env var named TOKEN
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
 
           # Optional: Specify the branch to deploy to if it's not 'master'
           # PAGES_BRANCH: main # Uncomment and set if your deployment branch is 'main'
