@@ -1,6 +1,7 @@
 +++
 title = "Capítulo 26: Código QR para un Corazón Roto"
 weight = 26
+draft = true
 +++
 
 El tiempo, después de aquella conversación funcional pero extrañamente hueca con

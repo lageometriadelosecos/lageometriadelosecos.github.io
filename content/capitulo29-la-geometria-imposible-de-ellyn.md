@@ -1,6 +1,7 @@
 +++
 title = "Capítulo 28: La Geometría Imposible de Ellyn"
 weight = 28
+draft = true
 +++
 
 La luz fluorescente del laboratorio de computación a las diez de la noche tenía

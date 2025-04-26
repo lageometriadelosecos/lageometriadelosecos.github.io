@@ -1,6 +1,7 @@
 +++
 title = "Capítulo 25: Fanzines, Código y la Sombra del Otro" 
 weight = 25
+draft = true
 +++
 
 El sol de media tarde filtraba una luz débil y dorada a través de las hojas que

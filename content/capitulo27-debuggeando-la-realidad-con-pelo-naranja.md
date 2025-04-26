@@ -1,6 +1,7 @@
 +++
 title = "Capítulo 27: Debuggeando la Realidad"
 weight = 27
+draft = true
 +++
 
 Al día siguiente, el zumbido del concierto aún resonaba débilmente en los oídos
