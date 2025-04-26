@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 26: Fanzines, Código y la Sombra del Otro" 
-weight = 26
+title = "Capítulo 25: Fanzines, Código y la Sombra del Otro" 
+weight = 25
 +++
 
 El sol de media tarde filtraba una luz débil y dorada a través de las hojas que
