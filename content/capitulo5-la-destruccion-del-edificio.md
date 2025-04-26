@@ -94,7 +94,7 @@ completamente solo, con un sabor metálico a decepción en la boca y la cabeza
 zumbando con el ruido blanco de la confusión.
 
 Más tarde esa noche, mientras caminaba de vuelta a casa bajo una noche
-inesperadamente clara, cuajada de estrellas indiferentes, Ben Martínez se
+inesperadamente clara, cuajada de estrellas indiferentes, Ben Hurtado se
 unió a su paso. Su compañía, siempre una mezcla incómoda de admiración a
 regañadientes y sorda irritación para Kirlian, se sintió esa noche especialmente
 cargada.
