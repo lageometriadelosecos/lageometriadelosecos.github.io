@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 7: Granada Eterna, Códigos Compartidos"
-weight = 7
+title = "Capítulo 8: Granada Eterna, Códigos Compartidos"
+weight = 8
 +++
 
 El invierno académico, con sus rigores y sus sombras introspectivas, cedía
