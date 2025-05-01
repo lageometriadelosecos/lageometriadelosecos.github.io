@@ -27,7 +27,7 @@ Se atrevió a participar más en clase, especialmente en Métodos Numéricos. Y 
 
 *Kirlian: (Procesando...) Entendido. Apoyo emocional activado. Voy contigo. ¿A las 18:00? Me enteré que esta posición [la de asistir como aliado sin acaparar] es la del bloque anarcotrans.*
 
-*Alice: Si quieres... Yo voy con Pauline, Lyra, Erika Durán... Kaiser creo que también.*
+*Alice: Si quieres... Yo voy con Pauline, Lyra... Kaiser creo que también.*
 
 *Kirlian: Voy. Es importante estar.*
 
