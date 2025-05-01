@@ -13,7 +13,7 @@ La relación con Alice recuperó calidez. Encontraron un nuevo equilibrio entre 
 
 La vida social también floreció. Las sesiones de estudio con Julia y Payton se consolidaron. A veces se unían Pauline o Xanax. Compartían apuntes, resolvían dudas, se apoyaban. Las cenas de los viernes post-clase con este grupo DGIIM se volvieron una constante. Kirlian se sentía parte, superando su aislamiento.
 
-Se atrevió a participar más en clase, especialmente en Métodos Numéricos. Y se involucró, a su manera analítica, en debates más amplios, como el que rodeó la **manifestación feminista del 8 de marzo**.
+Se atrevió a participar más en clase, especialmente en Métodos Numéricos. Y se involucró, a su manera analítica, en debates más amplios, como el que rodeó la manifestación feminista del 8 de marzo.
 
 *Alice (mensaje): Kirlian, ¿vas a la mani mañana? Es importante.*
 
@@ -33,7 +33,7 @@ Se atrevió a participar más en clase, especialmente en Métodos Numéricos. Y 
 
 La conversación reflejaba su dinámica: él buscando la lógica, la estrategia, la postura "correcta" casi como un problema matemático; ella recordándole la dimensión personal, afectiva, la necesidad de apoyo más allá del análisis. Al final, Kirlian decidió asistir, no tanto por una convicción ideológica plenamente formada en ese momento, sino por un cálculo relacional y un respeto genuino por la importancia que el evento tenía para Alice y otras compañeras. La experiencia de caminar en la manifestación, observando, escuchando, siendo una presencia silenciosa de apoyo, fue probablemente más formativa para él que todos los análisis previos.
 
-El cuatrimestre avanzó. Un incidente menor como el **chaquetón perdido**, intercambiado por error con el de **Andreas** y recuperado gracias a la intermediación de **Chris**, se convirtió en una anécdota graciosa, mostrando su mayor capacidad para gestionar imprevistos.
+El cuatrimestre avanzó. Un incidente menor como el chaquetón perdido, intercambiado por error con el de Andreas y recuperado gracias a la intermediación de Chris, se convirtió en una anécdota graciosa, mostrando su mayor capacidad para gestionar imprevistos.
 
 La planificación del viaje de Alice a Austria y sus relatos a la vuelta, incluyendo el doloroso plantón en Graz, fortalecieron su empatía y conexión. Kirlian escuchó, ofreció consuelo, aunque siguiera sintiéndose torpe en el terreno puramente emocional.
 

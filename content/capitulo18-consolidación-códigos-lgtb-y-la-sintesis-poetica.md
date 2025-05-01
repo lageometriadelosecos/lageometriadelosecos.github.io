@@ -33,8 +33,8 @@ meses:
 *Omega arde, Ildefonso se enfría,* San Juan antes que regresión arrepentida.* La
 *covarianza en pausa, y la cafeína ebria* Abrazo de paz, ¿por qué el equipo
 *cabesa?* (El abrazo de paz... quizás aquel gesto inesperado de consuelo mutuo
-*entre **Freddie** y **Kate** que Kirlian presenció u oyó, un momento de calma
-*frágil tras la sombra persistente de la pérdida de **Adler**, la amiga de
+*entre Freddie y Kate que Kirlian presenció u oyó, un momento de calma
+*frágil tras la sombra persistente de la pérdida de Adler, la amiga de
 *Freddie, cuya trágica muerte seguía resonando silenciosamente en el grupo.)
 
 *Tocaba recoger la basura aleatoria,* de un solsticio sólo condicionado.* Volver

@@ -1,5 +1,5 @@
 +++
-title = "Capítulo 8: El Despertar Londinense y un Amor Capturado en Instantáneas"
+title = "Capítulo 8: El Despertar Londinense" 
 weight = 8
 +++
 
