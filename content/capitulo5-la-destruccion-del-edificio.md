@@ -1,5 +1,5 @@
 +++
-title = "Capítulo 5: La Destrucción del Edificio (y Otras Demoliciones)"
+title = "Capítulo 5: La Destrucción del Edificio" 
 weight = 5
 +++
 
