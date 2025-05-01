@@ -6,7 +6,7 @@ weight = 8
 
 El invierno de segundo de Bachillerato llevaba consigo el peso de la rutina, una sensación de días grises que se repetían antes del gran salto final. Kirlian sentía esa inquietud, ese anhelo difuso por algo que rompiera el molde. Y ese algo llegó con el viaje a Londres, organizado por el instituto con Machado al frente. Fue Alice, con su espíritu inquieto y su cámara siempre colgando del cuello, quien convirtió la excursión escolar en una promesa de aventura. Ir a Londres con ella era escapar, respirar otro aire.
 
-Y Londres cumplió. Desde el primer momento, la ciudad los envolvió con su energía caótica y su anonimato liberador. Kirlian sintió cómo se desprendía de la piel vieja. ¡Había vida más allá de su ciudad, más allá de España! ¡Había otras formas de ser, otras historias, otras luces! Este pensamiento lo electrizó, contagiado por el entusiasmo contagioso de Alice.
+Y Londres cumplió. Desde el primer momento, la ciudad los envolvió con su energía caótica y su anonimato liberador. Kirlian sintió cómo se desprendía de la piel vieja. ¡Había vida más allá de su ciudad, más allá de España! ¡Había otras formas de ser, otras historias, otras luces! Este pensamiento lo electrizó, contagiado por el entusiasmo de Alice.
 
 Ella se movía fascinada, capturando cada instante con su cámara, y Kirlian se dejó llevar por su corriente, viendo la ciudad a través de su lente curiosa. Su historia londinense se tejió así, entre la libertad recién descubierta y la exploración compartida. Se perdieron juntos en los mercados callejeros, maravillándose ante la diversidad cultural y estética.
 
