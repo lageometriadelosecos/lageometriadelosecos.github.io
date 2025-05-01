@@ -3,12 +3,12 @@ title = "Capítulo 9: La Llama Londinense y La Invasión de la Rutina"
 weight = 9
 +++
 
-El regreso de Londres en febrero de 2017 no fue un aterrizaje, fue la
-importación de un incendio. La energía caótica y liberadora de la ciudad, la
-complicidad aventurera con Alice, la revelación de que existían mundos y
-posibilidades más allá de los límites conocidos… todo aquello no se quedó en la
-niebla del Támesis. Volvió con Kirlian, vibrando bajo su piel, transformando su
-percepción de la rutina académica que lo esperaba.
+El regreso de Londres en fue un aterrizaje, fue la importación de un incendio.
+La energía caótica y liberadora de la ciudad, la complicidad aventurera con
+Alice, la revelación de que existían mundos y posibilidades más allá de los
+límites conocidos… todo aquello no se quedó en la niebla del Támesis. Volvió con
+Kirlian, vibrando bajo su piel, transformando su percepción de la rutina
+académica que lo esperaba.
 
 Ya no veía el instituto y el conservatorio como una "jaula" opresiva de la que
 escapar los Viernes. Ahora los veía como un paisaje conocido pero extrañamente

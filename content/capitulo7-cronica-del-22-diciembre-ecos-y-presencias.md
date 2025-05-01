@@ -10,13 +10,13 @@ Olimpiadas matemáticas se disolvió al encontrar a Kubrick; el intercambio ritu
 tuvo lugar: la ficha, el libro de Python, torpes consejos sobre un lenguaje
 nuevo. Una responsabilidad casi olvidada, la de guiar.
 
-La vuelta a clase fue un aterrizaje en la rutina. Ben Hurtado y Fran en la
+La vuelta a clase fue un aterrizaje en la rutina. Ben Hurtado y Frank en la
 pizarra, enredados en sus propios laberintos matemáticos. El aire cargado con el
 reproche implícito de Ben por la ausencia matutina de Kirlian rebotó contra la
 apatía general. Las notas de Dibujo Técnico, un inesperado pleno, fueron un
 amuleto guardado en el bolsillo, un destello fugaz en la grisura.
 
-Luego, el café obligatorio en el 2006. Kubrick, Ben Hurtado, Fran y Kirlian. El
+Luego, el café obligatorio en el 2006. Kubrick, Ben Hurtado, Frank y Kirlian. El
 batido de chocolate como único consuelo tangible ante la decepción colectiva por
 alguna nota de Física. Kirlian se sentía a la deriva, desconectando de las
 conversaciones cíclicas, del análisis de interacciones ajenas que le resultaban
@@ -30,7 +30,7 @@ refugió en la observación, sintiéndose extrañamente cómodo en la incomodida
 silencio ajeno, en la necesidad palpable de los otros por llenar el aire con
 palabras. *Divertissement*, pensó fugazmente. *Souci de la distance*.
 
-La comida acabó. Acompañaron a Fran a la estación, ese portal recurrente hacia
+La comida acabó. Acompañaron a Frank a la estación, ese portal recurrente hacia
 otros lugares, otras vidas. Y al volver, el azar reconfiguró la tarde.
 Circulando de nuevo por la órbita conocida del 2006, las voces desde una
 ventana: Alice, Kate, Erika Durán. Ben Hurtado y Kubrick cambiaron de rumbo al
