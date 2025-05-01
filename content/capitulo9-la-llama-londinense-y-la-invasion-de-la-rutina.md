@@ -68,6 +68,6 @@ londinense.
 Este Kirlian inspirado y libre era, sin embargo, más vulnerable a las
 fluctuaciones. La intensidad tenía un coste. Había días de euforia creativa y
 otros de agotamiento profundo. La línea entre la libertad inspirada y el caos
-improductivo era fina. La noche transgresora en el hostal londinense, aunque
+improductivo era fina. La noche transgresora en el hotel londinense, aunque
 quizás no analizada con la frialdad posterior, dejó una huella, una semilla de
 complejidad que añadiría sombras a esa aparente liberación total.
