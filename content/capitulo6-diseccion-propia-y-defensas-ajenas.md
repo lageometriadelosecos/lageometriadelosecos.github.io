@@ -66,7 +66,7 @@ Se justificó a sí mismo con frialdad: sus propios problemas eran prioritarios,
 ella misma había construido su "edificio estoico", él no era su terapeuta. Pero
 la justificación sonaba hueca. La verdad era que se sentía más cómodo en la
 distancia segura de la disección intelectual, ya fuera de Proust o de los
-mensajes de Alice, que en la messy e impredecible arena de la emoción real y la
+mensajes de Alice, que en la desordenada e impredecible arena de la emoción real y la
 conexión humana. Respondió con frases calculadas, manteniendo la distancia,
 protegiendo su frágil fortaleza interior de cualquier asalto emocional externo.
 El mejor consuelo, se repitió, es el propio. Aunque sospechaba que ni él mismo
