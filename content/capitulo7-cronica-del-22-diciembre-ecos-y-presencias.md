@@ -1,5 +1,5 @@
 +++
-title = "Capítulo 7.: Crónica del 22 de Diciembre - Ecos y Presenciass" 
+title = "Capítulo 7: Diciembre - Ecos y Presencias" 
 weight = 7
 +++
 
