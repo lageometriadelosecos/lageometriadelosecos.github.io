@@ -92,7 +92,7 @@ Entonces, la primera interacción que rompió el flujo predecible. Freddie se
 inclinó hacia él, un gesto rápido, irónico quizás. Sintió el contacto fugaz de
 sus labios. Sorpresa. La mente de Kirlian buscó instintivamente el viejo escudo
 verbal: *«Solo son átomos»*. Reducir, neutralizar. Miró a Alice. Ella lo miraba
-fijamente, sus ojos oscuros, insondables. Esa mirada anuló el mantra.
+fijamente, sus ojos azules, insondables. Esa mirada anuló el mantra.
 
 Y antes de que pudiera recalibrar, Alice se movió. Se acercó, silenciosa,
 decidida. Demasiado cerca. Demasiado rápido. Kirlian sintió el aire cargarse de
