@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 30: La Realidad Física de Sandy"
 weight = 30
-status = "draft"
+hidden = true
 +++
 
 El calor de julio en Almería apretaba fuera, pero dentro del piso de Kirlian, el
@@ -103,7 +103,6 @@ Sandy suspiró. "Ya. Ni tú ni yo sabemos qué es esto". Se giró para mirarlo.
 "Pero me gusta".
 
 Kirlian asintió, porque a él también le gustaba, aunque la confusión y las otras
-personas (Erika, Miko, Marzi, Senra...) siempre parecieran estar esperando justo
-fuera de la puerta. Por ahora, sin embargo, en la penumbra fresca de su
-habitación, solo estaban ellos dos. Y por ese momento, era
-suficiente.
+personas siempre parecieran estar esperando justo fuera de la puerta. Por ahora,
+sin embargo, en la penumbra fresca de su habitación, solo estaban ellos dos. Y
+por ese momento, era suficiente.
