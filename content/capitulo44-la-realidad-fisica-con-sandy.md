@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 30: La Realidad Física de Sandy"
 weight = 30
-hidden = true
+draft = true
 +++
 
 El calor de julio en Almería apretaba fuera, pero dentro del piso de Kirlian, el
