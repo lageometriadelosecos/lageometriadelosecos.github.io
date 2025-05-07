@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 27: Debuggeando la Realidad"
-weight = 27
+title = "Capítulo 42: Debuggeando la Realidad"
+weight = 42
 draft = true
 +++
 

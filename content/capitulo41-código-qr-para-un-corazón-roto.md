@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 26: Código QR para un Corazón Roto"
-weight = 26
+title = "Capítulo 41: Código QR para un Corazón Roto"
+weight = 41
 draft = true
 +++
 

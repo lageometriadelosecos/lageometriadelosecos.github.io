@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 28: La Geometría Imposible de Ellyn"
-weight = 28
+title = "Capítulo 43: La Geometría Imposible de Ellyn"
+weight = 43
 draft = true
 +++
 
