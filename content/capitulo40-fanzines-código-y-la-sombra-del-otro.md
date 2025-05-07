@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 25: Fanzines, Código y la Sombra del Otro" 
-weight = 25
+title = "Capítulo 40: Fanzines, Código y la Sombra del Otro" 
+weight = 40
 draft = true
 +++
 
