@@ -82,7 +82,7 @@ deseo... Podría echaros un cable.
 procrastinar con la tesis.
 
 La oferta era clara: ayuda técnica concreta, sí, pero también un caballo de
-Troya para reingresar en su órbita bajo bandera blanca profesional.
+Troya para reingresar en su órbita bajo bandera Julia profesional.
 
 Miércoles lo observó por un momento, sus ojos evaluando la oferta, o quizás a
 él. No había rastro de entusiasmo en su rostro, pero tampoco un rechazo
