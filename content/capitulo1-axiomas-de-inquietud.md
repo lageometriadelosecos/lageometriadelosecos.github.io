@@ -42,7 +42,7 @@ todo filtrándose, dejando atrás solo esta angustia roedora, una constante
 matemática irracional en la ecuación de su ser.
 
 Cogito ergo sum, había proclamado Descartes. Pienso, luego existo. Kirlian
-resopló para sus adentros, una risa amarga y sin sonido. Dudo, luego estoy
+resopló para sus adentros,amarga y sin sonido. Dudo, luego estoy
 paralizado. Eso parecía más cercano a su verdad. Su mente, entrenada en la
 lógica rigurosa de las matemáticas y la sintaxis precisa del código, giraba
 interminablemente sobre sí misma, una serpiente que se muerde la cola. El Doble

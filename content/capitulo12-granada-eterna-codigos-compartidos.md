@@ -32,8 +32,6 @@ caos sistémico. ¿Tu jornada ha sido semánticamente productiva?
 
 Y ella devolvía la pelota, a menudo con un suspiro virtual o un emoji juguetón,
 traduciendo su propio estrés académico o vital a un lenguaje menos cifrado.
-Relataba sueños extraños –su madre y su abuela convertidas en espías de opereta
-persiguiéndolos por la rambla, una confusión onírica con su primo Mateo– que
 Kirlian recibía con una mezcla de perplejidad y un distante interés analítico.
 Él ofrecía interpretaciones simbólicas o recordatorios sobre la naturaleza no
 lineal de la psique nocturna, siempre manteniendo una barrera invisible.
