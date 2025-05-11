@@ -3,7 +3,7 @@ title = "Capítulo 16: Remontada Granadina y Nuevos Códigos"
 weight = 16
 +++
 
-La primavera llegó a Granada y Kirlian sintió un deshielo interno. El invierno anterior, con su crisis y sus suspensos, había dejado una marca, pero el aprobado agónico en Cálculo II y la supervivencia general le dieron un nuevo punto de partida. Afrontó el segundo cuatrimestre con una energía más serena y una perspectiva más pragmática.
+La primavera llegó a Granada y Kirlian sintió un deshielo interno. El invierno anterior, con su crisis y sus suspensos, había dejado una marca, pero el aprobado agónico en Cálculo I y la supervivencia general le dieron un nuevo punto de partida. Afrontó el segundo cuatrimestre con una energía más serena y una perspectiva más pragmática.
 
 Las nuevas asignaturas ofrecieron terreno fértil. Geometría II parecía más navegable. Métodos Numéricos I, con M.R., fue una grata sorpresa por su claridad. Incluso Estructuras de Datos (ED), aunque desafiante, conectaba con su núcleo programador. Tecnología y Organización de Computadores (TOC) y Estadística Descriptiva e Introducción a la Probabilidad (EDIP) completaban un semestre exigente, pero que Kirlian sentía más a su alcance.
 
