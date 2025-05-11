@@ -9,7 +9,7 @@ Diciembre de 2018 avanzaba, arrastrando consigo la pesada carga de un cuatrimest
 *Primer día de estudio de los exámenes. Ayer me quedé frito... Me preocupo por si debería ofrecer mi residencia como lugar de estudio... Ordenar mi habitación al completo (algo que debería hacer independientemente de si alguien viene o no).*”
 La simple idea de preparar los exámenes parecía una montaña insuperable. Su habitación, un reflejo de su estado mental, era un caos de apuntes dispersos y tazas de café olvidadas. La soledad de la residencia, que antes buscaba como refugio para su intelecto, ahora se sentía opresiva, un vacío que magnificaba su sensación de fracaso.
 
-Las "caídas tentacionales" habían sido constantes: faltas a clase que no se traducían en estudio productivo, sino en horas perdidas en la espiral de internet o en la rumiación de sus dilemas. La "lianta intensita" –probablemente una referencia velada a alguna interacción frustrante o idealizada con Violeta– y las crisis con Alice, aquel "contrato explícito" que se sentía cada vez más ambiguo y doloroso, habían minado su energía vital.
+Las "caídas tentacionales" habían sido constantes: faltas a clase que no se traducían en estudio productivo, sino en horas perdidas en la espiral de internet o en la rumiación de sus dilemas. La "lianta intensita" –probablemente una referencia velada a alguna interacción frustrante o idealizada con Velouria– y las crisis con Alice, aquel "contrato explícito" que se sentía cada vez más ambiguo y doloroso, habían minado su energía vital.
 
 El aislamiento autoimpuesto, nacido del miedo a no encajar, a no ser suficiente, se había vuelto una profecía autocumplida. Se sentía desconectado, invisible incluso para sí mismo.
 
