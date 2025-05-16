@@ -1,5 +1,5 @@
 +++
-Capítulo 19: Disonancia del Deseo**
+title = "Capítulo 19: Disonancia del Deseo"
 weight = 19
 +++
 
