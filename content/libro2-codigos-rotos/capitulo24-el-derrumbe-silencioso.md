@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 24: El Derrumbe Silencioso"
 weight = 24
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 Diciembre de 2018 avanzaba, arrastrando consigo la pesada carga de un cuatrimestre que se había desmoronado silenciosamente. Kirlian, que había iniciado el semestre con una organización y actitud casi heroicas, se encontraba ahora atrapado en el círculo vicioso de la procastinación, la desmotivación y una creciente ansiedad. Las clases de Álgebra y Topología se habían vuelto un murmullo incomprensible, reflejo del ruido interno que ahogaba cualquier intento de concentración.

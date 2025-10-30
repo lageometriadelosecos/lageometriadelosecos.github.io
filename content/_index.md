@@ -13,7 +13,7 @@ Esta es la historia de Kirlian, una novela juvenil-filosófica que ha sido reest
 La novela está dividida en tres libros que forman un arco completo de desarrollo humano:
 
 - **[Libro 1: El Viernes Interior](/novela/libro1-viernes-interior/)** - La búsqueda del reflejo
-- **[Libro 2: Códigos Rotos](/novela/libro2-granada-eterna-codigos-rotos/)** - La deconstrucción necesaria  
+- **[Libro 2: Códigos Rotos](/novela/libro2--codigos-rotos/)** - La deconstrucción necesaria  
 - **[Libro 3: La Búsqueda de un Timón](/novela/libro3-busqueda-timon/)** - La reconstrucción
 
 ---

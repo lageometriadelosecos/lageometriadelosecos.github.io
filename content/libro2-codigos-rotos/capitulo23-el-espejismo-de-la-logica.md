@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 23: El Espejismo de la Lógica"
 weight = 23
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El otoño en Granada se había teñido de una crudeza inesperada, no por el clima, que seguía su curso con la melancolía predecible de noviembre, sino por la implosión emocional que Kirlian arrastraba desde el regreso de Alice de su viaje. Las palabras de ella, aquellas dagas verbales sobre "follar varias veces", sobre sentirse "más viva que nunca", sobre el abismo de "dejarlo todo y quedarse allí", habían demolido el precario edificio de certezas que Kirlian creía haber construido en su relación.

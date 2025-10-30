@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 16: Nuevos Códigos"
 weight = 16
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 La primavera llegó a Granada y Kirlian sintió un deshielo interno. El invierno anterior, con su crisis y sus suspensos, había dejado una marca, pero el aprobado agónico en Cálculo I y la supervivencia general le dieron un nuevo punto de partida. Afrontó el segundo cuatrimestre con una energía más serena y una perspectiva más pragmática.

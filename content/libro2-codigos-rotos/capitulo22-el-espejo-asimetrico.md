@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 22: El Espejo Asimétrico"
 weight = 22
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 La resaca de la noche con Velouria no fue etílica, sino existencial. Kirlian se encontró, en los días siguientes, con la melodía agridulce de "Perdiendo el Tiempo" de Napoleón Solo adherida a su corteza cerebral como un bucle persistente. Cada nota parecía subrayar la ironía de su propia inacción, la parálisis ante la posibilidad. La cena, la conversación estimulante, la conexión intelectual con Velouria... todo se había quedado en eso. No hubo un impulso superador, ninguna transgresión de los límites autoimpuestos. Y él sabía, con una claridad que le quemaba, por qué.

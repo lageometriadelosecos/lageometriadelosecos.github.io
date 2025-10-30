@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 20: El Colapso de un Prejuicio"
 weight = 20
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El otoño granadino seguía su curso implacable, y las salas de estudio, con su luz fluorescente y el murmullo constante de páginas pasando, se habían convertido en el crisol donde se forjaba (o se deshacía) la supervivencia en el Doble Grado. Kirlian, Julia y Payton formaban un núcleo casi constante, una trinidad unida por el espanto compartido ante la abstracción de Análisis, la rigidez de Álgebra y los abismos conceptuales de Topología I.

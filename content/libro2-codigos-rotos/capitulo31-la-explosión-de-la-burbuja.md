@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 30: La Explosión de la Burbuja y el Veneno Familiar"
 weight = 30
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El eco final de "Reproches", escupido con la furia justa de Ayax y Prok, se disolvió en el aire viciado de mi habitación granadina, dejando un silencio preñado, el tipo de quietud que antecede al cataclismo. Alice se había marchado, y con ella, se desmoronó el intrincado andamiaje de ensueños que había apuntalado mi tardía adolescencia. Granada, sin su presencia, se desplegaba ante mí como un mapa de melancolías, cada esquina susurrando el fantasma de su risa, cada sombra proyectando la silueta de su ausencia. La caja que me había regalado, aquel pequeño panteón donde nuestro amor yacía embalsamado en instantáneas, dormía su sueño eterno en el último cajón de mi escritorio. Era un relicario y una condena, un lugar sagrado al que peregrinaba en sueños febriles, pero cuyo umbral, en la cruda luz de la vigilia, me había jurado no profanar. **No la abriría más. No me enfrentaría de nuevo a su recuerdo.** Un mantra quebradizo, repetido noche tras noche contra la marea de una nostalgia que amenazaba con anegarlo todo.

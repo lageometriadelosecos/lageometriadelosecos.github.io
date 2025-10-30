@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 28: El Eco del Estoicismo"
 weight = 28
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El otoño seguía su curso en Granada, y aunque la conversación con Marla había supuesto un ancla de lucidez, Kirlian aún navegaba aguas turbulentas. La ausencia de Alice era una constante, y la necesidad de procesar, de externalizar el torbellino interno, lo llevó a buscar a sus amigos más cercanos del Doble Grado: Payton y Ragnar.

@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 17: El Código Reescrito"
 weight = 17
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 La primavera se filtró en Granada no como una explosión repentina, sino como un deshielo lento y persistente que fue disolviendo la rigidez del invierno académico y emocional de Kirlian. Aquella crisis que lo había dejado varado en la duda y el fracaso parecía ahora un recuerdo lejano, una tormenta pasada cuya resaca, sin embargo, había dejado la orilla limpia y lista para una nueva marea. El segundo cuatrimestre trajo consigo una calma inesperada, una sensación de que las piezas, por fin, comenzaban a encajar.
