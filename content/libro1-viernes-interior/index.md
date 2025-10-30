@@ -45,7 +45,7 @@ El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada cone
 
 ## 🔗 Navegación
 
-**[← Volver a la Trilogía](../)** | **[Siguiente Libro →](../libro2-granada-eterna-codigos-rotos/)**
+**[← Volver a la Trilogía](../)** | **[Siguiente Libro →](../libro2-codigos-rotos/)**
 
 ---
 

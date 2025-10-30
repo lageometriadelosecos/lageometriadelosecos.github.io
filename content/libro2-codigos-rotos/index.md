@@ -19,7 +19,7 @@ El libro del aprendizaje profundo, donde cada caída enseña, cada crisis es una
 
 ## 📚 Capítulos
 
-- [Capítulo 12: Granada Eterna, Códigos Compartidos](capitulo12-granada-eterna-codigos-compartidos/)
+- [Capítulo 12: Granada Eterna, Códigos Compartidos](capitulo12--codigos-compartidos/)
 - [Capítulo 13: La Órbita del Ruido](capitulo13-la-orbita-del-ruido/)
 - [Capítulo 14: Códigos Rotos](capitulo14-codigos-rotos/)
 - [Capítulo 15: La Traición del Sueño](capitulo15-la-traicion-del-sueño/)

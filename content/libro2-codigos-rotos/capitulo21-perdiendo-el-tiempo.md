@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 21: Perdiendo el Tiempo"
 weight = 21
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 La cena con Velouria en aquel pequeño restaurante de ramen había comenzado con una fluidez inesperada. Hablaron de la hipótesis del continuo, de música, de la vida en Granada. Kirlian se atrevió a mencionar a Erika Durán, la intensidad de sus debates filosóficos adolescentes. Velouria escuchaba con esa atención suya que parecía desentrañar significados ocultos.

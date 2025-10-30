@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 32: El Coro de los Rotos y la Responsabilidad de Nash"
 weight = 31
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El blanco. Mathaussen era un universo de un blanco que gritaba silencio, que absorbía el alma. La sensación punzante de irrealidad era un nudo constante en mi garganta. *Esto no puede estar pasando. Yo no debía estar aquí.* Era Kirlian, el que leía a Proust entre cafés filosóficos, el que exploraba la gnosis con la osadía del neófito. No este despojo tembloroso, este guiñapo de ser humano. Pero los hechos, tozudos como carceleros, me encadenaban a esta nueva y aterradora normalidad: los barrotes discretos en las ventanas, las puertas que siempre se cerraban con un chasquido metálico, los rostros vacíos de los otros náufragos de la cordura.

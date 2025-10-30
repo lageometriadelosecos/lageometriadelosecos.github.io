@@ -8,7 +8,7 @@ Kirlian se acomodó contra la pared, sintiendo el frío del cemento a través de
 
 "Otra semana digerida por el sistema, Erika," murmuró, mirando hacia el cielo estrellado. "Otro ciclo de inercias predecibles. Pero aquí, en Viernes... aquí es distinto, ¿verdad? Aquí es donde buscamos... bueno, La Verdad. Con mayúsculas."
 
-Erika alzó la vista con intensidad, sus ojos reflejando la luz tenue de las farolas. "La Verdad... ¿existe tal cosa, Kirlian? ¿O es sólo otra construcción, como las notas, como lo que Rob cree que debería ser?" Una pausa, mientras las palabras se posaban entre ellos como mariposas nocturnas. "A veces pienso que los Sofistas tenían razón. Todo es relativo, todo es una perspectiva. ¿Qué es 'bueno' sino lo que nos conviene en el momento?"
+Erika alzó la vista con intensidad, sus ojos reflejando la luz tenue de las farolas. "La Verdad... ¿existe tal cosa, Kirlian? ¿O es sólo otra construcción, como lo que Rob cree que debería ser?" Una pausa, mientras las palabras se posaban entre ellos como mariposas nocturnas. "A veces pienso que los Sofistas tenían razón. Todo es relativo, todo es una perspectiva. ¿Qué es 'bueno' sino lo que nos conviene en el momento?"
 
 Kirlian asintió lentamente, sintiendo el peso de la reflexión. "El Intelectualismo Moral Socrático diría que basta conocer el Bien para hacerlo. Que la virtud es conocimiento. Pero Platón ya vio que no era tan simple." Sus manos gesticularon en el aire, dibujando conceptos invisibles. "El alma tripartita... ¿recuerdas? El auriga, la razón, intentando dominar al caballo blanco del espíritu y al negro del apetito. Nuestra lucha interna."
 

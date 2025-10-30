@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 12: Códigos Compartidos"
 weight = 12
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2-codigos-rotos"]
 +++
 
 El invierno académico, con sus rigores y sus sombras introspectivas, cedía

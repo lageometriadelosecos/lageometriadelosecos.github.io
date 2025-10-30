@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 29: La Catarsis Sónica"
 weight = 29
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El retiro autoimpuesto, aconsejado por Ragnar y Marla, llevó a Kirlian a sumergirse en su propio universo sonoro, el único lugar donde sentía algo de control. La música, siempre fiel, se volvió el motor de una catarsis y, con el tiempo, de un extraño renacimiento. Las letras, antes flotando sobre melodías, ahora eran dardos certeros que daban voz a su caos interno.

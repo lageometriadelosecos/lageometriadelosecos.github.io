@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 32: La Fuga de Ra"
 weight = 31
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El odio fue el combustible de la huida. Ciego, el corazón un tambor desbocado en el pecho, corrí hacia la playa, buscando el rastro de un pasado que se negaba a morir. **RA.** Nuestras iniciales, grabadas a compás en la piedra erosionada por el tiempo y la sal, un jeroglífico de un pacto traicionado. El mar rugía, cómplice de mi desesperación. Tropecé con unas caravanas, varadas como cetáceos en la arena. Y de una de ellas, como un señuelo del destino. Salté por la ventana. Un ladrón sagrado. Había violado el código, cruzado el umbral hacia lo prohibido. La transgresión, por un instante, me embriagó con su falso sabor a libertad.

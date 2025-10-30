@@ -15,7 +15,7 @@ Esta trilogía ha sido reorganizada en tres libros independientes que cuentan la
 - **Tema:** La búsqueda de la conexión y la identidad a través de la amistad y el idealismo
 - **Arco:** De buscar validación intelectual única a abrirse a conexión completa y terrenal
 
-### 📖 **[Libro 2: Códigos Rotos](libro2-granada-eterna-codigos-rotos/)**
+### 📖 **[Libro 2: Códigos Rotos](libro2--codigos-rotos/)**
 *La Deconstrucción Necesaria*
 
 - **Capítulos:** 12-33
@@ -46,10 +46,10 @@ libro1-viernes-interior/
 │   └── capitulo1-axiomas-de-inquietud.md
 └── ... (resto de capítulos 2-11)
 
-libro2-granada-eterna-codigos-rotos/
+libro2-codigos-rotos/
 ├── index.md
-├── capitulo12-granada-eterna-codigos-compartidos/
-│   └── capitulo12-granada-eterna-codigos-compartidos.md
+├── capitulo12-codigos-compartidos/
+│   └── capitulo12-codigos-compartidos.md
 └── ... (resto de capítulos 13-33)
 
 libro3-busqueda-timon/

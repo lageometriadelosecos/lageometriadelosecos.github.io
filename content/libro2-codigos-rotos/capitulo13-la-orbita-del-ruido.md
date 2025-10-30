@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 13: La Órbita del Ruido"
 weight = 13
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El aire de Granada en septiembre era una promesa eléctrica. Kirlian llegó a la residencia Fray Leopoldo con la resaca dulce del verano post-Bandas, la intimidad con Alice aún vibrando. Pero la realidad universitaria se impuso rápido. Granada Eterna se desplegaba como un laberinto nuevo.
