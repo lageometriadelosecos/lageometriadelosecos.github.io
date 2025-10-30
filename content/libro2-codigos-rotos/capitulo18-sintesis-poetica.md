@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 18: Síntesis Poética"
 weight = 18
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 La primavera granadina avanzaba hacia su fin, trayendo consigo el eco de los

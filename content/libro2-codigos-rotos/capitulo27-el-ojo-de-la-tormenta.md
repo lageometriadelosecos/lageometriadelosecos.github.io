@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 27: El Ojo de la Tormenta"
 weight = 27
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 La desinstalación de Instagram, aquel gesto desesperado de cortar el cordón umbilical digital con la vida de Alice, había sido una medida drástica pero, a la larga, insuficiente. El vacío persistía, alimentado por los sueños donde ella aún lo quería, por la música que se había convertido en un eco constante de su ausencia. Kirlian se sentía a la deriva, incapaz de anclarse en el presente académico, los apuntes de Modelos de Computación acumulándose sin ser tocados, la ansiedad creciendo como una marea oscura.

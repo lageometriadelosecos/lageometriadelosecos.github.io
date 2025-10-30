@@ -2,7 +2,7 @@
 +++
 title = "Capítulo 14: Códigos Rotos"
 weight = 14
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El caos inicial de septiembre dio paso a un otoño granadino que rápidamente reveló la verdadera naturaleza del desafío universitario. Kirlian, aferrado a la órbita compartida con Alice e Índigo como salvavidas social, se encontró luchando contra una corriente académica mucho más fuerte y fría de lo anticipado. La escenario de su nueva independencia, empezó a sentirse también como el escenario de una creciente fractura interna y relacional.

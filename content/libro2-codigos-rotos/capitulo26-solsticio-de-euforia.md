@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 26: Solsticio de Euforia"
 weight = 26
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 El verano de 2019 se desplegó con la intensidad de un solsticio, una explosión de experiencias compartidas con Alice que parecían desafiar la inminente separación de su Erasmus. La sombra del "limbo histórico" aún no se había cernido; en su lugar, vivieron una especie de prórroga febril, un intento quizás inconsciente de condensar toda una vida de relación en unas pocas semanas.

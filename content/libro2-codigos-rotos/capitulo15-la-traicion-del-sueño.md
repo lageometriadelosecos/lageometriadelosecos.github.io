@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 15: La Traición del Sueño"
 weight = 15
-novela = ["libro2-granada-eterna-codigos-rotos"]
+novela = ["libro2--codigos-rotos"]
 +++
 
 La debacle de los parciales de noviembre –el suspenso en Geometría, el abandono de FFT, el aprobado raspado en Cálculo– abrió una brecha en la coraza de Kirlian. No fue solo un fracaso académico; fue la constatación dolorosa de que su sueño adolescente, aquel forjado a los doce años con PHP5 y alimentado por la filosofía GNU/Linux en su Asus con Linux Mint, no encajaba limpiamente en la realidad exigente del Doble Grado.
