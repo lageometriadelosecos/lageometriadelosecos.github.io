@@ -1,0 +1,19 @@
+# Archivos de configuración y credenciales
+token
+credenciales.json
+
+# Directorios de salida de audio
+audio_libro1/
+etica/
+
+# Archivos específicos de la novela que pueden ser generados o no son parte del control de versiones
+novela/cuerpo_novela.pdf
+novela/El Evangelio del Matemático Ateo (versión final).pdf
+novela/El Evangelio del Matemático Ateo.pdf
+novela/novela_maquetada.md
+novela/portada.pdf
+
+# Archivos temporales o de sistema
+.DS_Store
+*.tmp
+*.log
