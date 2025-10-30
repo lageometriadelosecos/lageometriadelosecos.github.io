@@ -2,6 +2,8 @@
 
 This file provides guidance to WARP (warp.dev) when working with code in this repository.
 
+
+
 ## Project Overview
 
 "Geometría de los Ecos" is a philosophical trilogy about Kirlian's journey of growth and self-discovery. The project combines a Zola-based static website for publishing the novel with Python scripts for text-to-speech audio generation using Google Cloud TTS.
