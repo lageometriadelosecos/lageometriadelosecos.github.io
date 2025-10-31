@@ -78,7 +78,7 @@
 **PROPOSICIONES**
 
 **Proposición I:** La Libertad se alcanza a través de la Síntesis.
-*Demostración:* El "Ric analítico" (pura M3) y el "espíritu romántico" (pura M2) son, por separado, formas de Esclavitud. Uno se ahoga en la lógica fría y deshumanizada; el otro, en la pasión ciega. La Libertad solo es posible cuando el Individuo deja de oscilar entre ambos y los integra, cuando la Razón ilumina la Emoción y la Emoción da fuerza a la Razón.
+*Demostración:* El "Kirlian analítico" (pura M3) y el "espíritu romántico" (pura M2) son, por separado, formas de Esclavitud. Uno se ahoga en la lógica fría y deshumanizada; el otro, en la pasión ciega. La Libertad solo es posible cuando el Individuo deja de oscilar entre ambos y los integra, cuando la Razón ilumina la Emoción y la Emoción da fuerza a la Razón.
 
 **Proposición II:** La Empatía ("Autrui") es un acto de Libertad.
 *Demostración:* El individualismo radical ("ultraindividualismo") es una Esclavitud, pues reduce la Realidad a la propia subjetividad (M2), ignorando la existencia real del Otro. La Empatía es el reconocimiento del Otro como un centro de Realidad tan válido como el propio. Este acto expande el Entendimiento y, por tanto, la Potencia del Individuo. *("Empatizar, Reír, Sentir, Fallar es lo que nos humaniza").*
