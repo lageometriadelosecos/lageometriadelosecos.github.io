@@ -148,7 +148,7 @@ Interludio con Celia (Shayla): Un Romance Efímero y sus Secuelas (Primavera 202
 
 Capítulo 31.1: Keine Sorgen y Fideos Infinitos (Abril 2022)
 
-Descripción: Kirlian (Ric) y Celia inician contacto. Primeros mensajes, el humor con el alemán ("keine Sorgen"). Su primera cita, los "fideos transparentes infinitos", la conexión con el gato Boro. Celia pregunta a Elena Merelo por Kirlian. Se establece una dinámica de coqueteo y humor.
+Descripción: Kirlian (Kirlian) y Celia inician contacto. Primeros mensajes, el humor con el alemán ("keine Sorgen"). Su primera cita, los "fideos transparentes infinitos", la conexión con el gato Boro. Celia pregunta a Elena Merelo por Kirlian. Se establece una dinámica de coqueteo y humor.
 
 Capítulo 31.2: Boro Tecnológico y Excursionistas Secuestradas (Abril 2022)
 
@@ -178,7 +178,7 @@ Arco de Sandy (Carmen): Un Romance Intenso y Complicado (Primavera 2024 - Princi
 
 Capítulo 31.8: Novedades Sandy: Intercambio de Idiomas y Tensión Creciente (Abril - Mayo 2024)
 
-Descripción: Kirlian (Ric) y Sandy (Carmen) inician contacto a través de un intercambio de idiomas. Primeros mensajes, el humor, y una atracción palpable. Se reencuentran tras un tiempo sin verse (referencia a 2016). Se establecen las bases de una conexión cargada de tensión sexual y confidencias.
+Descripción: Kirlian (Kirlian) y Sandy (Carmen) inician contacto a través de un intercambio de idiomas. Primeros mensajes, el humor, y una atracción palpable. Se reencuentran tras un tiempo sin verse (referencia a 2016). Se establecen las bases de una conexión cargada de tensión sexual y confidencias.
 
 Capítulo 31.9: "Quiero que me folles" y el Comienzo de la Intimidad (Mayo 2024)
 
@@ -196,7 +196,7 @@ Capítulo 32.2: La Amistad Cuestionada y los Celos (Agosto - Septiembre 2024)
 
 Descripción: Surgen tensiones. Carmen/Sandy expresa sus celos y su deseo de una relación más definida ("quiero que me llames novia"). Kirlian lucha con sus sentimientos y su miedo al compromiso. La conversación sobre "ser amigos" y la dificultad de mantener límites claros.
 
-Capítulo 32.3: El Cumpleaños de Ric y la Propuesta de "No Novios" (Diciembre 2024 - Enero 2025)
+Capítulo 32.3: El Cumpleaños de Kirlian y la Propuesta de "No Novios" (Diciembre 2024 - Enero 2025)
 
 Descripción: El cumpleaños de Kirlian. La dinámica de "no novios". Las conversaciones sobre la relación abierta y el futuro. Momentos de vulnerabilidad y confusión por ambas partes.
 
