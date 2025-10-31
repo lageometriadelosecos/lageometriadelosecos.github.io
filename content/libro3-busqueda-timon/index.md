@@ -20,7 +20,7 @@ El libro de la madurez, donde Kirlian se convierte en el arquitecto de su propia
 ## 📚 Capítulos
 
 - [Capítulo 40: Fanzines y Código](capitulo40-fanzines-y-codigo/)
-- [Capítulo 41: Código QR para un Corazón Roto](capitulo41-código-qr-para-un-corazón-roto/)
+- [Capítulo 41: Código QR para un Corazón Roto](capitulo41-codigo-qr-para-un-corazon-roto/)
 - [Capítulo 42: Debuggeando la Realidad con Pelo Naranja](capitulo42-debuggeando-la-realidad-con-pelo-naranja/)
 - [Capítulo 43: La Geometría Imposible de Ellyn](capitulo43-la-geometria-imposible-de-ellyn/)
 

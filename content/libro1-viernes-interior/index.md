@@ -22,7 +22,7 @@ El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada cone
 - [Capítulo 0: Omnihilismo](capitulo0-omnihilismo/)
 - [Capítulo 1: Axiomas de Inquietud](capitulo1-axiomas-de-inquietud/)
 - [Capítulo 2: La Sombra de lo No Dicho](capitulo2-la-sombra-de-lo-no-dicho/)
-- [Capítulo 3: Topologías de la Distancia](capitulo3-topologías-de-la-distancia/)
+- [Capítulo 3: Topologías de la Distancia](capitulo3-topologias-de-la-distancia/)
 - [Capítulo 4: La Vivisección del Tiempo Perdido](capitulo4-la-vivisección-del-tiempo-perdido/)
 - [Capítulo 5: La Destrucción del Edificio](capitulo5-la-destruccion-del-edificio/)
 - [Capítulo 6: Disección Propia y Defensas Ajenas](capitulo6-diseccion-propia-y-defensas-ajenas/)

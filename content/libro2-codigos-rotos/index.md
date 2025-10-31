@@ -19,7 +19,7 @@ El libro del aprendizaje profundo, donde cada caída enseña, cada crisis es una
 
 ## 📚 Capítulos
 
-- [Capítulo 12: Granada Eterna, Códigos Compartidos](capitulo12--codigos-compartidos/)
+- [Capítulo 12: Granada Eterna, Códigos Compartidos](capitulo12-codigos-compartidos/)
 - [Capítulo 13: La Órbita del Ruido](capitulo13-la-orbita-del-ruido/)
 - [Capítulo 14: Códigos Rotos](capitulo14-codigos-rotos/)
 - [Capítulo 15: La Traición del Sueño](capitulo15-la-traicion-del-sueño/)
@@ -36,7 +36,7 @@ El libro del aprendizaje profundo, donde cada caída enseña, cada crisis es una
 - [Capítulo 27: El Ojo de la Tormenta](capitulo27-el-ojo-de-la-tormenta/)
 - [Capítulo 28: El Eco del Estoicismo](capitulo28-el-eco-del-estoicismo/)
 - [Capítulo 29: La Catarsis Sónica y el Renacimiento en Clave de Rap](capitulo29-la-catarsis-sonica-y-el-renacimiento-en-clave-de-rap/)
-- [Capítulo 31: La Explosión de la Burbuja](capitulo31-la-explosión-de-la-burbuja/)
+- [Capítulo 31: La Explosión de la Burbuja](capitulo31-la-explosion-de-la-burbuja/)
 - [Capítulo 32: La Fuga de Ra](capitulo32-la-fuga-de-ra/)
 - [Capítulo 33](capitulo33/)
 
