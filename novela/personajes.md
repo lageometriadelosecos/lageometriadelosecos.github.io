@@ -42,21 +42,16 @@ Esta guía presenta los personajes principales que acompañan a Kirlian en su vi
 - **Estándar intelectual** que Kirlian intenta alcanzar
 - **Símbolo** del idealismo juvenil y la búsqueda de conexión a través del intelecto
 
-**Significado:** Erika representa la primera fase del viaje de Kirlian, donde busca validación a través de conexiones puramente intelectuales.
-
 ### **Freddie**
-*La Chispa del Grupo y el Reflejo de la Inseguridad Colectiva*
+*El Compañero de la Trinidad Alternativa (3 Stars)*
 
-**Función:** Acompaña a Kirlian y Erika en la formación de sus primeros lazos sociales e intelectuales, reflejando la dinámica y las inseguridades juveniles.
+**Función:** Sirve como la tercera rueda en la dinámica entre Kirlian y Erika, facilitando la formación de sus primeros lazos sociales e intelectuales. Su presencia es clave en la construcción de la 'Trinidad Alternativa (3 Stars)', reflejando las complejidades de las amistades juveniles.
 
 **Características:**
 - **Amigo Cercano:** Parte fundamental del primer círculo social de Kirlian.
 - **Participación Activa:** En las conversaciones intelectuales incipientes del grupo.
 - **Espejo de Inseguridades:** A través de sus interacciones, se vislumbran las dinámicas y vulnerabilidades de la adolescencia.
 - **Catalizador Social:** Su presencia ayuda a forjar y definir el grupo "Restos del V. Interior".
-
-**Significado:** Freddie representa la importancia de las primeras amistades y el entorno social en la formación de la identidad de Kirlian, mostrando cómo las interacciones grupales marcan el inicio de su búsqueda de conexión.
-
 
 ### **Alice**
 *La Conexión Terrenal*
