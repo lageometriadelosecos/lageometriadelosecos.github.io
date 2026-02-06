@@ -15,8 +15,8 @@ GOOGLE_APPLICATION_CREDENTIALS_FILE = "credenciales.json"
 # !!! IMPORTANTE: Reemplaza con el ID de tu proyecto de Google Cloud !!!
 GCLOUD_PROJECT_ID = "heroic-bird-459121-h1" # Ej: "heroic-bird-459121-h1"
 
-INPUT_MARKDOWN_FILE = "etica.md"
-OUTPUT_DIR = "etica"
+INPUT_MARKDOWN_FILE = "diario_novela.md"
+OUTPUT_DIR = "diario_novela"
 MAX_TEXT_CHUNK_SIZE = 4800 
 
 VOICE_CONFIG = {
