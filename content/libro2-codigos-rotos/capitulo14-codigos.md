@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 12: Códigos Compartidos"
-weight = 12
+title = "Capítulo 14: Códigos"
+weight = 14
 novela = ["libro2-codigos-rotos"]
 +++
 
@@ -112,7 +112,7 @@ enfermedad.
 El verano asomaba en el horizonte académico, trayendo consigo los exámenes
 finales y la planificación inevitable de San Juan. Las conversaciones se
 volvieron logísticas, mapas mentales de posibles escenarios sociales. ¿Irían los
-leperos? ¿Estaría Demian más con ellos o con Erika Durán? ¿Haría acto de
+leperos? ¿Estaría Demian más con ellos o con Érika Durán? ¿Haría acto de
 presencia Kate? ¿Y Ben Hurtado, el fantasma académico siempre presente en la
 periferia de sus comparaciones internas? Kirlian sentía la vieja ansiedad social
 revoloteando, el temor a los grupos grandes, a las dinámicas impredecibles, a la
@@ -121,7 +121,7 @@ posible irrupción de figuras de un pasado que prefería mantener sellado.
 Alice, por su parte, navegaba esas aguas con una mezcla de estrategia y
 resignación.
 
-–Si viene Kate, me pongo cerca de Livia –planeaba–. Si Demian se va con Erika,
+–Si viene Kate, me pongo cerca de Livia –planeaba–. Si Demian se va con Érika,
 me quedo con los Blanchot.
 
 Era un juego de ajedrez social en el que él se sentía a menudo un peón torpe.

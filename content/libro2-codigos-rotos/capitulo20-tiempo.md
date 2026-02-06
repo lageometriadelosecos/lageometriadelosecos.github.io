@@ -1,10 +1,10 @@
 +++
-title = "Capítulo 21: Perdiendo el Tiempo"
-weight = 21
+title = "Capítulo 20: Tiempo"
+weight = 20
 novela = ["libro2--codigos-rotos"]
 +++
 
-La cena con Velouria en aquel pequeño restaurante de ramen había comenzado con una fluidez inesperada. Hablaron de la hipótesis del continuo, de música, de la vida en Granada. Kirlian se atrevió a mencionar a Erika Durán, la intensidad de sus debates filosóficos adolescentes. Velouria escuchaba con esa atención suya que parecía desentrañar significados ocultos.
+La cena con Velouria en aquel pequeño restaurante de ramen había comenzado con una fluidez inesperada. Hablaron de la hipótesis del continuo, de música, de la vida en Granada. Kirlian se atrevió a mencionar a Érika Durán, la intensidad de sus debates filosóficos adolescentes. Velouria escuchaba con esa atención suya que parecía desentrañar significados ocultos.
 
 Pero a medida que la noche avanzaba y la conversación se volvía más personal, Kirlian sintió crecer una tensión diferente, una intimidación que emanaba de ella, o quizás de su propia proyección. Sus inseguridades, siempre latentes, se activaron. En un intento desesperado por huir de esa atmósfera cargada, por desviar el foco, Kirlian empezó a hablar, con un entusiasmo algo forzado, de la belleza de un amigo suyo. Una huida verbal torpe.
 

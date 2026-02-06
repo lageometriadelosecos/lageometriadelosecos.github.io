@@ -11,26 +11,27 @@ template = "page.html"
 **Tono:** Nostálgico, brillante, juvenil-filosófico  
 **Tema:** La búsqueda de la conexión y la identidad a través de la amistad y el idealismo
 
-El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada conexión es una revelación, y cada momento es una celebración del poder transformador del intelecto y el afecto.
+El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada conexión es una revelación, y cada momento es una celebración del poder transformador del intelecto y el afecto. Se forja aquí la "Época Dorada" y su lenguaje propio: desde el Omnihilismo hasta el código _Ca_, el ahorro de palabras ante la comprensión mutua.
 
-**Arco de Kirlian:** De buscar validación intelectual única (Erika) a abrirse a conexión completa y terrenal (Alice)
+**Arco de Kirlian:** De buscar validación intelectual única (Érika) a abrirse a conexión completa y terrenal (Alice)
 
 ---
 
 ## 📚 Capítulos
 
-- [Capítulo 0: Omnihilismo](capitulo0-omnihilismo/)
-- [Capítulo 1: Axiomas de Inquietud](capitulo1-axiomas-de-inquietud/)
-- [Capítulo 2: La Sombra de lo No Dicho](capitulo2-la-sombra-de-lo-no-dicho/)
-- [Capítulo 3: Topologías de la Distancia](capitulo3-topologias-de-la-distancia/)
-- [Capítulo 4: La Vivisección del Tiempo Perdido](capitulo4-la-vivisección-del-tiempo-perdido/)
-- [Capítulo 5: La Destrucción del Edificio](capitulo5-la-destruccion-del-edificio/)
-- [Capítulo 6: Disección Propia y Defensas Ajenas](capitulo6-diseccion-propia-y-defensas-ajenas/)
-- [Capítulo 7: Crónica del 22 Diciembre - Ecos y Presencias](capitulo7-cronica-del-22-diciembre-ecos-y-presencias/)
-- [Capítulo 8: El Despertar Londinense](capitulo8-el-despertar-londinense/)
-- [Capítulo 9: La Llama Londinense y la Invasión de la Rutina](capitulo9-la-llama-londinense-y-la-invasion-de-la-rutina/)
-- [Capítulo 10: Las Luces, el Refugio, la Carne](capitulo10-las-luces-el-refugio-la-carne/)
-- [Capítulo 11: Horizontes Divergentes](capitulo11-horizontes-divergentes/)
+- [Capítulo 0: Omnihilismo]({{< relref "capitulo0-omnihilismo.md" >}}) (Peso: 0)
+- [Capítulo 1: La Explosión de la Burbuja]({{< relref "capitulo1-burbuja.md" >}}) (Peso: 1)
+- [Capítulo 2: Diagnóstico]({{< relref "capitulo2-diagnostico.md" >}}) (Peso: 2)
+- [Capítulo 3: Sombra]({{< relref "capitulo3-sombra.md" >}}) (Peso: 3)
+- [Capítulo 4: Distancia]({{< relref "capitulo4-distancia.md" >}}) (Peso: 4)
+- [Capítulo 5: Absurdo]({{< relref "capitulo5-absurdo.md" >}}) (Peso: 5)
+- [Capítulo 6: Destrucción]({{< relref "capitulo6-destruccion.md" >}}) (Peso: 6)
+- [Capítulo 7: Disección]({{< relref "capitulo7-diseccion.md" >}}) (Peso: 7)
+- [Capítulo 8: Diciembre]({{< relref "capitulo8-diciembre.md" >}}) (Peso: 8)
+- [Capítulo 9: Beso]({{< relref "capitulo9-beso.md" >}}) (Peso: 9)
+- [Capítulo 10: Londres]({{< relref "capitulo10-londres.md" >}}) (Peso: 10)
+- [Capítulo 11: Bandas]({{< relref "capitulo11-bandas.md" >}}) (Peso: 11)
+- [Capítulo 12: Horizontes]({{< relref "capitulo12-horizontes.md" >}}) (Peso: 12)
 
 ---
 
@@ -38,7 +39,6 @@ El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada cone
 
 - La creación del Omnihilismo como juego creativo entre mentes brillantes
 - El despertar en Londres y Cyberdog como símbolo de libertad
-- La Matrícula de Honor y la primera noche como culminación del esfuerzo
 - La decisión de Granada como apuesta por el amor compartido
 
 ---

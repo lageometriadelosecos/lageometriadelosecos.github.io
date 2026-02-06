@@ -1,7 +1,7 @@
 
 +++
-title = "Capítulo 14: Códigos Rotos"
-weight = 14
+title = "Capítulo 16: Rotos"
+weight = 16
 novela = ["libro2--codigos-rotos"]
 +++
 
@@ -33,7 +33,7 @@ Noviembre trajo los parciales y el cumpleaños de Alice (9 de noviembre). Kirlia
 
 La noche del cumpleaños tuvo la calidez de una tregua. Cenaron, hablaron, rieron. Alice recibió el libro con genuino entusiasmo. La conexión intelectual estaba intacta. Fue más tarde, en la intimidad recobrada, cuando ella pronunció las palabras: «Kirlian... te quiero. De verdad. Mucho.»
 
-El impacto fue directo. Kirlian quería corresponder, pero el fantasma de Erika Durán, el miedo a la vulnerabilidad total, lo paralizó. *"Siento que había algo Falso en todo eso,"* resonaba el recuerdo de su reflexión sobre el pasado. *"Esa herida le impedía decir que quería a Alice. Que estaba enamorado de ella."* Su silencio fue la respuesta. Alice lo percibió. La conexión momentánea chocó contra ese muro invisible.
+El impacto fue directo. Kirlian quería corresponder, pero el fantasma de Érika Durán, el miedo a la vulnerabilidad total, lo paralizó. *"Siento que había algo Falso en todo eso,"* resonaba el recuerdo de su reflexión sobre el pasado. *"Esa herida le impedía decir que quería a Alice. Que estaba enamorado de ella."* Su silencio fue la respuesta. Alice lo percibió. La conexión momentánea chocó contra ese muro invisible.
 
 El cumpleaños terminó agridulce. Un acercamiento, un regalo significativo, pero también la constatación del bloqueo emocional de Kirlian. La sombra de su pasado le impedía abrazar plenamente el presente con Alice.
 

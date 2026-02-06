@@ -1,6 +1,8 @@
+```
 +++
-title = "Capítulo 7: Diciembre - Ecos y Presencias" 
-weight = 7
+title = "Capítulo 8: Diciembre"
+ 
+weight = 8
 novela = ["libro1-viernes-interior"]
 +++
 
@@ -34,13 +36,13 @@ palabras. *Divertissement*, pensó fugazmente. *Souci de la distance*.
 La comida acabó. Acompañaron a Frank a la estación, ese portal recurrente hacia
 otros lugares, otras vidas. Y al volver, el azar reconfiguró la tarde.
 Circulando de nuevo por la órbita conocida del 2006, las voces desde una
-ventana: Alice, Kate, Erika Durán. Ben Hurtado y Kubrick cambiaron de rumbo al
+ventana: Alice, Kate, Érika Durán. Ben Hurtado y Kubrick cambiaron de rumbo al
 instante, como atraídos por un campo magnético invisible. Kirlian dudó, tentado
 por seguir su trayectoria inercial hacia ninguna parte, pero algo –la
 curiosidad, la fuerza gravitatoria del grupo, la presencia de Alice– le hizo
 rectificar y unirse.
 
-Se sentó a la derecha de Ben Hurtado, a la izquierda de Erika Durán. Kate
+Se sentó a la derecha de Ben Hurtado, a la izquierda de Érika Durán. Kate
 enfrente, Alice en su campo visual periférico. Escuchaba, más que participaba.
 Impresiones sobre asignaturas, críticas veladas, planes difusos. Observaba a
 Alice de reojo. Un nerviosismo sutil le llevó a torturar una servilleta, a
@@ -84,6 +86,32 @@ El sabor era indiferente, pero el gesto tenía un peso simbólico. Se dejó llev
 por la sensación, por esa autoinducida "borrachera psicológica", un intento de
 nublar la excesiva lucidez, de permitirse simplemente *fluir*.
 
+La noche los llevó a una fiesta. Un organismo ruidoso y sudoroso, una masa vibrante de cuerpos y alcohol barato. Kirlian se mantenía en la periferia, observando. Su diagnóstico reciente, aunque físico, se sentía como una barrera invisible. *Ellos son inmortales,* pensó con amargura. *Yo soy un sistema en fallo.*
+
+Alice, sin embargo, brillaba en el centro del caos. Reía, bailaba, era magnética. Junto a ella estaba Freddie, un amigo del grupo, conocido por su desparpajo. Kirlian siempre había analizado su dinámica bajo la lente de la "camaradería desinhibida".
+
+Pero esa noche, la lente se rompió.
+
+Fue un instante. Un gesto. Alice se rió de algo que dijo Freddie y se inclinó hacia él. Él le susurró algo al oído, su mano rozando su cintura con una familiaridad que trascendía la amistad platónica. Alice no se apartó. Al contrario, se inclinó más, sus caras a milímetros de distancia.
+
+El tiempo se dilató. Kirlian sintió cómo su estómago se contraía violentamente. No era dolor físico de Crohn, era algo más agudo, más frío.
+
+Freddie hizo el movimiento. Se lanzó a besarla.
+
+Y Alice... Alice hizo la cobra. Un giro rápido, experto, desviando el beso a la mejilla. Se rió de nuevo, una risa nerviosa, y le dio un empujón juguetón.
+
+Kirlian debería haberse sentido aliviado. *Ella lo rechazó. El sistema funciona.*
+
+Pero no sintió alivio. Sintió náuseas.
+
+Porque vio la complicidad. Vio que el beso no fue una sorpresa total, sino el desenlace de una danza que él no había querido ver. Vio que, aunque no hubo beso, hubo intimidad. Hubo un espacio compartido donde Kirlian no existía.
+
+La teoría del "amor libre" y la "no posesión" que tanto había defendido se desmoronó ante la brutalidad de la emoción. Sintió celos. Celos vulgares, primitivos, estúpidos. Celos que contradecían todo lo que él creía ser.
+
+*Soy un hipócrita,* se dijo, mientras salía de la habitación, buscando aire.
+
+Necesitaba escapar. Miró a Alice, a Demian, a Freddie. Una necesidad urgente de salir de ese caos, de reencontrarse con algo real.
+
 Y fluyeron. Hacia el Démodé. Un eco, un *déjà vu* de otros viernes, otras
 conversaciones, le golpeó al sentarse: Freddie, Demian, Alice y él. Cuatro en
 los sillones ajados del rincón indie. La embriaguez autoinducida era un velo
@@ -106,7 +134,7 @@ voces, el murmullo del bar. Todo se redujo a la inminente colisión de sus
 labios.
 
 El impacto fue distinto. Directo. Inequívoco. Los átomos se reorganizaron
-violentamente en su percepción. La sombra proyectada de Erika se desvaneció.
+violentamente en su percepción. La sombra proyectada de Érika se desvaneció.
 Sintió una sacudida interna, un cortocircuito que silenció al analista.
 Confusión. Sorpresa. Miedo. Excitación. Todo a la vez. Las defensas cayeron. Se
 sintió expuesto, vulnerable, a la deriva.

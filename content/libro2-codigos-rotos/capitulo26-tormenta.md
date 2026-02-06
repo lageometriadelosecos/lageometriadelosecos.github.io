@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 27: El Ojo de la Tormenta"
-weight = 27
+title = "Capítulo 26: Tormenta"
+weight = 26
 novela = ["libro2--codigos-rotos"]
 +++
 
@@ -8,25 +8,25 @@ La desinstalación de Instagram, aquel gesto desesperado de cortar el cordón um
 
 *“Diario, 28 de Septiembre, 2019:*
 *Ayer fue un día muy intenso... Alice estaba presente en cada una de las cosas que pensaba o sentía... Estaba enfadado y quería centrarme en mí mismo. Sabía que no podía tragarme el dolor ni ahogarme por completo en él...*”
-El enfado era una máscara frágil para la tristeza y la confusión. La "racionalidad" que intentaba imponer a sus sentimientos se desmoronaba. Necesitaba hablar, no con Bob, Ragnar o Payton, cuya camaradería era un consuelo superficial, sino con alguien que pudiera ofrecer una perspectiva diferente, una mirada externa a su laberinto interior. Pensó en Erika Durán.
+El enfado era una máscara frágil para la tristeza y la confusión. La "racionalidad" que intentaba imponer a sus sentimientos se desmoronaba. Necesitaba hablar, no con Bob, Ragnar o Payton, cuya camaradería era un consuelo superficial, sino con alguien que pudiera ofrecer una perspectiva diferente, una mirada externa a su laberinto interior. Pensó en Érika Durán.
 
-La encontró en el Cementerio, ese espacio universitario que para Kirlian siempre había tenido un aire de refugio intelectual y, a veces, de confesionario improvisado. Erika, con su habitual mezcla de calidez y agudeza, lo escuchó con paciencia mientras él desgranaba, de forma algo caótica, la tormenta emocional que lo consumía: la llamada con Alice, el dolor de la distancia, la sensación de traición, su propia parálisis.
+La encontró en el Cementerio, ese espacio universitario que para Kirlian siempre había tenido un aire de refugio intelectual y, a veces, de confesionario improvisado. Érika, con su habitual mezcla de calidez y agudeza, lo escuchó con paciencia mientras él desgranaba, de forma algo caótica, la tormenta emocional que lo consumía: la llamada con Alice, el dolor de la distancia, la sensación de traición, su propia parálisis.
 
-—Es que no lo entiendo, Erika —decía Kirlian, la voz cargada de una frustración casi infantil—. Se supone que teníamos un entendimiento, una libertad... pero esto... esto duele de una forma que no había previsto. Y no sé qué hacer. No sé cómo dejar de… analizarlo todo hasta el infinito.
+—Es que no lo entiendo, Érika —decía Kirlian, la voz cargada de una frustración casi infantil—. Se supone que teníamos un entendimiento, una libertad... pero esto... esto duele de una forma que no había previsto. Y no sé qué hacer. No sé cómo dejar de… analizarlo todo hasta el infinito.
 
-Erika asintió lentamente, sus ojos oscuros fijos en él. —Kirlian, a veces la libertad que nos concedemos teóricamente choca brutalmente con la realidad de nuestros sentimientos. Y el análisis puede ser una forma muy sofisticada de evitar sentir. Pero dime, ¿has pensado en hablar con alguien… profesional?
+Érika asintió lentamente, sus ojos oscuros fijos en él. —Kirlian, a veces la libertad que nos concedemos teóricamente choca brutalmente con la realidad de nuestros sentimientos. Y el análisis puede ser una forma muy sofisticada de evitar sentir. Pero dime, ¿has pensado en hablar con alguien… profesional?
 
 La sugerencia flotó en el aire. Un psicólogo. Kirlian lo había considerado, fugazmente, en sus peores momentos. Pero la idea de exponer su caos interior a un extraño, de ser reducido a un caso clínico, le producía un rechazo instintivo.
 
-Fue entonces cuando Erika, quizás intuyendo su resistencia, dijo: —Espera un momento. Hay alguien que creo que te vendría bien conocer. Una amiga mía, Marla. Está terminando Psicología, pero tiene una cabeza increíblemente lúcida y una forma de ver las cosas… diferente. No es terapia, es solo… una conversación. ¿Te apetece? Está por aquí cerca.
+Fue entonces cuando Érika, quizás intuyendo su resistencia, dijo: —Espera un momento. Hay alguien que creo que te vendría bien conocer. Una amiga mía, Marla. Está terminando Psicología, pero tiene una cabeza increíblemente lúcida y una forma de ver las cosas… diferente. No es terapia, es solo… una conversación. ¿Te apetece? Está por aquí cerca.
 
-Kirlian dudó. Marla. No la conocía. Pero la recomendación de Erika, y la desesperación silenciosa que lo atenazaba, lo impulsaron a aceptar.
+Kirlian dudó. Marla. No la conocía. Pero la recomendación de Érika, y la desesperación silenciosa que lo atenazaba, lo impulsaron a aceptar.
 
 Minutos después, en una pequeña cafetería con olor a tostadas quemadas y el murmullo tranquilo de conversaciones ajenas, Kirlian se encontró frente a Marla. Era menuda, con una mata de pelo oscuro y rizado que parecía tener vida propia y unos ojos increíblemente vivos y penetrantes. Había una energía en ella, una mezcla de calma y una especie de intensidad juguetona, que lo desarmó al instante.
 
-No hubo preámbulos torpes. Erika hizo una breve introducción, y luego, con una naturalidad asombrosa, Marla le preguntó directamente: —¿Así que… crisis existencial con epicentro en Erasmus ajeno? Cuéntame, Kirlian. Sin filtros, si puede ser.
+No hubo preámbulos torpes. Érika hizo una breve introducción, y luego, con una naturalidad asombrosa, Marla le preguntó directamente: —¿Así que… crisis existencial con epicentro en Erasmus ajeno? Cuéntame, Kirlian. Sin filtros, si puede ser.
 
-Y Kirlian habló. Habló como no lo había hecho con nadie, ni siquiera con Erika. Soltó el nudo de sus análisis, sus miedos, la historia de su relación con Alice, la idealización, la caída, la obsesión con los tweets, el dolor de los celos, su propia parálisis. Marla escuchaba, no con la distancia clínica de un terapeuta, sino con una atención activa, asintiendo a veces, sus ojos sin perder ni un matiz de su relato.
+Y Kirlian habló. Habló como no lo había hecho con nadie, ni siquiera con Érika. Soltó el nudo de sus análisis, sus miedos, la historia de su relación con Alice, la idealización, la caída, la obsesión con los tweets, el dolor de los celos, su propia parálisis. Marla escuchaba, no con la distancia clínica de un terapeuta, sino con una atención activa, asintiendo a veces, sus ojos sin perder ni un matiz de su relato.
 
 Cuando Kirlian terminó, exhausto pero extrañamente aliviado por la catarsis, Marla se quedó en silencio un momento, removiendo su café con una cucharilla.
 

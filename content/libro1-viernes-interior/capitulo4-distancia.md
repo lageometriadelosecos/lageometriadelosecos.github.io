@@ -1,15 +1,16 @@
 +++
-title = "Capítulo 3: Topologías de la Distancia"
-weight = 3
+title = "Capítulo 4: Distancia"
+weight = 4
 novela = ["libro1-viernes-interior"]
 +++
 
-El café con Erika había sido un ejercicio de realismo brutal envuelto en la
+El café con Érika había sido un ejercicio de realismo brutal envuelto en la
 familiaridad agridulce de una amistad curtida por el tiempo y las decepciones
-compartidas. Mientras caminaba de vuelta por la Calle Elvira, el bullicio
-turístico de las teterías y las tiendas de artesanía le parecía más estridente
+familiaridad agridulce de una amistad curtida por el tiempo y las decepciones
+compartidas. Mientras caminaba de vuelta por el Paseo de Almería, el bullicio
+comercial y las luces de los escaparates le parecían más estridentes
 que nunca, un contrapunto casi ofensivo a la quietud plomiza que se había
-reinstalado en su pecho. Las palabras de Erika resonaban: “Una pared que tú
+reinstalado en su pecho. Las palabras de Érika resonaban: “Una pared que tú
 ayudaste a construir al no hacer nada”. “¿De qué sirve entender la fenomenología
 de la angustia si no puedes simplemente preguntar ‘¿Estás bien?’”
 
@@ -19,8 +20,8 @@ parálisis, analizando la inversión de roles con Alice, teorizando sobre la
 compatibilidad de la conciencia individual y la mutua, todo mientras la conexión
 real se marchitaba por falta de la más simple de las acciones: la comunicación.
 
-Se había despedido de Erika con una vaga promesa de "intentarlo", pero ahora,
-solo de nuevo bajo el cielo encapotado de Granada, la perspectiva de enviar un
+Se había despedido de Érika con una vaga promesa de "intentarlo", pero ahora,
+solo de nuevo bajo el cielo encapotado de Almería, la perspectiva de enviar un
 mensaje a Alice se sentía como intentar calcular la integral de una función no
 integrable. ¿Qué decir? Un simple "¿Estás bien?" sonaba ahora tardío, casi
 insultante después de su silencio. Un "¿Podemos hablar?" abría la puerta a una
@@ -38,16 +39,16 @@ claro, pero el tratamiento seguía siendo esquivo.
 
 Llegó a su piso alquilado, un espacio impersonal con muebles genéricos de Ikea
 que parecía reflejar su propia desconexión interior. Se sentó frente al
-portátil, la pantalla todavía abierta en la tarea de Proust. El capítulo 13 de
-Topología seguía ahí, latente, una presencia ominosa en el disco duro. Intentó
-abrir los apuntes, forzar su mente a seguir las curvas y superficies, a
-visualizar los espacios tangentes. Una variedad es un espacio topológico
-localmente euclidiano... Pero su propia mente no se sentía euclidiana en
-absoluto. Se sentía más bien como un espacio de Hausdorff extrañamente
+portátil, la pantalla todavía abierta en la tarea de Proust. El tema de
+Integrales seguía ahí, latente, una presencia ominosa en el disco duro. Intentó
+abrir los apuntes, forzar su mente a seguir las reglas de derivación, a
+visualizar las gráficas. La integral definida es el área bajo la curva...
+Pero su propia mente no se sentía definida en
+absoluto. Se sentía más bien como un sistema incompatible extrañamente
 desconectado, donde cada punto de pensamiento estaba aislado, incapaz de formar
-una vecindad coherente con el siguiente. Los teoremas sobre compacidad le
+una solución coherente con la siguiente. Los problemas de optimización le
 parecían una burla; él se sentía infinitamente disperso, incapaz de encontrar un
-punto límite.
+máximo o mínimo local.
 
 La frustración creció, convirtiéndose en una rabia sorda contra sí mismo, contra
 la asignatura, contra el universo indiferente. Cerró el portátil con más fuerza
@@ -57,14 +58,14 @@ para resolver el nudo de su relación con Alice. Todo estaba conectado, un
 sistema complejo de fracasos interdependientes.
 
 Necesitaba aire. Salió de nuevo, esta vez sin rumbo fijo, dejándose llevar por
-las calles que ascendían hacia el campus de Fuentenueva. El aire era frío, con
+las calles que ascendían hacia el campus junto al mar. El aire era frío, con
 la promesa de más lluvia. Caminó entre estudiantes que iban y venían de clase,
 algunos riendo en grupos, otros absortos en sus teléfonos, todos pareciendo
 habitar un plano de realidad funcional que a él se le escapaba.
 
 Y entonces la vio.
 
-Alice. Al otro lado de la pequeña plaza frente a la Facultad de Ciencias. Estaba
+Alice. Al otro lado de la pequeña plaza frente a la biblioteca central. Estaba
 hablando animadamente con un par de compañeros de clase que Kirlian reconoció
 vagamente. Reía de algo que uno de ellos dijo, echando la cabeza hacia atrás por
 un instante. Parecía... normal. Despreocupada. La imagen chocó violentamente con
@@ -107,9 +108,9 @@ Regresó a su piso, el frío exterior ahora instalado definitivamente en su
 interior. Abrió de nuevo el portátil, el diario.
 
 «14 de Noviembre. La vi hoy. En el campus. Cruzamos miradas. Nada. Una sonrisa
-educada. Distancia. La pared es real. Sólida. Quizás infranqueable. Erika tenía
+educada. Distancia. La pared es real. Sólida. Quizás infranqueable. Érika tenía
 razón. Mi inacción. Pero ahora... ¿qué hacer? Parece tarde. Retirada a la cueva.
-Al análisis. A la única constante: la dificultad. Capítulo 13. Proust. La
+Al análisis. A la única constante: la dificultad. Proust. La
 búsqueda del tiempo perdido... Qué ironía. El tiempo, una vez perdido, no se
 recupera. Solo se analiza su ausencia.»
 
