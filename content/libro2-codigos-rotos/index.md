@@ -19,27 +19,25 @@ El libro del aprendizaje profundo, donde cada caída enseña, cada crisis es una
 
 ## 📚 Capítulos
 
-- [Capítulo 13: Axiomas]({{< relref "capitulo13-axiomas.md" >}}) (Peso: 13)
-- [Capítulo 14: Códigos]({{< relref "capitulo14-codigos.md" >}}) (Peso: 14)
-- [Capítulo 15: Ruido]({{< relref "capitulo15-ruido.md" >}}) (Peso: 15)
-- [Capítulo 16: Rotos]({{< relref "capitulo16-rotos.md" >}}) (Peso: 16)
-- [Capítulo 17: Traición]({{< relref "capitulo17-traicion.md" >}}) (Peso: 17)
-- [Capítulo 18: Reescritura]({{< relref "capitulo18-reescritura.md" >}}) (Peso: 18)
-- [Capítulo 19: Colapso]({{< relref "capitulo19-colapso.md" >}}) (Peso: 19)
-- [Capítulo 20: Tiempo]({{< relref "capitulo20-tiempo.md" >}}) (Peso: 20)
-- [Capítulo 21: Espejo]({{< relref "capitulo21-espejo.md" >}}) (Peso: 21)
-- [Capítulo 22: Espejismo]({{< relref "capitulo22-espejismo.md" >}}) (Peso: 22)
-- [Capítulo 23: Derrumbe]({{< relref "capitulo23-derrumbe.md" >}}) (Peso: 23)
-- [Capítulo 24: Amistad]({{< relref "capitulo24-amistad.md" >}}) (Peso: 24)
-- [Capítulo 25: Euforia]({{< relref "capitulo25-euforia.md" >}}) (Peso: 25)
-- [Capítulo 26: Tormenta]({{< relref "capitulo26-tormenta.md" >}}) (Peso: 26)
-- [Capítulo 27: Estoicismo]({{< relref "capitulo27-estoicismo.md" >}}) (Peso: 27)
-- [Capítulo 28: Catarsis]({{< relref "capitulo28-catarsis.md" >}}) (Peso: 28)
-- [Capítulo 29: Inestabilidad]({{< relref "capitulo29-inestabilidad.md" >}}) (Peso: 29)
-- [Capítulo 30: Explosión]({{< relref "capitulo30-explosion.md" >}}) (Peso: 30)
-- [Capítulo 31: Obsesión]({{< relref "capitulo31-obsesion.md" >}}) (Peso: 31)
-- [Capítulo 32: Fuga]({{< relref "capitulo32-fuga.md" >}}) (Peso: 32)
-- [Capítulo 33: Coro]({{< relref "capitulo33-coro.md" >}}) (Peso: 33)
+- [Capítulo 13: Axiomas](capitulo13-axiomas/)
+- [Capítulo 14: Códigos](capitulo14-codigos/)
+- [Capítulo 15: Ruido](capitulo15-ruido/)
+- [Capítulo 16: Rotos](capitulo16-rotos/)
+- [Capítulo 17: Traición](capitulo17-traicion/)
+- [Capítulo 18: Reescritura](capitulo18-reescritura/)
+- [Capítulo 19: Colapso](capitulo19-colapso/)
+- [Capítulo 20: Tiempo](capitulo20-tiempo/)
+- [Capítulo 21: Espejo](capitulo21-espejo/)
+- [Capítulo 22: Espejismo](capitulo22-espejismo/)
+- [Capítulo 23: Derrumbe](capitulo23-derrumbe/)
+- [Capítulo 24: Amistad](capitulo24-amistad/)
+- [Capítulo 25: Euforia](capitulo25-euforia/)
+- [Capítulo 26: Tormenta](capitulo26-tormenta/)
+- [Capítulo 27: Estoicismo](capitulo27-estoicismo/)
+- [Capítulo 28: Catarsis](capitulo28-catarsis/)
+- [Capítulo 29: Inestabilidad](capitulo29-inestabilidad/)
+- [Capítulo 30: Explosión](capitulo30-explosion/)
+- [Capítulo 31: Obsesión](capitulo31-obsesion/)
 
 ---
 
@@ -55,7 +53,7 @@ El libro del aprendizaje profundo, donde cada caída enseña, cada crisis es una
 
 ## 🔗 Navegación
 
-**[← Libro Anterior](../libro1-viernes-interior/)** | **[Volver a la Trilogía](../)** | **[Siguiente Libro →](../libro3-retiro-espiritual/)**
+**[← Libro Anterior](../libro1-viernes-interior/)** | **[Inicio](../)** | **[Siguiente Libro →](../libro3-aquarium/)**
 
 ---
 

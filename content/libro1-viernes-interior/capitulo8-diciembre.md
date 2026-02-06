@@ -1,7 +1,5 @@
-```
 +++
 title = "Capítulo 8: Diciembre"
- 
 weight = 8
 novela = ["libro1-viernes-interior"]
 +++

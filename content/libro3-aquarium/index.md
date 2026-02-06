@@ -25,7 +25,7 @@ El libro de la madurez, donde Kirlian se convierte en el arquitecto de su propia
 
 ## 🔗 Navegación
 
-**[← Libro Anterior](../libro2-codigos-rotos/)** | **[Volver a la Trilogía](../)]**
+**[← Libro Anterior](../libro2-codigos-rotos/)** | **[Inicio](../)** | **[Siguiente Libro →](../libro4-lepeterno/)**
 
 ---
 
