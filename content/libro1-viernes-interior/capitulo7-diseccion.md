@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 6: Disección Propia y Defensas Ajenas"
-weight = 6
+title = "Capítulo 7: Disección"
+weight = 7
 novela = ["libro1-viernes-interior"]
 +++
 
@@ -35,7 +35,9 @@ exposición, en lugar de en la tarea misma.
 Fue durante esos días de enero, en un intento casi cómico de aplicar alguna de
 las técnicas de autoayuda que leía con escepticismo, que intentó la "Fotografía
 del estado actual". Se sentó frente al portátil, no para estudiar, sino para
-observarse estudiando, o más bien, observarse no estudiando. Anotó el objetivo
+observarse estudiando, o más bien, observarse no estudiando. Tecleó con una determinación repentina: *"Esta vez será distinto, esta vez dispondremos de un tiempo de verdad inmóvil para hacer una tarea. Sin duda, escribir ayuda al alma."*
+
+Anotó el objetivo
 grandilocuente: "Compaginar la no-importancia académica con la vida real",
 "Cuestionar el pesimismo epistemológico", "Recuperar la consciencia relacional".
 Palabras huecas que chocaban contra la realidad de su parálisis. El ejercicio se

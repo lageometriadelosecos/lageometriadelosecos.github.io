@@ -1,11 +1,11 @@
 +++
-title = "Capítulo 10: Las Luces. El Refugio. La Carne"
-weight = 10
+title = "Capítulo 11: Bandas"
+weight = 11
 novela = ["libro1-viernes-interior"]
 +++
 
 
-La vuelta a Almería después de Navidad tenía un peso distinto. Noviembre había dejado cicatrices en Granada, pero la cercanía del final del Bachiller actuaba como un potente catalizador. La Matrícula de Honor era el objetivo tangible, el símbolo necesario para validar el esfuerzo y, quizás, para silenciar las dudas internas. Kirlian lo sentía; una corriente subterránea de determinación lo recorría. Alice también, su intensidad habitual ahora afilada, dirigida a esa meta compartida.
+La vuelta a Almería después de Navidad tenía un peso distinto. Noviembre había dejado cicatrices, pero la cercanía del final del Bachiller actuaba como un potente catalizador. La Matrícula de Honor era el objetivo tangible, el símbolo necesario para validar el esfuerzo y, quizás, para silenciar las dudas internas. Kirlian lo sentía; una corriente subterránea de determinación lo recorría. Alice también, su intensidad habitual ahora afilada, dirigida a esa meta compartida.
 
 Nuestras conversaciones, a menudo robadas en paseos por el Zapillo o sobre libros de texto en la habitación de Kirlian, giraban en torno a esa meta final. Era recuperar el control, demostrar que el caos no había ganado, que su intelecto compartido, su ambición entrelazada, aún podían conquistar el sistema. Se convirtió en *su* campaña final y compartida del 2º de Bachiller.
 

@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 28: El Eco del Estoicismo"
-weight = 28
+title = "Capítulo 27: Estoicismo"
+weight = 27
 novela = ["libro2--codigos-rotos"]
 +++
 

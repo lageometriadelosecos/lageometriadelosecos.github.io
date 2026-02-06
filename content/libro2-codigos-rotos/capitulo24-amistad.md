@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 25: El Andamiaje de la Amistad"
-weight = 25
+title = "Capítulo 24: Amistad"
+weight = 24
 novela = ["libro2--codigos-rotos"]
 +++
 

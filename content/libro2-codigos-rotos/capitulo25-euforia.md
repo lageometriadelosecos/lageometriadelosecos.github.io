@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 26: Solsticio de Euforia"
-weight = 26
+title = "Capítulo 25: Euforia"
+weight = 25
 novela = ["libro2--codigos-rotos"]
 +++
 
@@ -20,7 +20,7 @@ Y luego, la visita de Lyra (el "amigo de su casa", como Kirlian lo describió a 
 *Marcha de Alice... Fin de la casa rural y quedada con mis padres (para despedir a Alice y convencer de que me dejaran ir a Málaga y volver). La pelea horrible entre madres. Shock... Cuando sentimos nuestro sistema de valores atacado nos sentimos atacados...*”
 La despedida de Alice fue el verdadero punto de inflexión. El drama familiar, "la pelea horrible entre madres", subrayó la tensión y la dificultad de mantener los mundos separados. Ver a Alice cruzar la puerta de embarque fue la materialización de la distancia inminente. Kirlian reprimió las lágrimas, pero la sensación de pérdida era palpable.
 
-El periodo posterior, ya en la "Beach House" (su casa de Almería, ahora teñida por la ausencia), fue el comienzo del "viento de olvido, nervio desorientado". El CoolMusic, al que asistió con Erika Durán y Berta, se sintió como un eco deslucido de la intensidad vivida con Alice.
+El periodo posterior, ya en la "Beach House" (su casa de Almería, ahora teñida por la ausencia), fue el comienzo del "viento de olvido, nervio desorientado". El CoolMusic, al que asistió con Érika Durán y Berta, se sintió como un eco deslucido de la intensidad vivida con Alice.
 
 *“Diario, 23 de Agosto, 2019 (sobre el CoolMusic):*
 *Pocas ganas tenía de ir al coolmusic por la intensidad emocional no gestionada pero no iba a desaprovechar el regalo de mi hermano. Así que avisé por el grupo del Coolmusic del año pasado. En general siento que fue un fracaso. Silencios incómodos. Luis. Pocas ganas de fiesta y (otra vez) voluntad antietanólica mal vista socialmente... Y la falta de Alice como elemento activo unificador.*”

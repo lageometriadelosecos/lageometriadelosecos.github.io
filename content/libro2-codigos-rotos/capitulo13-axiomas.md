@@ -1,7 +1,7 @@
 +++
-title = "Capítulo 1: Axiomas de Inquietud"
-weight = 1
-novela = ["libro1-viernes-interior"]
+title = "Capítulo 12: Axiomas"
+weight = 12
+novela = ["libro2-codigos-rotos"]
 +++
 
 El Café Central respiraba con el murmullo sordo e insistente de una ciudad que
@@ -24,8 +24,7 @@ imperfecta, un intento fallido de cierre. Geometría. Todo siempre volvía a la
 geometría, o a su ausencia.
 
 Su mirada vagó hacia el lomo maltrecho del libro que asomaba de su bandolera:
-Topología Diferencial. Específicamente, el Capítulo 13. El número en sí mismo
-parecía una broma cósmica esa noche. Trece. Un entero primo y profano, un
+Topología Diferencial. El examen en sí mismo parecía una broma cósmica esa noche. Un entero primo y profano, un
 presagio numérico suspendido sobre la inminente fatalidad de la fecha límite del
 lunes. Diez páginas. Se suponía que debía conjurar diez páginas coherentes sobre
 las propiedades de las variedades diferenciables, esos paisajes abstractos que
@@ -68,7 +67,7 @@ con impaciencia. Su confesionario digital, su archivo de ansiedades. Tecleó, la
 palabras derramándose en su habitual moda inconexa, una letanía de
 auto-recriminación y pavor académico.
 
-«6 de Noviembre... El peso del Capítulo 13 es insoportable. ¿Cómo puede algo tan
+«6 de Noviembre... El peso de la materia es insoportable. ¿Cómo puede algo tan
 abstracto sentirse tan físicamente aplastante? La elegancia se ha perdido,
 reemplazada por el puro volumen, por la fecha límite que se avecina. La memoria
 falla. La concentración se disuelve. ¿Es esto agotamiento? ¿O algo más profundo,

@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 17: El Código Reescrito"
-weight = 17
+title = "Capítulo 19: Colapso"
+weight = 19
 novela = ["libro2--codigos-rotos"]
 +++
 

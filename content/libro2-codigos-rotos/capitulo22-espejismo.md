@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 23: El Espejismo de la Lógica"
-weight = 23
+title = "Capítulo 22: Espejismo"
+weight = 22
 novela = ["libro2--codigos-rotos"]
 +++
 

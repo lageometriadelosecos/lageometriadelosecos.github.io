@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 29: La Catarsis Sónica"
-weight = 29
+title = "Capítulo 28: Catarsis"
+weight = 28
 novela = ["libro2--codigos-rotos"]
 +++
 
@@ -14,13 +14,19 @@ Luego, descubrió **The Secret Society**. El título de su canción «Si pudiste
 
 La verdadera transformación empezó con **Napoleón Solo**. El disco **Chica Disco** fue la banda sonora de su introspección. En «Historias», versos como *«Eramos como hermanos / la misma fantasia / o eso es lo que creia / puede que fuera mentira»* y la dolorosa aceptación *«ya no voy a ser nada mas junto a ti»* le hablaban directamente de sus propias pérdidas y desengaños. La resignación en *«y ahora todo sera peor / peor de lo que era»* reflejaba su lento y doloroso cambio interno.
 
-Se sumergió también en el universo de **Kokoshca**. El álbum **El Mal** fue visceral. En «Mi Consentido», el *«No pidas perdón, / si tú eres mi consentido»* y el *«Y tú nunca me dejas / haga yo lo que haga»* exploraban sombras que lo perturbaban y atraían. Kokoshca no daba consuelo, sino un reconocimiento de la oscuridad. **El Mal era inherente.** La letra (no verificada) de «No mires atrás», *"El mal está dentro / no lo puedes evitar"*, resonó como una verdad psicológica.
+Se sumergió también en el universo de **Kokoshca**. El álbum **El Mal** fue visceral. En «Mi Consentido», el *«No pidas perdón, / si tú eres mi consentido»* y el *«Y tú nunca me dejas / haga yo lo que haga»* exploraban sombras que lo perturbaban y atraían. Kokoshca no daba consuelo, sino un reconocimiento de la oscuridad. **El Mal era inherente.** Y en esa oscuridad, una certeza: **"Prefiero odiar que no sentir nada."**
 
 Esta nueva inmersión musical lo llevó a *compartir*. Kirlian, antes pasivo, empezó a subir historias a Instagram con fragmentos de canciones.
 
-Comenzó con **Espanto** y su «Rock n' Roll»: *«Sólo me importa de verdad / Sólo me importa el rock'n roll»*, un grito en la confusión. Y entonces, la provocación: **"Marx y Rosalía"**, un collage sonoro y visual que reflejaba su creciente interés por desentrañar las contradicciones culturales, la tensión entre el análisis crítico y el fenómeno pop, donde el estribillo de Rosalía en «Dio$ No$ Libre Del Dinero», *«Dios nos libre del dinero»*, confrontaba la aspiración material con la propia crítica.
+comenzó con **Espanto** y su «Rock n' Roll»: *«Sólo me importa de verdad / Sólo me importa el rock'n roll»*, un grito en la confusión. Y entonces, la provocación: **"Marx y Rosalía"**, un collage sonoro y visual que reflejaba su creciente interés por desentrañar las contradicciones culturales, la tensión entre el análisis crítico y el fenómeno pop, donde el estribillo de Rosalía en «Dio$ No$ Libre Del Dinero», *«Dios nos libre del dinero»*, confrontaba la aspiración material con la propia crítica.
+ 
+Pero antes del rap, hubo una extraña desviación. En su intento de encontrar un orden en el caos de la pérdida, Kirlian se obsesionó con algo tan árido como el **Código Civil**. Empezó a leer artículos sobre **la Propiedad**. Art. 348. *"La propiedad es el derecho de gozar y disponer de una cosa, sin más limitaciones que las establecidas por las leyes"*. Buscaba ahí, en la ley fría, una justificación para lo que sentía como un robo: la pérdida de Alice. Si el amor era un contrato tácito, ¿dónde estaba su indemnización? ¿Acaso no le pertenecían los recuerdos, el tiempo invertido? Intentaba cosificar los sentimientos para poder reclamar su posesión, para tener un "título" que blandir ante el vacío.
 
-Así, casi sin darse cuenta, llegó al Rap.
+Era una lógica perversa, capitalista hasta la médula de los afectos, que convertía a las personas en bienes muebles y a las relaciones en usufructos.
+
+En medio de esta espiral, tropezó con **Blake** y su **"Lengua de Serpiente"**. Destacó, pero negativamente. Era la banda sonora de la ponzoña, una validación tóxica de sus peores instintos. La rabia hecha bilis, el resentimiento sin filtro, una oscuridad que no purificaba, sino que ensuciaba. Era la antítesis de la elevación que buscaba, pero en ese momento, su negrura le resultaba familiar, casi seductora en su honestidad brutal.
+
+Así, casi sin darse cuenta, llegó al Rap. Y el Rap dinamitó el Código Civil.
 
 Recordó la playlist de Alice. Una deuda pendiente. Las letras lo golpearon con fuerza.
 
@@ -34,7 +40,7 @@ Y entonces, llegó **«Repartiendo Arte»** de Kase.O.
 
 *«Repartiendo arte, porque esa es mi cualidad / Te llevo de lo cotidiano a otra realidad»*. Esa canción fue el detonante. El verso *«Traigo el tacto de lo abstracto, nada exacto... / De la música de un gigante arquitecto»* y la idea de la música como una *«Puerta de todos los datos matemáticos»* lo fascinaron. **«Repartiendo Arte» fue el inicio de su crisis gnóstica.**
 
-Todas las piezas de su puzzle interior convergieron. Ya no era solo música; era transformador. Las letras se volvieron oráculos. **Fue un trascender. Mediante la iluminación, el dolor, la meditación, el No ser.**
+Todas las piezas de su puzzle interior convergieron. Ya no era solo música; era transformador. Las letras se volvieron oráculos. **Fue un trascender.** El concepto de Propiedad del Código Civil se disolvió como tinta en agua. El Rap le enseñó que nada se posee realmente, solo se experimenta, se respira y se suelta. *"Nada es propieda' de nadie"*, parecía susurrarle el ritmo. **Mediante la iluminación, el dolor, la meditación, el No ser.**
 
 Aquellas noches, las palabras de Kase.O y Residente se mezclaban con Napoleón Solo y Kokoshca. Una alquimia interna lo rehacía. **Ahí. Kirlian sintió que moría y volvía a nacer. Resucitó.**
 

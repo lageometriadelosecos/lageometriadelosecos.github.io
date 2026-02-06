@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 8: El Despertar Londinense" 
-weight = 8
+title = "Capítulo 10: Londres"
+weight = 10
 novela = ["libro1-viernes-interior"]
 +++
 

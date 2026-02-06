@@ -1,0 +1,121 @@
++++
+title = "Capítulo 3: Sombra"
+weight = 3
+novela = ["libro1-viernes-interior"]
++++
+
+Diciembre había llegado a Almería con un frío húmedo que calaba los huesos y
+teñía el cielo de un gris persistente, muy distinto a la vibrante melancolía de
+noviembre. Los exámenes de enero, antes una amenaza lejana, ahora eran una
+cordillera escarpada e inminente.
+Kirlian se encontraba de nuevo encorvado, esta vez no en la calculada penumbra
+del Café Central, sino bajo la luz fluorescente y despiadada de la biblioteca de
+la universidad, el aire cargado con el silencio tenso de la
+concentración ajena y el olor a papel viejo y calefacción reseca.
+
+frente a él, las notas sobre Cálculo Integral se desenfocaban, las interminables filas de derivadas y los problemas de optimización transformándose en jeroglíficos incomprensibles. Su mente, en lugar de seguir la lógica implacable de las demostraciones, volvía una y otra vez a la pantalla del móvil, a la luz azulada que proyectaba las verdades descarnadas de Alice.
+
+No hubo un suceso "turbio", no hubo un evento externo que marcara la fractura. La ruptura fue puramente intelectual, una devaluación de sus activos emocionales dictada por la lucidez de ella.
+
+— ¿Tienes miedo a dejar atrás el pozo de mierda en el que estás? —había escrito ella aquella madrugada—. El primer paso para despertar es admitir que no se quiere despertar.
+
+Eran otros tiempos. Esa era la frase que resonaba ahora, con la insistencia de un teorema mal recordado. Aquellos días previos, aunque cargados de su propia angustia académica, poseían una cualidad distinta. Había una conexión con Alice, eléctrica y compleja, tejida con debates que Alice terminaba por demoler con una frase.
+
+— La objetividad de tu "Viernes" es en realidad una intersubjetividad —le había disparado ella cuando él intentó explicar el Omnihilismo—. Os habéis puesto de acuerdo en símbolos para no volveros locos. Érika vive en una mentira útil, Kirlian. Ha construido un edificio de certezas matemáticas para no ver que el Orden Humano es un arma de doble filo. Ahorrarle el juicio al niño es llenarlo de prejuicios.
+
+Y luego Freddie. El "Duelo" que Kirlian sentía, Alice lo había diagnosticado sin anestesia:
+— ¿Sabes qué es Freddie? Pura melodía en soledad. Se cree libre porque nadie espera nada de él, pero eso no es libertad, es ruido. Me choca que lo idealices. Cuando la gente se va, tu propia melodía sigue sonando sola. Y tú tienes miedo de que la tuya desafine si te acercas demasiado a la mía.
+
+Aquellas palabras habían abierto una brecha más profunda que cualquier incidente físico. No hubo una gran discusión. Simplemente, la delicada geometría de sus idealizaciones se había desplazado. Alice había expuesto la "falta" de los pilares de su mundo: la rigidez de Érika, la vacuidad de Freddie. Y él, atrapado en su red de "Radio Social", no había encontrado la forma de defender sus mitos.
+
+Un golpecito suave en su hombro lo sobresaltó. Levantó la vista, parpadeando para ajustar el foco. Era Alice. Su pelo oscuro recogido en una coleta desordenada, una sonrisa comprensiva y ligeramente irónica en sus labios. Alice. La que se había convertido en su ancla terrenal, con la que compartía no solo el silencio de la biblioteca sino un universo digital de mensajes nocturnos que desafiaban cualquier clasificación.
+
+—¿Intentando desentrañar los secretos del universo o simplemente sobrevivir a
+Integrales? —preguntó, dejando caer una pila de libros sobre la mesa con un ruido
+sordo.
+
+Kirlian esbozó una media sonrisa. —Un poco de ambas cosas, supongo. Más bien lo segundo disfrazado de lo primero. _Ca_.
+
+—¿_Ca_? —Alice rió, reconociendo el código compartido—. Veo que el lenguaje del "Viernes Interior" sigue mutando. ¿Es ese tu nuevo firewall verbal?
+
+—Te conozco —asintió Alice, sentándose frente a él—. Cuando te pones esa cara de
+intenso metafísico, normalmente es que estás a punto de implosionar por algo
+mucho más terrenal. ¿Parciales a la vista? ¿O dramas existenciales de viernes
+noche extendidos?
+
+Kirlian dudó un instante. Con Alice, la coraza intelectual se sentía menos
+necesaria. Ella había presenciado sus fases anteriores, conocía fragmentos de su
+historia que ni Érika ni los compañeros del Doble Grado sospechaban. —Los
+exámenes, sí. Pero... también lo otro. Lo de siempre. La sensación de estar
+observando todo desde detrás de un cristal.
+
+Alice lo miró fijamente, sus ojos oscuros serios por un momento. —¿Y nosotros? ¿Cómo va eso? Siento que nos hemos vuelto distantes últimamente.
+
+La pregunta directa, inevitable. Kirlian desvió la mirada hacia sus apuntes,
+hacia los símbolos que antes le ofrecían refugio y ahora parecían acusadores.
+—Distante. Supongo. Desde... bueno, desde hace unas semanas.
+
+—¿Desde lo de Érika? —La perspicacia de Alice era a veces incómoda—. ¿O es que te sientes un traidor al Ric del recuerdo por hablar conmigo de estas cosas? No puedes traicionar a alguien que ya no existe, Kirlian.
+
+Kirlian asintió, sin mirarla. —No hablamos realmente de ello. Yo no... no supe qué decir cuando me hablaste de la intersubjetividad de la ciencia. Me sentí desarmado. Y ahora es... raro. Como si hubiera una pared invisible.
+
+—Una pared que tú ayudaste a construir al no hacer nada, querrás decir —dijo Alice, sin acritud, pero con una franqueza que lo obligó a enfrentarlo—.
+Kirlian, a veces tu brillante capacidad para analizarlo todo hasta la parálisis
+es tu peor enemigo. ¿De qué sirve entender la fenomenología de la angustia si no
+puedes simplemente preguntar "¿Estás bien?"?
+
+Tenía razón. Por supuesto que tenía razón. Su huida hacia la abstracción, su
+refugio en la filosofía como escudo contra la vulnerabilidad y la acción, lo
+había dejado aislado precisamente cuando la conexión era más necesaria. Había
+diagnosticado la situación con precisión clínica –la inversión de roles, la
+contradicción entre teoría y sentimiento– pero había fallado estrepitosamente en
+la praxis.
+
+—Lo sé —murmuró, sintiendo el peso de la admisión—. Es como si hubiera dos Kirlian. El que entiende la teoría, el que puede citar a Camus sobre el absurdo o a Kierkegaard sobre la angustia... y el que se queda congelado cuando tiene que actuar en consecuencia. —Hizo una pausa, mirando su libreta—. Además, me siento un traidor.
+
+—¿Traidor a quién?
+
+—Al Ric del recuerdo. Siempre he intentado mantenerme coherente con lo que fuimos en la época dorada. Pero ahora... si cambio para acercarme a Alice, siento que le doy la espalda a ese Ric. No puedes traicionar a alguien que ya no existe, me dirías tú, pero para mí ese "alguien" es más importante que lo existente.
+
+Alice suspiró, revolviendo su café. —Hegel hablaba de un deseo muy curioso: el deseo de ser deseado. Tú estableces un conflicto ahí. Quieres que el mundo te desee, pero sientes que tu pasado te lo impide. Al final, es un problema de capas. ¿Te acuerdas de tu gráfico del "Radio Social"?
+
+—¿El de las capas de cebolla? —Kirlian asintió levemente.
+
+—Exacto. Clasificas a la gente para no tener que sentirla de verdad. Pones a Alice en un radio, a tu familia en otro... y mientras tanto, tu propia melodía sigue sonando en soledad. El libro de aquel sacerdote con insomnio que estamos leyendo dice eso: que las personas son melodías, y que a veces preferimos estar solos para no desafinar la nuestra.
+
+—Y mientras tanto, el mundo sigue girando, y la gente sigue sintiendo —completó
+Alice, suavizando el tono—. Alice probablemente necesitaba algo más que una
+referencia filosófica bien colocada, ¿sabes?
+
+Sí, lo sabía. Lo había sabido incluso en aquel café, mientras se convencía a sí
+mismo de la imposibilidad logística de quedar con ella. La coherencia había sido
+su excusa, pero el miedo había sido el motor. Miedo a la imprevisibilidad de las
+emociones, miedo a la vulnerabilidad, miedo a desviarse del camino trazado, por
+asfixiante que fuera.
+
+Eran otros tiempos, sí. El Kirlian de antes del incidente aún podía permitirse
+el lujo de creer en la primacía de la razón, en la posibilidad de una relación
+gobernada por principios intelectuales compartidos. El Kirlian de ahora cargaba
+con la evidencia de que la vida, y especialmente la vida compartida, operaba con
+una lógica mucho más turbia, más encarnada, más dolorosamente real. El "después"
+era este: la constatación de que su inacción había tenido un coste,
+solidificando la distancia, convirtiendo una posible conexión en un eco que se
+desvanecía.
+
+Levantó la vista y se encontró con la mirada paciente de Alice. En sus ojos no
+había juicio, solo una comprensión teñida de una ligera tristeza, quizás por
+reconocer en él fragmentos de luchas pasadas, propias o ajenas.
+
+—Bueno —dijo ella, señalando los libros de Mates con un gesto de la cabeza—, al
+menos las integrales son coherentes. O eso dicen. ¿Te apetece un café? Creo que
+necesitamos una dosis de cafeína menos existencial que la tuya habitual.
+
+Kirlian asintió, sintiendo una gratitud silenciosa por esa oferta de normalidad,
+por ese ancla momentánea en el presente. Recogió sus cosas, el peso del libro de
+Física sintiéndose un poco más ligero, aunque el peso en su pecho persistía.
+Sabía que el café con Alice no resolvería nada fundamental, no desharía el nudo
+gordiano de su inacción. Pero por ahora, era un paso.
+ Una acción concreta en medio de la parálisis. Un pequeño desafío a los
+axiomas de inquietud que gobernaban su universo interior. Quizás, solo quizás,
+la geometría de los ecos podía empezar a cambiar, aunque fuera un grado
+infinitesimal a la vez.

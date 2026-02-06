@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 15: La Traición del Sueño"
-weight = 15
+title = "Capítulo 17: Traición"
+weight = 17
 novela = ["libro2--codigos-rotos"]
 +++
 

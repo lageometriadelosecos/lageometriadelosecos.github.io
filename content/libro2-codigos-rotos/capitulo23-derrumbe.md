@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 24: El Derrumbe Silencioso"
-weight = 24
+title = "Capítulo 23: Derrumbe"
+weight = 23
 novela = ["libro2--codigos-rotos"]
 +++
 

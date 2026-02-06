@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 22: El Espejo Asimétrico"
-weight = 22
+title = "Capítulo 21: Espejo"
+weight = 21
 novela = ["libro2--codigos-rotos"]
 +++
 
