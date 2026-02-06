@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 5: La Destrucción del Edificio"
-weight = 5
+title = "Capítulo 6: Destrucción"
+weight = 6
 novela = ["libro1-viernes-interior"]
 +++
 

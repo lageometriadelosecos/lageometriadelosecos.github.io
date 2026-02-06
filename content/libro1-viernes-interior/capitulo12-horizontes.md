@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 11: Horizontes Divergentes"
-weight = 11
+title = "Capítulo 12: Horizontes"
+weight = 12
 novela = ["libro1-viernes-interior"]
 +++
 

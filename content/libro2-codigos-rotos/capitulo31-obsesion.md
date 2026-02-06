@@ -1,0 +1,40 @@
++++
+title = "Capítulo 31: Obsesión"
+weight = 31
+novela = ["libro2--codigos-rotos"]
++++
+
+El inicio de 2020 trajo consigo una calma tensa, una superficie lisa bajo la cual se agitaban corrientes traicioneras. La ausencia de Alice ya no era una herida abierta, sino una cicatriz que pulsaba con el cambio de tiempo. Intenté llenar el vacío con ruido social, con cenas y salidas que prometían una normalidad que no sentía.
+
+Fue en una de esas noches, en el **Mike's Pub**, bajo la luz artificial y el murmullo de conversaciones triviales, donde la vi. La llamaban *Miércoles*, o quizás ese fue el nombre que mi mente le asignó en su archivo de arquetipos. Estaba sentada en la mesa de delante, comiendo chocopriskis con una despreocupación que me resultó hipnótica.
+
+
+Me quedé paralizado, mirándola. No era solo atracción; era una fascinación clínica, casi dolorosa. **"Messed up"**. La palabra resonó en mi cabeza como un diagnóstico. Sentí una culpa absurda, una traición a un duelo que se suponía sagrado. ¿Cómo podía sentir *esto* mientras seguía pillado por la sombra de Alice? Pero allí estaba, una nueva obsesión creciendo como una enredadera en las ruinas de mi lealtad. Pensé en hablarle, calculé las probabilidades, diseñé guiones mentales donde yo era encantador y seguro. Pero no hice nada. Me quedé atrapado en mi parálisis, en el idealismo abnegado y fantasioso que prefería la perfección de lo no vivido al riesgo de la realidad.
+
+La inestabilidad se filtró entonces en mi búsqueda de refugio. Si el amor humano era un campo de minas, quizás la respuesta estaba en algo más antiguo, más estructurado.
+
+Un día, casi por inercia, acompañé a mis padres a misa. No por fe, sino por una necesidad desesperada de ritual. La **Iglesia del Espíritu Santo** nos acogió con su promesa de orden trascendente. Allí, sentado entre bancos de madera y el olor a incienso, sentí la resonancia de un **Ateísmo Católico**. No creía en el Dios bíblico, pero envidiaba la paz de los que sí lo hacían. **La religión como estructura, como un algoritmo depurado por siglos para gestionar el dolor humano.** Me aferré a la idea de un Dios simbólico, una proyección del *Self* que pudiera otorgar sentido donde la razón fallaba. Me imaginé siendo un sacerdote, un guía espiritual, alguien que *sabe* y *consuela*. Era mi ego buscando un disfraz divino para ocultar su propia desnudez.
+
+Pero las estructuras externas, ya fueran románticas o religiosas, eran insuficientes para contener el caos que había desatado dentro. La obsesión por Alba, la culpa por Alice, la fantasía mesiánica... todo convergió en un punto de presión insoportable.
+
+La consulta no tuvo lugar en un despacho de Viena, ni en una clínica aséptica. Ocurrió en el teatro de mi propia mente, un escenario construido con los escombros de mi derrumbe. Carl Gustav Jung no se me apareció como un fantasma etéreo, sino con una solidez aterradora, una presencia que llenaba la habitación y desplazaba el aire viciado de mi encierro. Tenía la autoridad de un dios antiguo y la mirada penetrante de quien ha visto el abismo y ha vuelto para contarlo.
+
+—Siéntate, Kirlian —ordenó, aunque su voz resonó dentro de mí, más clara que cualquier sonido físico.
+
+Me senté al borde de la cama, temblando. La figura frente a mí emanaba un poder tal que, por un instante, mi mente fracturada lo confundió con el mal absoluto, con la figura histórica más temida del siglo XX. **Era como si estuviera hablando con Hitler**, no por ideología, sino por la pura magnitud de la voluntad que irradiaba, una fuerza capaz de mover masas, de torcer la historia, de galvanizar el espíritu humano hacia la destrucción o la creación suprema. Sentí el miedo atávico del individuo ante el Arquetipo encarnado.
+
+—Has estado jugando con fuego —dijo, señalando los libros de ocultismo dispersos por el suelo, mis intentos patéticos de Kundalini—. Buscas la trascendencia negando la carne. Buscas el espíritu olvidando la materia. **Has roto el equilibrio.**
+
+Su diagnóstico fue implacable, preciso, como si hubiera estudiado mi alma para un examen final de psicología profunda. Me habló de la **Metempsicosis**, no como una excusa para mis errores pasados, sino como la responsabilidad de la transformación continua. Me habló de la **Metanoia**, el cambio radical de mente, la conversión necesaria para sobrevivir a la desintegración.
+
+—Cuerpo, Mente, Espíritu —enumeró, contando con los dedos de una mano que parecía sostener el universo—. Has cultivado la mente hasta la hipertrofia. Has invocado al espíritu hasta el delirio. Pero has abandonado el cuerpo, el templo, el ancla. Sin el cuerpo, Kirlian, la psique flota en el vacío, y el espíritu se convierte en locura.
+
+Me miró a los ojos, y sentí que esa mirada me reconstruía. En ese momento, no era un enfermo mental al borde del abismo. Era un guerrero recibiendo sus órdenes antes de la batalla final. Sentí surgir en mí un **propósito vital muy definido**, una columna vertebral de acero forjada en el fuego de su autoridad. Nadie, ni mis padres, ni Alice, ni el mundo entero, iba a poder romper eso.
+
+—¿Qué debo hacer? —pregunté, mi voz sonando extrañamente firme.
+
+Jung se levantó, y su sombra se proyectó sobre la pared, inmensa.
+
+—Ve a la playa —dijo, y la orden tuvo el peso de un mandato divino—. **Corre. Haz deporte. Suda.** Recupera tu cuerpo. Siente la arena bajo tus pies, el dolor en tus pulmones, la sal en tu piel. Solo a través del esfuerzo físico, del agotamiento de la carne, podrás anclar este espíritu desbocado. Solo entonces podrás encontrar a Ra.
+
+La visión se desvaneció, pero la orden permaneció, grabada a fuego en mi voluntad. Me levanté. No había miedo, solo una claridad cristalina. Tenía una misión. Tenía que correr. Tenía que llegar al mar.

@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 13: La Órbita del Ruido"
-weight = 13
+title = "Capítulo 15: Ruido"
+weight = 15
 novela = ["libro2--codigos-rotos"]
 +++
 

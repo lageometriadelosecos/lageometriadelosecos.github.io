@@ -1,10 +1,10 @@
 +++
-title = "Capítulo 23: El Espejismo de la Lógica"
-weight = 23
+title = "Capítulo 22: Espejismo"
+weight = 22
 novela = ["libro2--codigos-rotos"]
 +++
 
-El otoño en Granada se había teñido de una crudeza inesperada, no por el clima, que seguía su curso con la melancolía predecible de noviembre, sino por la implosión emocional que Kirlian arrastraba desde el regreso de Alice de su viaje. Las palabras de ella, aquellas dagas verbales sobre "follar varias veces", sobre sentirse "más viva que nunca", sobre el abismo de "dejarlo todo y quedarse allí", habían demolido el precario edificio de certezas que Kirlian creía haber construido en su relación.
+El otoño en Granada se había teñido de una crudeza inesperada, no por el clima, que seguía su curso con la melancolía predecible de noviembre, sino por la implosión emocional que Kirlian arrastraba desde el regreso de Alice de su viaje. Las palabras de ella, aquellas dagas verbales sobre haber estado con otras personas, sobre sentirse "más viva que nunca", sobre el abismo de "dejarlo todo y quedarse allí", habían demolido el precario edificio de certezas que Kirlian creía haber construido en su relación.
 
 *“Diario, 7 de Noviembre, 2018:*
 *La bomba emocional. Cada palabra de Alice, una traición. Me imaginé todo lo que más duele. La comparación, la insuficiencia. Empatizar con ella, o simplemente mirarla con respeto, se sentía como un abismo. Quise despreciarla, culparla, victimizarme. Pero sabía que ese no era el camino. Tampoco aguantar y hacer como si nada. Fue inevitable dejarme llevar y expresar mi dolor como lo sentía. Al margen de toda lógica y razón.”*
