@@ -31,7 +31,7 @@ Esta guía presenta los personajes principales que acompañan a Kirlian en su vi
 ## 📚 **Libro 1: El Viernes Interior**
 *La Búsqueda del Reflejo*
 
-### **Erika**
+### **Érika**
 *La Intelectual Inalcanzable*
 
 **Función:** Representa la validación intelectual que Kirlian busca inicialmente.
@@ -45,7 +45,7 @@ Esta guía presenta los personajes principales que acompañan a Kirlian en su vi
 ### **Freddie**
 *El Compañero de la Trinidad Alternativa (3 Stars)*
 
-**Función:** Sirve como la tercera rueda en la dinámica entre Kirlian y Erika, facilitando la formación de sus primeros lazos sociales e intelectuales. Su presencia es clave en la construcción de la 'Trinidad Alternativa (3 Stars)', reflejando las complejidades de las amistades juveniles.
+**Función:** Sirve como la tercera rueda en la dinámica entre Kirlian y Érika, facilitando la formación de sus primeros lazos sociales e intelectuales. Su presencia es clave en la construcción de la 'Trinidad Alternativa (3 Stars)', reflejando las complejidades de las amistades juveniles.
 
 **Características:**
 - **Amigo Cercano:** Parte fundamental del primer círculo social de Kirlian.
@@ -128,7 +128,7 @@ Esta guía presenta los personajes principales que acompañan a Kirlian en su vi
 
 **Significado:** Ellyn representa la madurez de Kirlian para aceptar que no todas las conexiones tienen que resolverse o categorizarse, aprendiendo a vivir con la ambigüedad.
 
-### **Flowers**
+### **Olive**
 *La Amistad Basada en Humor*
 
 **Función:** Demuestra cómo se construyen conexiones auténticas a través del humor compartido.
@@ -139,7 +139,7 @@ Esta guía presenta los personajes principales que acompañan a Kirlian en su vi
 - **Facilidad** para la amistad sin complicaciones emocionales
 - **Equilibrio** entre seriedad y ligereza
 
-**Significado:** Flowers representa la importancia del humor y la ligereza en las relaciones, mostrando que no todas las conexiones tienen que ser intensas o complicadas.
+**Significado:** Olive representa la importancia del humor y la ligereza en las relaciones, mostrando que no todas las conexiones tienen que ser intensas o complicadas.
 
 ### **Miércoles**
 *El Acto de Generosidad*
@@ -202,7 +202,7 @@ Esta guía presenta los personajes principales que acompañan a Kirlian en su vi
 ## 🎯 **Arcos de Relación**
 
 ### **De la Idealización a la Aceptación**
-- **Erika → Alice → Ellyn:** Evolución de la búsqueda de conexión intelectual pura a la aceptación de la complejidad emocional.
+- **Érika → Alice → Ellyn:** Evolución de la búsqueda de conexión intelectual pura a la aceptación de la complejidad emocional.
 
 ### **De la Competencia a la Colaboración**
 - **Ragnar:** De rival intelectual y emocional a amigo y compañero de crecimiento.

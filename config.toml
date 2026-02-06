@@ -26,3 +26,7 @@ highlight_code = false
 
 [extra]
 analytics = true
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Inicio"},
+    {url = "$BASE_URL/wiki", name = "Wiki"},
+]
