@@ -19,19 +19,19 @@ El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada cone
 
 ## 📚 Capítulos
 
-- [Capítulo 0: Omnihilismo]({{< relref "capitulo0-omnihilismo.md" >}}) (Peso: 0)
-- [Capítulo 1: La Explosión de la Burbuja]({{< relref "capitulo1-burbuja.md" >}}) (Peso: 1)
-- [Capítulo 2: Diagnóstico]({{< relref "capitulo2-diagnostico.md" >}}) (Peso: 2)
-- [Capítulo 3: Sombra]({{< relref "capitulo3-sombra.md" >}}) (Peso: 3)
-- [Capítulo 4: Distancia]({{< relref "capitulo4-distancia.md" >}}) (Peso: 4)
-- [Capítulo 5: Absurdo]({{< relref "capitulo5-absurdo.md" >}}) (Peso: 5)
-- [Capítulo 6: Destrucción]({{< relref "capitulo6-destruccion.md" >}}) (Peso: 6)
-- [Capítulo 7: Disección]({{< relref "capitulo7-diseccion.md" >}}) (Peso: 7)
-- [Capítulo 8: Diciembre]({{< relref "capitulo8-diciembre.md" >}}) (Peso: 8)
-- [Capítulo 9: Beso]({{< relref "capitulo9-beso.md" >}}) (Peso: 9)
-- [Capítulo 10: Londres]({{< relref "capitulo10-londres.md" >}}) (Peso: 10)
-- [Capítulo 11: Bandas]({{< relref "capitulo11-bandas.md" >}}) (Peso: 11)
-- [Capítulo 12: Horizontes]({{< relref "capitulo12-horizontes.md" >}}) (Peso: 12)
+- [Capítulo 0: Omnihilismo](capitulo0-omnihilismo/) 
+- [Capítulo 1: La Explosión de la Burbuja](capitulo1-burbuja/)
+- [Capítulo 2: Diagnóstico](capitulo2-diagnostico/)
+- [Capítulo 3: Sombra](capitulo3-sombra/)
+- [Capítulo 4: Distancia](capitulo4-distancia/)
+- [Capítulo 5: Absurdo](capitulo5-absurdo/)
+- [Capítulo 6: Destrucción](capitulo6-destruccion/)
+- [Capítulo 7: Disección](capitulo7-diseccion/)
+- [Capítulo 8: Diciembre](capitulo8-diciembre/)
+- [Capítulo 9: Beso](capitulo9-beso/)
+- [Capítulo 10: Londres](capitulo10-londres/)
+- [Capítulo 11: Bandas](capitulo11-bandas/)
+- [Capítulo 12: Horizontes](capitulo12-horizontes/)
 
 ---
 
@@ -45,7 +45,7 @@ El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada cone
 
 ## 🔗 Navegación
 
-**[← Volver a la Trilogía](../)** | **[Siguiente Libro →](../libro2-codigos-rotos/)**
+**[← Inicio](../)** | **[Siguiente Libro →](../libro2-codigos-rotos/)**
 
 ---
 
