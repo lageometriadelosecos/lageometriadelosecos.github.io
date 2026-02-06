@@ -22,5 +22,9 @@ Es el tiempo de **"Le Peter No"**: el rechazo a crecer bajo las normas impuestas
 - [Capítulo 39: Debug](capitulo39-debug/)
 - [Capítulo 40: Fanzines y Código](capitulo40-fanzines/)
 - [Capítulo 41: Código QR para un Corazón Roto](capitulo41-codigo-qr/)
-- [Capítulo 42: Eileen](capitulo42-eileen/)
-- [Capítulo 43: Sandy](capitulo43-sandy/)
+
+---
+
+## 🔗 Navegación
+
+**[← Libro Anterior](../libro3-aquarium/)** | **[Inicio](../)** | **[Siguiente Libro →](../libro5-aventuras-de-kirlian/)**
