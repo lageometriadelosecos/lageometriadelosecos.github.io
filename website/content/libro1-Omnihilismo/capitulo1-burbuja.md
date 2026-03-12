@@ -4,7 +4,7 @@ weight = 1
 novela = ["libro1-Omnihilismo"]
 +++
 
-**[19/10/19 20:13] Explosión de la burbuja**
+**[02/07/16 20:13] Explosión de la burbuja**
 
 > Si existe una forma discreta y políticamente correcta de suicidarse es hacerlo mentalmente. Algunas indicaciones:
 >
