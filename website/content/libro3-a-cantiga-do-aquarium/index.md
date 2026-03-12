@@ -16,7 +16,7 @@ El libro de la madurez, donde Kirlian se convierte en el arquitecto de su propia
 
 ## 📚 Capítulos
 
-- [Capítulo 34: Aquarium](capitulo34-aquarium/)
+- [Capítulo 34: A Cantiga Do Aquarium](capitulo34-a-cantiga-do-aquarium/)
 
 ---
 
