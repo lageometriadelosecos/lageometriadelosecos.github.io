@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 4: Distancia"
 weight = 4
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 El café con Érika había sido un ejercicio de realismo brutal envuelto en la
@@ -123,4 +123,3 @@ contradictoria y a menudo irracional geometría de las relaciones humanas. Quiz�
 solo la literatura, con su aceptación de la ambigüedad y la imperfección, podía
 acercarse a describir el espacio desconcertante en el que ahora se encontraba
 perdido.
-

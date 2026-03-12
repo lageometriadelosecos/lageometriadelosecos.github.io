@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 43: Sandy"
 weight = 43
-novela = ["libro4-lepeterno"]
+novela = ["libro5-Las-Aventuras-De-Kirlian"]
 +++
 
 Sandy apareció en mi vida como un "glitch" en la Matrix de mi soledad monógama. No fue un encuentro casual, sino una reescritura de código legado. Sandy siempre había estado ahí, asociada a la época de 2016, una figura periférica en el grupo que ahora, en 2022, cobraba un protagonismo inesperado.

@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 9: Beso"
 weight = 9
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 La noche había terminado con el beso, pero el eco resonaba días después. Kirlian caminaba por las calles de Almería con Alice, el sol de enero pegando fuerte contra el asfalto. Habían quedado para estudiar, pero ninguno de los dos había abierto un libro.

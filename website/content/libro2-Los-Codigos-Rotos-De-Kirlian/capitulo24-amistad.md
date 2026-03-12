@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 24: Amistad"
 weight = 24
-novela = ["libro2--codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 La primavera de 2019 en Granada, con sus promesas de renovación, encontró a Kirlian lidiando con una herida que supuraba en la quietud de su ser. La "inversión de la carne", la confesión de Alice sobre su encuentro con "aquel chico del viaje" en noviembre, había sido una bomba de relojería emocional cuya onda expansiva seguía reverberando meses después. Aunque no habían "roto" formalmente, la dinámica entre ellos se había vuelto un campo minado de silencios tensos y conversaciones evitadas. Aquel "contrato explícito" de libertad, tan racionalmente acordado, se había revelado como una trampa dolorosa para Kirlian.

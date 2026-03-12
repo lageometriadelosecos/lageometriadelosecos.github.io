@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 2: Diagnóstico"
 weight = 2
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 La consulta del doctor tenía ese olor aséptico y universal a espera y malas noticias. Kirlian miraba el poster de anatomía digestiva en la pared, intentando descomponerlo en formas geométricas simples para no tener que pensar en por qué estaba allí. Un tubo, un cilindro topológico, un toroide complejo.

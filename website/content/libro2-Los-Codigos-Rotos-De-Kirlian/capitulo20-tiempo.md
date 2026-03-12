@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 20: Tiempo"
 weight = 20
-novela = ["libro2--codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 La cena con Velouria en aquel pequeño restaurante de ramen había comenzado con una fluidez inesperada. Hablaron de la hipótesis del continuo, de música, de la vida en Granada. Kirlian se atrevió a mencionar a Érika Durán, la intensidad de sus debates filosóficos adolescentes. Velouria escuchaba con esa atención suya que parecía desentrañar significados ocultos.

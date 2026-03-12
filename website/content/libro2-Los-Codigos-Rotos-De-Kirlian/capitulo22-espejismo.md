@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 22: Espejismo"
 weight = 22
-novela = ["libro2--codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 El otoño en Granada se había teñido de una crudeza inesperada, no por el clima, que seguía su curso con la melancolía predecible de noviembre, sino por la implosión emocional que Kirlian arrastraba desde el regreso de Alice de su viaje. Las palabras de ella, aquellas dagas verbales sobre haber estado con otras personas, sobre sentirse "más viva que nunca", sobre el abismo de "dejarlo todo y quedarse allí", habían demolido el precario edificio de certezas que Kirlian creía haber construido en su relación.
