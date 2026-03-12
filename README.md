@@ -39,10 +39,11 @@ La web vive en la carpeta `website/`.
 - **Despliegue**: Automático vía GitHub Actions al hacer push a `main`.
 
 ### 🎙️ Generación de Audio
-Los scripts se encuentran en `tools/`. Utilizan Google Cloud TTS (modelo Chirp 3 HD) para procesar los capítulos.
-- **Script principal**: `python tools/script.py`
-- **Libro 1**: `python tools/script_libro1.py`
-- **Salida**: Los archivos MP3 se generan en subcarpetas dentro de `tools/`.
+La generación de audio se centraliza en `tools/generar_audiolibro.py`. Utiliza Google Cloud TTS (modelo Chirp 3 HD) para procesar capítulos desde `website/content/`.
+- **Texto consolidado + audio**: `python tools/generar_audiolibro.py --mode all`
+- **Solo texto**: `python tools/generar_audiolibro.py --mode text`
+- **Un libro concreto**: `python tools/generar_audiolibro.py --mode audio --book libro1-viernes-interior --full-book`
+- **Salida**: Los MP3 se generan dentro de `tools/audiolibro/` y el texto consolidado en `tools/audiolibro_completo.txt`.
 
 ### 📄 Exportación a PDF/EPUB
 Utilizamos Pandoc y XeLaTeX para maquetación profesional.

@@ -9,6 +9,7 @@ website/public/
 public/
 drafting/export/
 orders
+tools/.venv
 
 # Archivos específicos de la novela (PDFs generados, etc)
 drafting/novela/*.pdf
