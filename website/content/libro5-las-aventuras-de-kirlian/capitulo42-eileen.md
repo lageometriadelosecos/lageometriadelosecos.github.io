@@ -4,104 +4,68 @@ weight = 42
 novela = ["libro5-Las-Aventuras-De-Kirlian"]
 +++
 
-La luz fluorescente del laboratorio de computación a las diez de la noche tenía
-la cualidad de aplanar el mundo, reduciéndolo a pantallas parpadeantes y el
-zumbido constante de los ventiladores. Kirlian sentía cómo sus propios bordes se
-difuminaban bajo esa luz implacable, la cafeína de la tarde empezando a
-convertirse en una ansiedad vibrátil en lugar de concentración. El código frente
-a él –parte de un proyecto final para una asignatura que había perdido todo
-interés meses atrás– se negaba a compilar, lanzando errores crípticos que
-parecían burlarse de sus horas de esfuerzo.
+El piso de Granada estaba en penumbra cuando Eileen llegó. Kirlian había anulado su matrícula hacía semanas, y el apartamento se había convertido en su refugio y su prisión. Libros apilados, el portátil abierto con código a medio escribir, tazas de café olvidadas.
 
-Un golpe suave en el separador de su cubículo lo hizo sobresaltarse. Era Eileen.
-Estaba apoyada en el marco, con esa mezcla suya de intensidad concentrada y una
-especie de cansancio elegante. Llevaba el pelo recogido en un moño desordenado
-del que escapaban algunos mechones rebeldes. Sostenía dos vasos de cartón de la
-máquina de café.
+Eileen entró con esa presencia serena que siempre tenía, como si llevara consigo una burbuja de calma. Se sentó en el sofá desgastado, mirando a Kirlian con esos ojos que parecían ver demasiado.
 
-—¿Invocando al dios de los errores de segmentación? —preguntó, su voz baja y
-ligeramente ronca, ofreciéndole uno de los vasos—. Pareces al borde de un
-sacrificio ritual al compilador. Te traje un café. O lo que sea que sirva esta
-máquina infernal.
+—Me alegro de que hayas venido —dijo Kirlian, la voz más vulnerable de lo que pretendía.
 
-Kirlian aceptó el vaso, el calor precario filtrándose a través del cartón.
-—Gracias, Eileen. Estaba más bien considerando una defenestración del portátil.
-O mía. Este maldito algoritmo de grafos se resiste a cualquier lógica humana o
-divina.
+—Me preocupaste con tu mensaje —respondió Eileen—. Dijiste que necesitabas hablar. De verdad.
 
-Ella se deslizó en la silla libre junto a él, dejando su propio vaso sobre la
-mesa atestada de papeles y cables. Echó un vistazo a su pantalla. —¿El problema
-de Steiner en redes? Un clásico de la tortura académica. ¿Probaste con el
-enfoque de heurísticas genéticas o sigues empeñado en la solución exacta?
+Kirlian asintió. Había pasado días preparándose para esta conversación, escribiendo y borrando mensajes, ensayando palabras que nunca salían bien. Pero ahora, frente a ella, toda la preparación se evaporó.
 
-Y así empezaron. Lo que comenzó como una consulta técnica sobre el proyecto
-derivó, como solía pasar entre ellos, hacia terrenos más amplios y sinuosos.
-Hablaron de la arbitrariedad de ciertos requisitos académicos, de la sensación
-de estar corriendo en una rueda de hámster hacia un futuro profesional incierto,
-de un artículo que ambos habían leído sobre la ética de la IA en la vigilancia
-predictiva. La conversación fluía con una facilidad que Kirlian rara vez
-experimentaba. Con Eileen, no necesitaba traducir sus pensamientos ni
-simplificarlos. Había un reconocimiento mutuo, una resonancia intelectual que
-era a la vez estimulante y profundamente cómoda. Podían pasar horas debatiendo
-sobre filosofía de la mente o el último episodio de alguna serie oscura,
-saltando de un tema a otro con una agilidad que dejaba a Kirlian sintiéndose
-menos solo en su propia cabeza.
+—He estado... pensando mucho —empezó, las palabras saliendo torpes—. Sobre mí. Sobre nosotros. Sobre lo que siento.
 
-Pero bajo esa superficie intelectual, siempre vibraba otra corriente. Una
-tensión sutil, no expresada, que se manifestaba en silencios que se alargaban un
-segundo de más, en miradas que se sostenían con una intensidad
-que bordeaba lo incómodo antes de desviarse, en la conciencia aguda de la
-proximidad física cuando se inclinaban juntos sobre una pantalla o un libro.
+Eileen esperó, paciente. Era psicóloga, sabía el valor del silencio.
 
-Mientras Eileen le señalaba una posible optimización en su código, Kirlian notó
-cómo la luz fluorescente atrapaba el brillo de un pequeño pendiente de plata en
-su oreja, un detalle que nunca antes había registrado. Sintió un impulso fugaz,
-casi imperceptible, de... ¿qué? ¿Decir algo personal? ¿Romper el pacto tácito de
-camaradería intelectual? El impulso murió antes de nacer, ahogado por años de
-cautela y la complejidad misma de lo que *era* aquello que tenían.
+—Creo que me he enamorado de ti —dijo Kirlian finalmente, la confesión cayendo como una piedra en el espacio entre ellos—. O al menos, de la idea de ti. De tu inteligencia, de tu calma, de cómo me haces sentir cuando hablamos. Y sé que es injusto, porque tú nunca me diste señales de que...
 
-—A veces pienso —dijo Eileen de repente, apartando la vista del código y mirando
-al vacío del laboratorio semidesierto— que pasamos tanto tiempo optimizando
-algoritmos que se nos olvida cómo optimizar... bueno, todo lo demás. O quizás
-simplemente no hay algoritmo para eso.
+—Kirlian —interrumpió Eileen suavemente—. Respira.
 
-La frase quedó flotando en el aire cargado de electricidad estática. Era una de
-esas observaciones suyas que bordeaban lo personal sin cruzar la línea, abriendo
-una puerta a una conversación más profunda que Kirlian rara vez se atrevía a
-atravesar.
+Él obedeció, inhalando profundamente.
 
-—Quizás el problema es la función objetivo —respondió él, siguiendo el juego de
-la metáfora—. No está clara. O cambia constantemente. O es intrínsecamente no
-computable.
+—No te veo de esa manera, Ricardo —dijo Eileen, su voz firme pero amable—. Valoro tu amistad, tu profundidad, tu mente brillante. Pero no siento atracción romántica hacia ti. Y necesito que lo entiendas.
 
-Ella sonrió levemente, una sonrisa que no llegó del todo a sus ojos. —Puede ser.
-O quizás simplemente tenemos miedo de ejecutar el código.
+Las palabras dolieron, pero no fue la puñalada que Kirlian esperaba. Fue más como... un alivio. La verdad, finalmente dicha.
 
-Otro silencio. Kirlian sintió la verdad incómoda en sus palabras. El miedo. El
-miedo a complicar algo que funcionaba en su nivel actual, miedo al rechazo,
-miedo a la vulnerabilidad, miedo a repetir patrones pasados. Su relación con
-Eileen era un espacio seguro precisamente porque sus límites, aunque tensos,
-estaban definidos por lo no dicho, por lo no hecho. Era una geometría imposible,
-dos puntos conectados por una línea recta de intelecto y afecto, pero con una
-dimensión adicional de atracción o posibilidad que ambos evitaban cuidadosamente
-explorar, creando una forma estable pero inherentemente insatisfactoria.
+—Lo sé —admitió—. Creo que siempre lo supe. Pero necesitaba escucharlo. Necesitaba... dejar de vivir en la fantasía.
 
-—Bueno —dijo Eileen finalmente, levantándose con un suspiro casi inaudible—,
-creo que mi cerebro ya ha compilado por hoy. Gracias por el problema de Steiner,
-ha sido una distracción bienvenida de mis propios demonios algorítmicos. ¿Mañana
-misma hora, misma batalla?
+Eileen se inclinó hacia adelante, sus ojos serios.
 
-—Hecho —respondió Kirlian, sintiendo una mezcla de alivio y una punzada de algo
-parecido a la decepción—. Quizás mañana el dios de los grafos sea más benévolo.
+—¿Sabes cuál es tu problema, Kirlian? No eres consciente de lo genial que eres. Te pasas la vida idealizando a otras personas —Alice, Marzi, yo— porque no puedes ver tu propio valor. Proyectas todo lo que quieres ser en nosotras, en lugar de simplemente ser tú mismo.
 
-Ella le dedicó un último gesto de cabeza y se alejó, su figura recortándose
-contra la luz artificial antes de desaparecer por el pasillo. Kirlian se quedó
-mirando la pantalla, el código olvidado por un momento. El café se había
-enfriado. La conexión con Eileen era real, innegable. Estimulante, reconfortante
-incluso. Pero también era un recordatorio constante de su propia incapacidad
-para navegar la complejidad emocional sin recurrir a la distancia analítica o a
-la evasión. Era una relación platónica por diseño, quizás por cobardía mutua. Y
-la tensión no resuelta no era solo sexual o romántica; era la tensión de lo
-posible contra lo real, de la seguridad del puerto conocido contra la
-incertidumbre del mar abierto. Otro problema complejo sin una solución óptima a
-la vista.
+Kirlian sintió el escozor de las lágrimas.
+
+—Es más fácil amar un ideal que amar a una persona real —dijo—. Los ideales no te rechazan. No te decepcionan. No tienen sus propios deseos que chocan con los tuyos.
+
+—Pero tampoco te aman de vuelta —respondió Eileen—. Y al final, te quedas solo con tus fantasías.
+
+Se quedaron en silencio un momento. Afuera, Granada seguía su ritmo nocturno, indiferente a los pequeños dramas humanos.
+
+—¿Podemos seguir siendo amigos? —preguntó Kirlian finalmente.
+
+Eileen sonrió, una sonrisa genuina y cálida.
+
+—Siempre hemos sido amigos, Kirlian. Eso no cambia. Pero necesitas dejar de buscar en mí lo que solo puedes encontrar en ti mismo.
+
+—¿Y qué es eso?
+
+—Aceptación. Paz. La certeza de que eres suficiente tal como eres.
+
+Kirlian asintió, aunque no estaba seguro de creerlo todavía. Pero era un comienzo.
+
+Cuando Eileen se fue esa noche, Kirlian se quedó en el sofá, mirando el techo. No sentía el dolor agudo del rechazo que había temido. Sentía algo diferente. Algo parecido a la liberación.
+
+Abrió su diario y escribió:
+
+*"Eileen me rechazó. Y está bien. No porque no duela, sino porque era necesario. He pasado años persiguiendo fantasmas, idealizando mujeres que representaban lo que yo quería ser: libre como Alice, intelectual como Marzi, serena como Eileen. Pero ninguna de ellas es responsable de mi felicidad. Ninguna de ellas puede llenar el vacío que solo yo puedo llenar.*
+
+*Hoy aprendí que el amor no es posesión. No es proyección. Es aceptación. Y antes de poder amar a alguien de verdad, necesito aprender a aceptarme a mí mismo. Con todas mis contradicciones, mis miedos, mis fracasos.*
+
+*Eileen tiene razón. Soy suficiente. Solo necesito creerlo."*
+
+Cerró el portátil y miró por la ventana. Granada brillaba bajo las luces nocturnas, hermosa e indiferente. Y por primera vez en mucho tiempo, Kirlian se sintió en paz con esa indiferencia.
+
+No necesitaba que el mundo lo validara. No necesitaba que una mujer lo completara.
+
+Solo necesitaba aprender a estar consigo mismo.

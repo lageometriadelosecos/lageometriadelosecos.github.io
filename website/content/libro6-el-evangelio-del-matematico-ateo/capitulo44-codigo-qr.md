@@ -1,7 +1,7 @@
 +++
-title = "Capítulo 41: Código QR para un Corazón Roto"
-weight = 41
-novela = ["libro5-Las-Aventuras-De-Kirlian"]
+title = "Capítulo 44: Código QR para un Corazón Roto"
+weight = 44
+novela = ["libro6-El-Evangelio-Del-Matematico-Ateo"]
 +++
 
 El tiempo, después de aquella conversación funcional pero extrañamente hueca con
