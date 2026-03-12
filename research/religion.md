@@ -186,7 +186,7 @@ La sincronicidad junguiana explica el algoritmo de Spotify: no hay coincidencias
 
 ## XI. REFLEXIONES POST-BROTE: EL LUGAR DE LA RELIGIÓN
 
-Tras el ingreso en el Seranil, el autor no abandona lo espiritual: lo depura.
+Tras el ingreso en la clínica Aquarium, el autor no abandona lo espiritual: lo depura.
 
 > *«Me fui alejando del ateísmo, agnosticismo y escepticismo porque simplemente comprendí y sentí la presencia de Dios en mi interior. Un Dios personal inefable que sin embargo no se identifica con el hombre. Es más bien, trascender lo humano mediante la intuición desarrollada y el amor desinteresado.»*
 
