@@ -3,7 +3,6 @@ title = "La Geometría de los Ecos"
 sort_by = "weight"
 +++
 
-**Por Ricardo Ruiz**
 
 Una mente obsesionada con la lógica tropieza con el caos de la intimidad y el cuerpo. Kirlian intenta programar su propia vida mientras amigos, amores y crisis lo obligan a reescribir el código. Seis libros narran ese proceso de depuración: del deslumbramiento inicial a la desprogramación final.
 
@@ -17,7 +16,5 @@ Una mente obsesionada con la lógica tropieza con el caos de la intimidad y el c
 - **[Libro 6: El Evangelio del Matemático Ateo](@/libro6-el-evangelio-del-matematico-ateo/index.md)**
 
 ---
-
-¿Quién escribe esta historia? Lee la [biografía de Ricardo Ruiz](@/autor/index.md).
 
 *Cada momento aparentemente oscuro se revela como un paso necesario hacia la autenticidad y la conexión genuina.*
