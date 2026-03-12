@@ -1,6 +1,6 @@
 # 📚La Geometría de los Ecos
 
-"La Geometría de los Ecos", conformada por **El Viernes Interior**, **Códigos Rotos** y **El Evangelio del Matemático Ateo**, es un proyecto literario y tecnológico que narra la trilogía de crecimiento y autodescubrimiento de Kirlian. El proyecto integra un sitio web estático (Zola) para la publicación online y un sistema de generación de audiolibros mediante Python (Google Cloud TTS).
+"La Geometría de los Ecos", conformada por **El Viernes Interior**, **Códigos Rotos** y **El Evangelio del Matemático Ateo**, es un proyecto literario y tecnológico que narra la trilogía de crecimiento y autodescubrimiento de Kirlian. El proyecto integra un sitio web estático (Zola) para la publicación online y un sistema de generación de audiolibros mediante Python (gTTS).
 
 ---
 
