@@ -10,6 +10,7 @@ public/
 drafting/export/
 orders
 tools/.venv
+tools/__pycache__/
 
 # Archivos específicos de la novela (PDFs generados, etc)
 drafting/novela/*.pdf
