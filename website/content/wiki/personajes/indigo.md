@@ -3,7 +3,7 @@ title = "Ficha Profunda: Índigo"
 weight = 1
 +++
 
-## 1. Datos Básicos (Ficcionales / Basados en Adri)
+## 1. Datos Básicos (Ficcionales)
 *   **Nombre en la novela:** Índigo
 *   **Arquetipo:** El Conector Social / El Compañero Ansioso.
 *   **Rol Narrativo:** Es el **Relaciones Públicas** de la vida de Kirlian. Mientras Kirlian tiende al aislamiento y la introspección (especialmente con sus problemas de salud), Índigo es quien trae el mundo exterior a su puerta: planes, gente nueva, cotilleos, música y estructura. No es solo un observador pasivo; es un motor de actividad que a veces se cala por sus propias inseguridades.
@@ -26,7 +26,7 @@ weight = 1
 
 ## 4. Realidad vs. Ficción (Zona de Seguridad)
 
-| Rasgo / Evento | Persona Real (Adri) | Personaje (Índigo) | ¿Por qué el cambio? |
+| Rasgo / Evento | Base de memoria | Personaje (Índigo) | ¿Por qué el cambio? |
 | :--- | :--- | :--- | :--- |
 | **Obsesión Musical** | Spotify Wrapped masivo, festivales (Cala Mijas), cultura pop (Lady Gaga, Lana del Rey). | **El Curador Sonoro.** Es quien pone la banda sonora a la novela. Sus recomendaciones (Kraftwerk, Putochinomaricón) marcan el tono de las escenas. | Para contrastar con el silencio o el ruido mental de Kirlian. Índigo llena los vacíos con cultura pop. |
 | **El Carnet** | 7 suspensos, ansiedad severa, odio a la profesora. | **El "Eterno Copiloto".** Un rasgo trágico-cómico. Aunque es quien *dirige* socialmente al grupo, no puede *conducirlos* físicamente. | Convierte un problema real en una metáfora literaria sobre la falta de control y la dependencia. |

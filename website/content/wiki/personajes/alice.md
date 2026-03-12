@@ -22,7 +22,7 @@ weight = 1
 
 **Autor:** ¿Qué es lo que más te frustra de Kirlian?
 
-**Alice:** "Su pasividad disfrazada de estoicismo. Esa manía de racionalizarlo todo, hasta un beso. Que necesite un motivo lógico para hacer algo impulsivo. Que tenga que 'agendar' la espontaneidad. Me frustra que me haga sentir que soy 'demasiado' (demasiado intensa, demasiado dramática, demasiado sexual) solo porque él es 'demasiado poco' hacia afuera".
+**Alice:** "Su pasividad disfrazada de estoicismo. Esa manía de racionalizarlo todo, hasta un beso. Que necesite un motivo lógico para hacer algo impulsivo. Que tenga que 'agendar' la espontaneidad. Me frustra que me haga sentir que soy 'demasiado' (demasiado intensa, demasiado dramática, demasiado desbordada) solo porque él es 'demasiado poco' hacia afuera".
 
 **Autor:** ¿Cuál es tu mayor miedo respecto a vuestra relación?
 
@@ -30,18 +30,18 @@ weight = 1
 
 ## 4. Realidad vs. Ficción (Zona de Seguridad)
 
-| Rasgo / Evento | Persona Real (Memoria: Alice) | Personaje (Alice) | ¿Por qué el cambio? |
+| Rasgo / Evento | Base de memoria | Personaje (Alice) | ¿Por qué el cambio? |
 | :--- | :--- | :--- | :--- |
 | **Físico** | Rubia, gorra, estilo a veces "tirado" pero arreglado. | Pelo corto, quizás teñido de un color antinatural (azul/rosa) o muy oscuro. Ropa de segunda mano muy curada. | Para enfatizar visualmente su rebeldía contra lo normativo y alejarla de la imagen real. |
 | **Origen/Contexto** | Estudiante de Humanidades/Traducción. Vuelve de Austria. | Estudiante de Arte Dramático o Bellas Artes. Vuelve de un lugar más caótico (Berlín o Sudamérica). | Para acentuar el contraste entre la lógica de Kirlian (Ciencias) y la pura emoción/expresión de ella. |
-| **El "Cuarteto"** | Tensión sexual no resuelta/confusa con Bauti y Elena. | Una situación explícita de poliamor fallido o una orgía interrumpida por un ataque de pánico/risa. | Para elevar la apuesta dramática. En la ficción, la tensión debe explotar para generar conflicto real, no solo quedar en anécdota. |
+| **El "Cuarteto"** | Tensión afectiva grupal no resuelta. | Una situación grupal fallida o interrumpida por un ataque de pánico/risa. | Para elevar la apuesta dramática. En la ficción, la tensión debe explotar para generar conflicto real, no solo quedar en anécdota. |
 | **Comunicación** | Audios infinitos, cambios de tema constantes, "me meo", "chacho". | Habla en metáforas, citas de canciones oscuras y cambios bruscos de tono (de la risa al llanto). | Para hacerla más literaria y enigmática, manteniendo su esencia volátil pero quitando el "ruido" del chat adolescente. |
 
 ## 5. Arco Narrativo de Alice
 
-*   **Inicio (El Detonante):** Alice irrumpe en la vida monótona de Kirlian (quizás online, quizás en un evento aburrido) y lo desafía. Le hace ver que su "lógica" es una jaula. Le introduce en la música, en las drogas suaves, en el sexo verbal/teórico.
-*   **Punto Medio (La Cima y la Caída):** El verano de los festivales y la experimentación. Alice empuja los límites (la propuesta del cuarteto/trío). Aquí es donde conectan más físicamente, pero donde sus filosofías chocan. Ella quiere vivir el momento sin etiquetas ("no somos novios, somos compañeros de crimen"); él necesita definirlo para entenderlo. Se produce un evento "límite" (la casi-orgía o un viaje improvisado que sale mal) que expone sus diferencias.
+*   **Inicio (El Detonante):** Alice irrumpe en la vida monótona de Kirlian (quizás online, quizás en un evento aburrido) y lo desafía. Le hace ver que su "lógica" es una jaula. Le introduce en la música, en las drogas suaves y en una provocación afectiva constante.
+*   **Punto Medio (La Cima y la Caída):** El verano de los festivales y la experimentación. Alice empuja los límites (la propuesta grupal). Aquí es donde conectan más físicamente, pero donde sus filosofías chocan. Ella quiere vivir el momento sin etiquetas ("no somos novios, somos compañeros de crimen"); él necesita definirlo para entenderlo. Se produce un evento límite, o un viaje improvisado que sale mal, que expone sus diferencias.
 *   **Clímax/Final (La Separación Necesaria):** Llega el momento de la "vuelta a la realidad" (fin del verano, vuelta a las clases/ciudades distintas). Alice se da cuenta de que Kirlian no puede darle la intensidad constante que ella necesita, y Kirlian se da cuenta de que no puede sostener el caos de Alice sin romperse. Se separan, no por falta de amor, sino por incompatibilidad de velocidades. Alice se marcha a su siguiente "aventura", dejando a Kirlian transformado, "infectado" de vida, pero herido.
 
 ---
-*Nota final para el autor:* Recuerda que Alice utiliza el sexo y el humor (el "petardeo") como mecanismo de defensa. Cuando se siente vulnerable, hace un chiste o propone una locura sexual. Esa es su armadura.
+*Nota final para el autor:* Recuerda que Alice utiliza la provocación y el humor (el "petardeo") como mecanismo de defensa. Cuando se siente vulnerable, hace un chiste o propone una locura afectiva. Esa es su armadura.

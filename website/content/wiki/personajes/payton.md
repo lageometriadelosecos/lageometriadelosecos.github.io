@@ -26,9 +26,9 @@ weight = 8
 
 ## 4. Realidad vs. Ficción (Zona de Seguridad)
 
-| Rasgo / Evento | Persona Real (Jose) | Personaje (Payton) | ¿Por qué el cambio? |
+| Rasgo / Evento | Base de memoria | Personaje (Payton) | ¿Por qué el cambio? |
 | :--- | :--- | :--- | :--- |
-| **Nombre** | Jose | **Payton** | Un nombre más moderno y sonoro, quizás con un toque "indie" que encaja con la estética universitaria. |
+| **Nombre** | Nombre original omitido | **Payton** | Un nombre más moderno y sonoro, quizás con un toque "indie" que encaja con la estética universitaria. |
 | **Relación** | Compañero de carrera y amigo. | **El Hermano de Armas.** | Se enfatiza la conexión a través de la identidad LGTB y el apoyo en crisis. |
 | **Personalidad** | Amable, cercano. | **El Escudo Tranquilo.** | Frente al caos mental de Kirlian, Payton se presenta como una fuerza calmada y constante. |
 
