@@ -3,37 +3,26 @@ name: Deploy Zola Site to GitHub Pages
 on:
   push:
     branches:
-      - main # Or whichever branch contains your Zola source code
+      - main
 
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
 
-    # Add this permissions block!
     permissions:
-      contents: write # Allows the action to push to the repository
+      contents: write
 
     steps:
       - name: Checkout Source Code
         uses: actions/checkout@v4
         with:
-          # If your Zola project uses submodules (like your theme)
           submodules: true
+          fetch-depth: 0
 
       - name: Build and Deploy
-        uses: shalzz/zola-deploy-action@master # Or specify a specific version tag like @v0.17.2
+        uses: shalzz/zola-deploy-action@master
         env:
-          # The GITHUB_TOKEN secret is automatically available to the workflow
-          # Pass it to the action using the 'TOKEN' environment variable
-          # OR check the action's documentation if it uses a 'with:' input instead.
-          # Based on the docker run command, it seems to expect an env var named TOKEN
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          # Optional: Specify the branch to deploy to if it's not 'master'
-          PAGES_BRANCH: master # Uncomment and set if your deployment branch is 'main'
-
-          # Optional: Specify the directory containing the Zola project if not root
-          BUILD_DIR: website # Uncomment and set if your zola project is in 'site/'
-
-          # Optional: Add a custom commit message
-          # COMMIT_MESSAGE: "Deploy Zola site [skip ci]"
+          PAGES_BRANCH: master
+          BUILD_DIR: website
+          COMMIT_MESSAGE: "Deploy generated Zola site to master [skip ci]"
