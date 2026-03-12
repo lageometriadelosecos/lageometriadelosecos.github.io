@@ -1,82 +1,68 @@
-# 📚 La Trilogía: Geometría de los Ecos
-## Estructura Separada por Libros
+# 📚 La Geometría de los Ecos
 
-Esta trilogía ha sido reorganizada en tres libros independientes que cuentan la historia completa del crecimiento y evolución de Kirlian.
-
----
-
-## 🌟 **Estructura de la Trilogía**
-
-### 📖 **[Libro 1: El Viernes Interior](libro1-viernes-interior/)**
-*La Búsqueda del Reflejo*
-
-- **Capítulos:** 0-11
-- **Tono:** Nostálgico, brillante, juvenil-filosófico
-- **Tema:** La búsqueda de la conexión y la identidad a través de la amistad y el idealismo
-- **Arco:** De buscar validación intelectual única a abrirse a conexión completa y terrenal
-
-### 📖 **[Libro 2: Códigos Rotos](libro2--codigos-rotos/)**
-*La Deconstrucción Necesaria*
-
-- **Capítulos:** 12-33
-- **Tono:** Introspectivo, melancólico, pero cada caída es preludio de lección vital
-- **Tema:** La humildad. Aprender que el intelecto no puede controlarlo todo
-- **Arco:** Su identidad intelectual se desmorona para dar paso a una más auténtica y resiliente
-
-### 📖 **[Libro 3: La Búsqueda de un Timón](libro3-busqueda-timon/)**
-*La Reconstrucción*
-
-- **Capítulos:** 40+
-- **Tono:** Calmado, sabio, esperanzador
-- **Tema:** La autoaceptación y la búsqueda de equilibrio personal
-- **Arco:** De buscar respuestas fuera a construir su propio centro de gravedad
+"La Geometría de los Ecos" es un proyecto literario y tecnológico que narra la trilogía de crecimiento y autodescubrimiento de Kirlian. El proyecto integra un sitio web estático (Zola) para la publicación online y un sistema de generación de audiolibros mediante Python (Google Cloud TTS).
 
 ---
 
-## 🗂️ **Organización de Archivos**
+## 🏗️ Estructura del Proyecto
 
-Cada libro tiene su propia estructura de directorios:
+El proyecto está organizado en cuatro áreas lógicas para facilitar el flujo de trabajo:
 
-```
-libro1-viernes-interior/
-├── index.md                    # Índice del libro
-├── capitulo0-omnihilismo/      # Directorio del capítulo
-│   └── capitulo0-omnihilismo.md
-├── capitulo1-axiomas-de-inquietud/
-│   └── capitulo1-axiomas-de-inquietud.md
-└── ... (resto de capítulos 2-11)
-
-libro2-codigos-rotos/
-├── index.md
-├── capitulo12-codigos-compartidos/
-│   └── capitulo12-codigos-compartidos.md
-└── ... (resto de capítulos 13-33)
-
-libro3-busqueda-timon/
-├── index.md
-├── capitulo40-fanzines-y-codigo/
-│   └── capitulo40-fanzines-y-codigo.md
-└── ... (resto de capítulos 41-43)
+```text
+.
+├── website/     # Sitio web (Zola): contenido público, temas y plantillas.
+├── drafting/    # Espacio de escritura: borradores, arquitectura y diario.
+├── research/    # Investigación: world-building (filosofía, religión, wiki).
+└── tools/       # Herramientas: scripts de audiolibro y utilidades.
 ```
 
 ---
 
-## 🎯 **Beneficios de esta Organización**
+## 🌟 La Trilogía
 
-1. **Lectura Independiente:** Cada libro puede leerse por separado
-2. **Navegación Clara:** Estructura organizada por arcos narrativos
-3. **Fácil Mantenimiento:** Cada capítulo en su propio directorio
-4. **Escalabilidad:** Fácil agregar nuevos capítulos o libros
+La obra se divide en tres arcos narrativos principales:
 
----
+1.  **Libro 1: El Viernes Interior** (Búsqueda del reflejo, idealismo).
+2.  **Libro 2: Códigos Rotos** (Deconstrucción necesaria, cura de humildad).
+3.  **Libro 3: La Búsqueda de un Timón** (Reconstrucción y autoaceptación).
 
-## 📝 **Notas de la Reestructuración**
-
-- Los archivos originales se mantienen en `content/` como respaldo
-- Cada libro mantiene la coherencia narrativa y temática
-- La numeración de capítulos refleja el orden cronológico original
-- Los archivos de índice de cada libro proporcionan contexto y navegación
+> Para detalles literarios, consulte la documentación en `drafting/`.
 
 ---
 
-*Esta organización transforma la narrativa en una experiencia de lectura estructurada, donde cada libro representa una fase distinta en la evolución del protagonista.*
+## 🛠️ Flujo de Trabajo Técnico
+
+### 🌐 Sitio Web (Zola)
+La web vive en la carpeta `website/`.
+- **Servir localmente**: `zola serve --root website`
+- **Compilar**: `zola build --root website`
+- **Despliegue**: Automático vía GitHub Actions al hacer push a `main`.
+
+### 🎙️ Generación de Audio
+Los scripts se encuentran en `tools/`. Utilizan Google Cloud TTS (modelo Chirp 3 HD) para procesar los capítulos.
+- **Script principal**: `python tools/script.py`
+- **Libro 1**: `python tools/script_libro1.py`
+- **Salida**: Los archivos MP3 se generan en subcarpetas dentro de `tools/`.
+
+### 📄 Exportación a PDF/EPUB
+Utilizamos Pandoc y XeLaTeX para maquetación profesional.
+- Los archivos fuente están en `drafting/novela/`.
+- El script de maquetación se encuentra en `tools/` (o directamente ejecutable desde `drafting/`).
+
+---
+
+## 📝 Guía de Escritura
+
+1.  **Investigación**: Los datos de world-building se mantienen en `research/`.
+2.  **Borradores**: Escribe y refina en `drafting/`.
+3.  **Publicación**: Copia los capítulos terminados a `website/content/` con su correspondiente frontmatter TOML.
+4.  **Git**: Cada commit debe ser atómico (ej: `writing: capitulo 5`, `research: notas de psiquiatría`).
+
+---
+
+## 🚀 Despliegue CI/CD
+El archivo `.github/workflows/main.yml` gestiona la compilación automática. Se ha configurado para buscar el proyecto Zola en la ruta `website/`.
+
+---
+
+*Transformando la narrativa en una experiencia estructurada y multicanal.*
