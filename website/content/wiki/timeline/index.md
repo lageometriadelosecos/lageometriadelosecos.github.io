@@ -87,7 +87,7 @@ Descripción: Kirlian regresa de Londres transformado, pero la rutina académica
 
 Capítulo 10: Las Luces. El Refugio. La Carne.
 
-Descripción: Final de Bachillerato. Matrícula de Honor para Kirlian y Alice. La celebración en Almería y una noche de intimidad física que marca un antes y un después: Kirlian pierde la virginidad (o la barrera psicológica) y acepta su cuerpo y el deseo.
+Descripción: Final de Bachillerato. Matrícula de Honor para Kirlian y Alice. La celebración en Almería y una noche de intimidad que marca un antes y un después: Kirlian derriba una barrera psicológica importante y acepta mejor su cuerpo y el deseo.
 
 Capítulo 11: Horizontes Divergentes y el Miedo al Abandono
 
@@ -105,7 +105,7 @@ Descripción: Diciembre 2017. El fracaso en los parciales sume a Kirlian en una 
 
 Capítulo 14: Remontada Granadina y Nuevos Códigos
 
-Descripción: Primavera 2018. Kirlian remonta académicamente, la relación con Alice se estabiliza, y florece su vida social con Julia (Blanca), Payton (Jose) y otros del DGIIM. Participación en el 8M y descubrimiento de una vida universitaria más allá del estudio.
+Descripción: Primavera 2018. Kirlian remonta académicamente, la relación con Alice se estabiliza, y florece su vida social con Julia, Payton y otros del DGIIM. Participación en el 8M y descubrimiento de una vida universitaria más allá del estudio.
 
 Capítulo 15: La Templanza Granadina y el Código Reescrito
 
@@ -117,11 +117,11 @@ Descripción: La vida universitaria en Granada con Alice se teje a través de c�
 
 Capítulo 17: Consolidación, Códigos LGTB y la Síntesis Poética
 
-Descripción: Final del primer año. Kirlian consolida su amistad con Julia y Payton (salida del armario compartida de Payton/Jose). Kirlian sintetiza sus emociones en un poema que refleja el equilibrio alcanzado.
+Descripción: Final del primer año. Kirlian consolida su amistad con Julia y Payton, marcada también por la vulnerabilidad compartida. Kirlian sintetiza sus emociones en un poema que refleja el equilibrio alcanzado.
 
 Capítulo 18: La Disonancia del Deseo
 
-Descripción: Verano 2018 en Almería. Noches de "inconsciencia etílica" y exploración sexual intensa y transgresora con Alice, Demian y Érika Durán (el cuarteto/trío). Kirlian abraza el hedonismo para romper sus barreras.
+Descripción: Verano 2018 en Almería. Noches de "inconsciencia etílica" y exploración afectiva intensa y transgresora con Alice, Demian y Érika Durán. Kirlian abraza el hedonismo para romper sus barreras.
 
 Capítulo 19: Granada Eterna y la Órbita del Ruido Compartido
 
@@ -129,7 +129,7 @@ Descripción: Septiembre 2018 (Inicio 2º DGIIM). Kirlian, Alice e Índigo forma
 
 Capítulo 20: La Demostración Inmóvil y el Colapso de un Prejuicio
 
-Descripción: Otoño 2018. En una sesión de estudio, la brillantez matemática de la enigmática Velouria (Valeria) destroza los prejuicios intelectuales de Kirlian. Comienza una atracción intelectual y física que Kirlian reprime por lealtad a Alice.
+Descripción: Otoño 2018. En una sesión de estudio, la brillantez matemática de la enigmática Velouria destroza los prejuicios intelectuales de Kirlian. Comienza una atracción intelectual y física que Kirlian reprime por lealtad a Alice.
 
 Capítulo 21: Perdiendo el Tiempo
 
@@ -141,11 +141,11 @@ Descripción: Kirlian reflexiona sobre su inacción con Velouria, causada por el
 
 Capítulo 23: La Inversión de la Carne y el Espejismo de la Lógica
 
-Descripción: Nov-Dic 2018. Alice confiesa sus experiencias sexuales durante su viaje ("follar varias veces"). Kirlian se enfrenta a celos intensos ("inversión de la carne") y dolor, sintiendo que su acuerdo racional ha fallado ante la realidad emocional.
+Descripción: Nov-Dic 2018. Alice confiesa sus experiencias íntimas durante su viaje. Kirlian se enfrenta a celos intensos ("inversión de la carne") y dolor, sintiendo que su acuerdo racional ha fallado ante la realidad emocional.
 
 Capítulo 24: El Derrumbe Silencioso y una Carta de Rescate
 
-Descripción: El cuatrimestre se desmorona (suspende Topología). El aislamiento de Kirlian y su depresión son rotos por una carta de apoyo de Julia (Blanca) y chocolate, que le dan fuerzas para seguir.
+Descripción: El cuatrimestre se desmorona (suspende Topología). El aislamiento de Kirlian y su depresión son rotos por una carta de apoyo de Julia y chocolate, que le dan fuerzas para seguir.
 
 Capítulo 25: La Grieta en el Pecho y el Andamiaje de la Amistad
 
@@ -157,7 +157,7 @@ Descripción: Verano 2019. Intensas experiencias con Alice (casa rural, Juergas 
 
 Capítulo 27: El Ojo de la Tormenta y la Perspectiva Salvadora
 
-Descripción: Septiembre 2019. La llamada de Alice desde Erasmus (confirmando que se ha liado con otro o que quiere abrir la relación definitivamente) desata una crisis total en Kirlian. Érika Durán le presenta a Marla (Marla), cuya conversación ofrece a Kirlian una nueva perspectiva psicológica.
+Descripción: Septiembre 2019. La llamada de Alice desde Erasmus, confirmando que ha seguido explorando su libertad afectiva, desata una crisis total en Kirlian. Érika Durán le presenta a Marla, cuya conversación ofrece a Kirlian una nueva perspectiva psicológica.
 
 Capítulo 28: Confesiones en el Parque y el Eco del Estoicismo
 
@@ -175,15 +175,15 @@ Capítulo 31: Granada Redescubierta, Códigos Ocultos
 
 Descripción: Tras El Seranil, Kirlian vuelve a Granada. Su percepción está alterada, encontrando significados ocultos en canciones y símbolos. Explora el materialismo filosófico y el cristianismo esotérico mientras intenta reinsertarse en la vida académica.
 
-Interludio con Celia (Shayla): Un Romance Efímero y sus Secuelas (Primavera 2022 - Diciembre 2022)
+Interludio con Shayla: Un Romance Efímero y sus Secuelas (Primavera 2022 - Diciembre 2022)
 
 Capítulo 31.1: Keine Sorgen y Fideos Infinitos (Abril 2022)
 
-Descripción: Kirlian y Celia (Shayla) inician contacto. Humor con el alemán ("keine Sorgen"). Primera cita, los "fideos transparentes infinitos". Celia pregunta a Elena Merelo por Kirlian.
+Descripción: Kirlian y Shayla inician contacto. Humor con el alemán ("keine Sorgen"). Primera cita, los "fideos transparentes infinitos". Shayla pregunta por Kirlian a una conocida común.
 
 Capítulo 31.2: Boro Tecnológico y Excursionistas Secuestradas (Abril 2022)
 
-Descripción: Continúan las conversaciones. Celia teletrabaja. Bromas sobre la foto de perfil de Celia. Celia revela que es bisexual. Intercambio de memes. Celia teme haber sido ghosteada.
+Descripción: Continúan las conversaciones. Shayla teletrabaja. Bromas sobre su foto de perfil. Shayla revela que es bisexual. Intercambio de memes. Shayla teme haber sido ghosteada.
 
 Capítulo 31.3: Cristología Improvisada y el Gato Erótico (Abril 2022)
 
@@ -191,19 +191,19 @@ Descripción: Kirlian comparte su interés por el cristianismo. La conversación
 
 Capítulo 31.4: Exámenes, Hackerwoman y Cervezas Virtuales (Abril 2022)
 
-Descripción: Kirlian sufre con el examen. Celia habla de su trabajo de "hackerwoman". Comparten una cerveza "virtualmente". Planean ir a ver patos. Kirlian revela "lo del profe" (sueño erótico/obsesión).
+Descripción: Kirlian sufre con el examen. Shayla habla de su trabajo de "hackerwoman". Comparten una cerveza "virtualmente". Planean ir a ver patos. Kirlian revela "lo del profe" como una obsesión incómoda.
 
 Capítulo 31.5: Cruces, Propuestas y una Noche Decisiva (Mayo 2022)
 
-Descripción: Salida por las Cruces de Mayo. Celia invita a Kirlian a su piso. Pasan la noche juntos. Conversación sobre el poliamor/exclusividad al día siguiente.
+Descripción: Salida por las Cruces de Mayo. Shayla invita a Kirlian a su piso. Pasan la noche juntos. Conversación sobre el poliamor y la exclusividad al día siguiente.
 
 Capítulo 31.6: La Distancia y el Deterioro (Verano 2022 - Noviembre 2023)
 
-Descripción: La relación se deteriora. Inseguridades de Celia. Discusión sobre la comunicación y el espacio. El "retiro espiritual" de Kirlian. Conversación final (14/11/2022): Kirlian corta la relación ("se ha acabado") y pide no más mensajes.
+Descripción: La relación se deteriora. Inseguridades de Shayla. Discusión sobre la comunicación y el espacio. El "retiro espiritual" de Kirlian. Conversación final (14/11/2022): Kirlian corta la relación ("se ha acabado") y pide no más mensajes.
 
 Capítulo 33: La Máquina de Youtube y el Heredero de las Sombras
 
-Descripción: Tras la ruptura con Celia. Kirlian reflexiona sobre meses absorbido por Youtube y la "cadena de bloques", sintiéndose un "heredero" de conocimiento críptico.
+Descripción: Tras la ruptura con Shayla. Kirlian reflexiona sobre meses absorbido por Youtube y la "cadena de bloques", sintiéndose un "heredero" de conocimiento críptico.
 
 Capítulo 34: El Barco de los Locos y la Búsqueda de Timón
 
@@ -219,29 +219,29 @@ Descripción: Kirlian se sumerge en teorías esotéricas sobre el tiempo y la in
 
 Capítulo 31.7: Acusaciones y Heridas Abiertas (Febrero - Mayo 2024)
 
-Descripción: Celia reaparece acusando a Kirlian de infidelidad. Kirlian lo niega. Crisis de ansiedad de Kirlian (23/3/2024) y su intento de pedir disculpas, que Celia maneja con distancia.
+Descripción: Shayla reaparece acusando a Kirlian de infidelidad. Kirlian lo niega. Crisis de ansiedad de Kirlian (23/3/2024) y su intento de pedir disculpas, que Shayla maneja con distancia.
 
-Arco de Sandy (Carmen): Un Romance Intenso y Complicado (Primavera 2024 - Principios 2025)
+Arco de Sandy: Un Romance Intenso y Complicado (Primavera 2024 - Principios 2025)
 
 Capítulo 31.8: Novedades Sandy: Intercambio de Idiomas y Tensión Creciente (Abril - Mayo 2024)
 
-Descripción: Kirlian y Sandy (Carmen) inician contacto en un intercambio de idiomas. Reencuentro tras años (era del grupo de 2016). Tensión sexual y confidencias.
+Descripción: Kirlian y Sandy inician contacto en un intercambio de idiomas. Reencuentro tras años (era del grupo de 2016). Tensión afectiva y confidencias.
 
-Capítulo 31.9: "Quiero que me folles" y el Comienzo de la Intimidad (Mayo 2024)
+Capítulo 31.9: El Comienzo de la Intimidad (Mayo 2024)
 
-Descripción: La relación se intensifica. Carmen expresa su deseo explícito. Primeros encuentros íntimos sin coito, explorando límites.
+Descripción: La relación se intensifica. Sandy expresa su deseo de forma frontal. Primeros encuentros íntimos, explorando límites.
 
 Capítulo 32: El Corpus y la Consolidación Física (Junio 2024)
 
-Descripción: Día del Corpus en Granada. Encuentro significativo en casa de Kirlian donde la conexión física se consolida (masturbación mutua, intimidad).
+Descripción: Día del Corpus en Granada. Encuentro significativo en casa de Kirlian donde la conexión emocional y física se consolida.
 
 Capítulo 32.1: Verano de Encuentros y Desencuentros (Verano 2024)
 
-Descripción: Quedadas en casa de Kirlian y Carmen. Paseos, conversaciones. Se entrelazan momentos de cercanía con las primeras señales de problemas (diferencias de expectativas). Salidas de fiesta (Pulpop).
+Descripción: Quedadas en casa de Kirlian y Sandy. Paseos, conversaciones. Se entrelazan momentos de cercanía con las primeras señales de problemas (diferencias de expectativas). Salidas de fiesta (Pulpop).
 
 Capítulo 32.2: La Amistad Cuestionada y los Celos (Agosto - Septiembre 2024)
 
-Descripción: Surgen tensiones. Carmen expresa celos y deseo de una relación definida ("novia"). Kirlian lucha con sus sentimientos y miedo al compromiso (recuerdo de Alice). Conversación sobre "ser amigos".
+Descripción: Surgen tensiones. Sandy expresa celos y deseo de una relación definida ("novia"). Kirlian lucha con sus sentimientos y miedo al compromiso (recuerdo de Alice). Conversación sobre "ser amigos".
 
 Capítulo 32.3: El Cumpleaños de Kirlian y la Propuesta de "No Novios" (Diciembre 2024 - Enero 2025)
 
@@ -271,29 +271,29 @@ Capítulo 40: Izquierda Indefinida y la Casta de Profesores
 
 Descripción: Kirlian anota una pregunta de Carlos M. Madrid a Ernesto Castro sobre las "castas de profesores" y la izquierda.
 
-Capítulo 41: Mr. Robot en el Tren a Granada: Fe, Espacio y Elena Padial
+Capítulo 41: Mr. Robot en el Tren a Granada: Fe, Espacio y Eileen
 
-Descripción: Viajando en tren, Kirlian analiza "Mr. Robot" y lo relaciona con Elena Padial (Eileen).
+Descripción: Viajando en tren, Kirlian analiza "Mr. Robot" y lo relaciona con Eileen.
 
 Capítulo 42: El Cortijo Lila: Viejos Amigos, Nuevas Dinámicas
 
-Descripción: Escapada a una casa rural con el grupo (Adrián, Bisna, Unai). Observa las relaciones de pareja y su propia evolución.
+Descripción: Escapada a una casa rural con el grupo. Observa las relaciones de pareja y su propia evolución.
 
 Capítulo 43: Agujeros Negros y la Relatividad del Prestigio
 
 Descripción: Conferencia sobre agujeros negros. Reflexión sobre el prestigio científico y su lugar en la academia.
 
-Capítulo 44: La Terminal del Diablo: Sadomasoquismo, Shayla y Elena P.R.
+Capítulo 44: La Terminal del Diablo: Sombras, Shayla y Eileen
 
-Descripción: Kirlian se ve arrastrado por pensamientos oscuros sobre Elena P.R., fantasías sadomasoquistas y el recuerdo de Shayla y Sandy.
+Descripción: Kirlian se ve arrastrado por pensamientos oscuros sobre Eileen, fantasías extremas y el recuerdo de Shayla y Sandy.
 
-Capítulo 45: Heartache (I): El Dolor por Elena P.R.
+Capítulo 45: Heartache (I): El Dolor por Eileen
 
-Descripción: Profundo dolor emocional y anhelo por Elena Padial Rojas (Eileen) expresado con crudeza.
+Descripción: Profundo dolor emocional y anhelo por Eileen expresado con crudeza.
 
-Capítulo 46: Desentrañando las Rupturas: Celia y Carmen/Sandy
+Capítulo 46: Desentrañando las Rupturas: Shayla y Sandy
 
-Descripción: Kirlian analiza las razones detrás de sus rupturas con Celia y Carmen, su ansiedad social y el impacto de estas relaciones.
+Descripción: Kirlian analiza las razones detrás de sus rupturas con Shayla y Sandy, su ansiedad social y el impacto de estas relaciones.
 
 Capítulo 47: 500 Días de Eileen (I): Un Beso y la Sombra de Summer
 
@@ -337,7 +337,7 @@ Descripción: Kirlian cae en la procrastinación y el caos académico, viendo "R
 
 Capítulo 57: Recuperando a Shayla: Un Intento de Reescribir el Pasado
 
-Descripción: Kirlian contacta de nuevo a Shayla (Celia), reflexionando sobre su responsabilidad y dinámicas de poder.
+Descripción: Kirlian contacta de nuevo a Shayla, reflexionando sobre su responsabilidad y dinámicas de poder.
 
 Capítulo 58: ¡Apaga y Limpia el Baño!: Crisis de Pánico y la Sombra Materna
 
