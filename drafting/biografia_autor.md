@@ -4,9 +4,9 @@
 
 ## Datos Básicos
 - **Nombre**: Ricardo (K.)
-- **Nacimiento**: 3 de Enero (aprox. 2000/2001).
+- **Nacimiento**: 3 de Enero (aprox. 1999).
 - **Origen**: Almería, España.
-- **Perfil**: INFJ, estudiante de Doble Grado (Matemáticas e Informática), músico (saxofón, piano), escritor.
+- **Perfil**: INFJ, Matemático e Informático, escritor.
 
 ## Cronología Vital
 
