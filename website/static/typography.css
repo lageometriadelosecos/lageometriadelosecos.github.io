@@ -64,3 +64,52 @@ body {
 .hack blockquote {
   font-weight: 400;
 }
+
+.chapter-navigation {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  margin: 3rem 0 2rem;
+}
+
+.chapter-navigation__link,
+.chapter-navigation__spacer {
+  box-sizing: border-box;
+  min-height: 6.5rem;
+  width: calc(50% - 0.5rem);
+}
+
+.chapter-navigation__link {
+  border: 1px solid currentColor;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1rem 1.1rem;
+  text-decoration: none;
+}
+
+.chapter-navigation__link--next {
+  text-align: right;
+}
+
+.chapter-navigation__eyebrow {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.chapter-navigation__title {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 720px) {
+  .chapter-navigation {
+    flex-direction: column;
+  }
+
+  .chapter-navigation__link,
+  .chapter-navigation__spacer {
+    width: 100%;
+  }
+}
