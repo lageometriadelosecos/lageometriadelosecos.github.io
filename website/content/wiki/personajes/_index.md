@@ -7,4 +7,4 @@ template = "section.html"
 
 # 🎭 Personajes
 
-Aquí encontrarás las fichas profundas y perfiles de los personajes de la trilogía.
+Aquí encontrarás las fichas profundas y perfiles de los personajes de la saga de seis libros.
