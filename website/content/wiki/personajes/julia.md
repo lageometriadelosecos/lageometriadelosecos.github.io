@@ -8,7 +8,6 @@ weight = 7
 ## 1. Identidad y Rol Narrativo
 
 *   **Nombre (Ficción):** Julia
-*   **Basada en:** Blanca
 *   **Arquetipo Central:** La Cuidadora Leal / El Ancla Emocional.
 *   **Rol en la Historia:** Es el pilar de estabilidad y la conciencia moral de Kirlian (Ric) durante su etapa universitaria. Es definida como **La Hermana Electiva**.
 
@@ -26,7 +25,7 @@ Julia se caracteriza por un alto nivel de proactividad, organización y una mezc
 | Rasgo | Evidencia en las Conversaciones | Citas Clave |
 | :--- | :--- | :--- |
 | **Apoyo Emocional** | Pregunta activamente por el estado de Ric ("¿Cómo estás?"), incluso utilizando el ejercicio de las "tres cosas buenas". Le recuerda a Ric la importancia del descanso ("Mucho mejor" que estudiar, "mimir temprano"). | Se alegra "un montón" de los éxitos de Ric, especialmente en AA. |
-| **Lealtad y Cuidado** | Ofrece su casa si está agobiado. Expresa que la felicidad son momentos como "estar contigo en la biblioteca". Le da besos de la suerte ("Un millón de besitos modulares"). | Le da el apodo de **"Blanquilla Favorita"** a Ric. |
+| **Lealtad y Cuidado** | Ofrece su casa si está agobiado. Expresa que la felicidad son momentos como "estar contigo en la biblioteca". Le da besos de la suerte ("Un millón de besitos modulares"). | Le dedica apodos cariñosos y juguetones a Ric. |
 | **Humor y Nicknames** | Es bromista y utiliza muchos *stickers* y animaciones. Utiliza apodos cariñosos y juguetones como **"Riquirdi"**, **"Don Ricardo"**, y **"Man Ricardo"**. | Le gusta "causar la intriga" al preguntar sobre asuntos personales. |
 | **Proactividad/Organización** | Organiza el estudio (propone dividirse ejercicios de FFT, propone hacer prácticas juntos, envía apuntes de Geometría, Análisis, Topología y Sistemas Operativos). Muestra conocimiento de la programación modular en LaTeX. | Es la responsable de hacer y pasar apuntes. |
 | **Conciencia Social** | Mantiene su posición en debates sobre ética académica (profesor Jamaldo). Critica la falta de empatía de compañeros. Aboga por la cuota de mujeres en conferencias (PyCon). | Actúa como **La Brújula Moral**. |

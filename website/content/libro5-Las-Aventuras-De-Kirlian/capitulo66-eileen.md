@@ -32,7 +32,7 @@ Las palabras dolieron, pero no fue la puñalada que Kirlian esperaba. Fue más c
 
 Eileen se inclinó hacia adelante, sus ojos serios.
 
-—¿Sabes cuál es tu problema, Kirlian? No eres consciente de lo genial que eres. Te pasas la vida idealizando a otras personas —Alice, Marcela, yo— porque no puedes ver tu propio valor. Proyectas todo lo que quieres ser en nosotras, en lugar de simplemente ser tú mismo.
+—¿Sabes cuál es tu problema, Kirlian? No eres consciente de lo genial que eres. Te pasas la vida idealizando a otras personas —Alice, Marzi, yo— porque no puedes ver tu propio valor. Proyectas todo lo que quieres ser en nosotras, en lugar de simplemente ser tú mismo.
 
 Kirlian sintió el escozor de las lágrimas.
 
@@ -58,7 +58,7 @@ Cuando Eileen se fue esa noche, Kirlian se quedó en el sofá, mirando el techo.
 
 Abrió su diario y escribió:
 
-*"Eileen me rechazó. Y está bien. No porque no duela, sino porque era necesario. He pasado años persiguiendo fantasmas, idealizando mujeres que representaban lo que yo quería ser: libre como Alice, intelectual como Marcela, serena como Eileen. Pero ninguna de ellas es responsable de mi felicidad. Ninguna de ellas puede llenar el vacío que solo yo puedo llenar.*
+*"Eileen me rechazó. Y está bien. No porque no duela, sino porque era necesario. He pasado años persiguiendo fantasmas, idealizando mujeres que representaban lo que yo quería ser: libre como Alice, intelectual como Marzi, serena como Eileen. Pero ninguna de ellas es responsable de mi felicidad. Ninguna de ellas puede llenar el vacío que solo yo puedo llenar.*
 
 *Hoy aprendí que el amor no es posesión. No es proyección. Es aceptación. Y antes de poder amar a alguien de verdad, necesito aprender a aceptarme a mí mismo. Con todas mis contradicciones, mis miedos, mis fracasos.*
 

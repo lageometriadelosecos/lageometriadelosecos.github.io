@@ -26,7 +26,7 @@ weight = 6
 
 ## 4. Realidad vs. Ficción (Zona de Seguridad)
 
-| Rasgo / Evento | Persona Real (Miguel M.) | Personaje (Ben Hurtado) | ¿Por qué el cambio? |
+| Rasgo / Evento | Base de memoria | Personaje (Ben Hurtado) | ¿Por qué el cambio? |
 | :--- | :--- | :--- | :--- |
 | **Relación** | Amigo "friki" del instituto. | **El Némesis Temprano.** | Se dramatiza la relación para convertirla en un conflicto de valores (ética vs. manipulación). |
 | **El Incidente** | Anécdota incómoda. | **El Trauma Fundacional.** | Se eleva el incidente a categoría de "evento canónico" que explica la posterior coraza de Kirlian. |

@@ -30,7 +30,7 @@ weight = 2
 
 ## 4. Realidad vs. Ficción (Zona de Seguridad)
 
-| Rasgo / Evento | Persona Real (Érika) | Personaje (Érika Durán) | ¿Por qué el cambio? |
+| Rasgo / Evento | Base de memoria | Personaje (Érika Durán) | ¿Por qué el cambio? |
 | :--- | :--- | :--- | :--- |
 | **La Doblas** | Identidad tuitera famosa, humor absurdo. | Se mantiene su pasado digital, pero se enfatiza su faceta de **líder intelectual** y fundadora del "Omnihilismo". | Para darle más peso en la trama filosófica de la novela y justificar la admiración/dependencia de Kirlian. |
 | **Relación con Kirlian** | Amistad intensa, luego distanciamiento natural. | **"Matrimonio Intelectual Divorciado".** Se dramatiza la ruptura de su conexión mental como una pérdida trágica para Kirlian. | Para que su relación con Demian duela más: no es solo que tenga novio, es que ha sustituido la Mente (Kirlian) por el Cuerpo/Corazón (Demian). |

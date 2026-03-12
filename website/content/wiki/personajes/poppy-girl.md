@@ -17,7 +17,7 @@ weight = 20
 | :--- | :--- | :--- |
 | **Deseo Consciente** | Vivir el momento, sobrevivir a su propio caos. | "Fumaba con una elegancia descuidada que solo tienen los que ya han perdido el miedo a caer". |
 | **Deseo Inconsciente** | Ser salvada. Evasión a través de la intensidad y el contacto físico. | "En su desastre, buscaba lo mismo que él: ser salvada." |
-| **Intervención Clave** | Su relación con Kirlian actúa como un espejo que le muestra la futilidad de la "libertad sin consecuencias". | "Kirlian enfermó después... A Kirlian le gustaba follar sin consecuencias con Poppy Girl." |
+| **Intervención Clave** | Su relación con Kirlian actúa como un espejo que le muestra la futilidad de la "libertad sin consecuencias". | "Kirlian enfermó después... Kirlian buscaba intimidad sin consecuencias con Poppy Girl." |
 
 ## 2. Rasgos Personales y Dinámicas
 
@@ -26,7 +26,7 @@ weight = 20
 
 | Rasgo | Descripción | Citas Clave |
 | :--- | :--- | :--- |
-| **Dinámica con Kirlian** | Relación basada en la evasión y el sexo "sin consecuencias". Kirlian se ve reflejado en su locura. | "Estás igual de mal de la cabeza que yo". |
+| **Dinámica con Kirlian** | Relación basada en la evasión y la intimidad "sin consecuencias". Kirlian se ve reflejado en su locura. | "Estás igual de mal de la cabeza que yo". |
 | **Simbolismo** | Ruptura con el binarismo y validación del "Fuckboy" accidental. | "Quería romper el código binario de la monogamia". |
 
 ## 3. Simbolismo
