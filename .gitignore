@@ -1,6 +1,15 @@
 # Archivos de configuración y credenciales
 token
+token.*
+*token*
 credenciales.json
+credentials*.json
+*.env
+*.pem
+*.key
+*.p12
+*.crt
+*.cer
 
 # Directorios de salida de audio y exportación
 tools/audio_libro1/
@@ -11,6 +20,14 @@ drafting/export/
 orders
 tools/.venv
 tools/__pycache__/
+*.mp3
+*.wav
+*.m4a
+*.ogg
+*.flac
+*.aac
+*.opus
+tools/audiolibro_completo.txt
 
 # Archivos específicos de la novela (PDFs generados, etc)
 drafting/novela/*.pdf
