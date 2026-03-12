@@ -21,9 +21,6 @@ Es el tiempo de **"Le Peter No"**: el rechazo a crecer bajo las normas impuestas
 - [Capítulo 36: Resonancia](capitulo36-resonancia/)
 - [Capítulo 37: No Mires Arriba](capitulo37-no-mires-arriba/)
 - [Capítulo 38: Triángulos](capitulo38-triangulos/)
-- [Capítulo 39: Debug](capitulo39-debug/)
-- [Capítulo 40: Fanzines y Código](capitulo40-fanzines/)
-- [Capítulo 41: Código QR para un Corazón Roto](capitulo41-codigo-qr/)
 
 ---
 

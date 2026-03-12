@@ -4,76 +4,47 @@ weight = 37
 novela = ["libro4-El-Fruto-De-La-Discordia"]
 +++
 
-**30/12/2021**
+La notificación iluminó la pantalla y rompió el letargo de aquella tarde de pre‑Nochevieja.
 
-La notificación iluminó la pantalla, rompiendo el letargo de la tarde de pre-Nochevieja.
+—¿Cómo vas? —preguntó **Índigo**, siempre el radar encendido aunque estuviera lejos.
 
-**Adri**: cómo vas?
+Yo estaba derramado en el sofá, digiriendo el turrón y la realidad.
 
-Estaba tirado en el sofá, digiriendo el turrón y la realidad.
+—Viendo *No mires arriba* —le respondí—. La nueva de Netflix.
 
-**Ric**: viendo la película no mires arriba
-**Ric**: es nueva de netflix
+Era la película perfecta para el momento: un cometa que se acerca, un planeta que se niega a levantar la vista. La parodia absoluta de nuestra costumbre de posponerlo todo mientras hacemos scroll.
 
-Era la película perfecta para el momento. Un cometa aproximándose a la Tierra y nadie queriendo mirar hacia arriba. Una parodia de nuestra propia inacción, de nuestra capacidad para normalizar el apocalipsis mientras discutimos sobre likes y seguidores.
+—Todo el mundo la tiene puesta —insistió Índigo—, pero la trama me da pereza.
+—Está guay. Muy parodia —le animé, como si yo fuera el crítico y él la audiencia.
 
-**Adri**: y que tal
-**Adri**: si esta todo el mundo viendola pero no me llama mucho la trama
-**Ric**: esta guay muy parodia
+Último día del año. Otros hacían propósitos; yo llevaba la contabilidad de la serotonina.
 
-**31/12/2021**
+—Le daré una oportunidad. ¿Y tú cómo estás? —Índigo no suelta la pregunta aunque sepa que es abismo.
 
-El último día del año. La gente hacía balance, propósitos, festejaba. Yo hacía inventario de química cerebral.
+—Drogado otra vez —contesté con la franqueza áspera del chat.
 
-**Adri**: le dare una oportunidad
-**Adri**: y tu como estás
+—¿En Almería has probado con psicólogo?
+—Noup. Solo psiquiatra, que es quien receta. Pero bueno, no pasa nada.
+—Si te ayuda, adelante. Yo muy bien; mañana vuelvo a Granada.
 
-La pregunta del millón. ¿Cómo estoy? ¿En comparación con qué? ¿Con el año pasado? ¿Con una persona funcional?
+La noticia cayó como el cometa de la película: Granada volvía a llamarnos al escenario principal.
 
-**Ric**: drogado again
+—¿Y eso?
+—Aquí no estudio y me apetece ya. Quiero conocer a los amigos de Joan, vienen de Alicante y se van el día 2. Voy a apuntarme al Yo10: veinticinco al mes.
 
-La sinceridad brutal del chat. Sin filtros.
+Índigo sonaba a Índigo: planes, gente nueva, un gimnasio como centro de gravedad.
 
-**Adri**: pero en almeria has ido a psicólogo
-**Ric**: noup
-**Ric**: al psiquiatra que es el que receta
-**Ric**: pero bueno no pasa nada
-**Ric**: tu que tal
+—Mmm, entiendo —respondí, midiendo la distancia. Mi propia vuelta aún era nebulosa—. Supongo que iré después de Reyes.
 
-**Adri**: bueno si asi estas mejor pues guay
-**Adri**: yo muy bien
-**Adri**: mañana vuelvo ya a granada
+—¡Feliz cumple! 🧡💆🏻‍♂️👦🏻 —me escribió a medianoche.
+—Muchas graciaaas 🥰
 
-La noticia cayó como el cometa de la película. Granada. El escenario del crimen, el escenario de la vida.
+Un emoji que parecía un masaje y otro que era un niño. Semiótica de WhatsApp: mi nueva asignatura optativa.
 
-**Ric**: uooo
-**Ric**: y eso?
+La realidad académica intentaba imponer su horario.
 
-**Adri**: pues pq aqui no puedo estudiar y pq me apetece ya
-**Adri**: además que quiero conocer a los amigos de joan de alicante que se van el dia 2
-**Adri**: me voy a apuntar al yo10 son 25 al mes
+—¿Estás en Granada? —insistió Índigo.
+—No :(
+—¿Cuándo tienes los exámenes?
 
-Joan. Alicia (no, *Alice*, en mi cabeza seguía siendo Alice, pero en el chat era Alice, o simplemente "los amigos"). Gente nueva. Gimnasio. Vida normal.
-
-**Ric**: mmmmm entiendo
-
-Entendía, pero desde la distancia. Mi vuelta se retrasaría.
-
-**Ric**: tu iras despues de reyes supongo
-
-**3/1/2022**
-
-**Adri**: feliz cumple!!! 🧡💆🏻‍♂️👦🏻
-**Ric**: Muchas graciaaas 🥰
-
-Un emoticono de masaje y un niño. ¿Qué significaban? Quizás nada. Quizás todo. La semiótica de WhatsApp era mi nuevo campo de estudio.
-
-**12/1/2022**
-
-La realidad académica intentaba imponerse.
-
-**Adri**: estas en granada??
-**Ric**: No :(
-**Adri**: cuando tienes los exámenes?
-
-Exámenes. Esa palabra que antes me definía y ahora solo me cansaba. Seguía en Almería, refugiado, mientras la vida en Granada seguía su curso sin mí. Pero los **ecos** —o debería decir, las **notificaciones**— me llamaban de vuelta. Había un concierto en el horizonte. Y esa era una excusa tan buena como cualquier otra para dejar de mirar abajo y empezar a mirar, si no arriba, al menos hacia adelante.
+Exámenes. La palabra que antes me ordenaba y ahora solo me cansaba. Seguía en Almería, refugiado, mientras Granada seguía su ritmo con conciertos en el horizonte. Las notificaciones eran el eco de un mundo que me esperaba. Tal vez era hora de dejar de mirar al suelo, si no para arriba, al menos hacia adelante.
