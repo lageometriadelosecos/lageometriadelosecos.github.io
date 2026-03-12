@@ -38,4 +38,4 @@ El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada cone
 
 ---
 
-*Este primer libro establece el tono luminoso de la trilogía, mostrando a Kirlian en su búsqueda juvenil de conexión e identidad a través del intelecto y el afecto.*
+*Este primer libro establece el tono luminoso de la saga, mostrando a Kirlian en su búsqueda juvenil de conexión e identidad a través del intelecto y el afecto.*
