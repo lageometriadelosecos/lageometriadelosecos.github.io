@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 12: Horizontes"
 weight = 12
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 La energía liberadora de Londres persistía, pero con Selectividad como una sombra que se alargaba, la conversación sobre el futuro universitario se volvió inevitable y cargada de una tensión nueva entre Kirlian y Alice. El "Nosotros" que sentían tan potente se enfrentaba a la divergencia de sus anhelos individuales.

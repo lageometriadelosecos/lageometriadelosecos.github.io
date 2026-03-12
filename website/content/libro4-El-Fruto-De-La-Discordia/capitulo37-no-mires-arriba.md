@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 37: No Mires Arriba"
 weight = 37
-novela = ["libro4-lepeterno"]
+novela = ["libro4-El-Fruto-De-La-Discordia"]
 +++
 
 **30/12/2021**

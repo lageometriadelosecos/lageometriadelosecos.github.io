@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 27: Estoicismo"
 weight = 27
-novela = ["libro2--codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 El otoño seguía su curso en Granada, y aunque la conversación con Matilde había supuesto un ancla de lucidez, Kirlian aún navegaba aguas turbulentas. La ausencia de Alice era una constante, y la necesidad de procesar, de externalizar el torbellino interno, lo llevó a buscar a sus amigos más cercanos del Doble Grado: Payton y Ragnar.

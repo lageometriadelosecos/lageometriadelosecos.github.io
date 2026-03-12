@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 35: Retorno"
 weight = 35
-novela = ["libro4-lepeterno"]
+novela = ["libro4-El-Fruto-De-La-Discordia"]
 +++
 
 Marzo de 2020. El mundo exterior se cerró con el golpe seco de un confinamiento global, pero para mí, la verdadera clausura había ocurrido semanas antes, tras los muros de la clínica El Seranil. Volví a casa de mis padres no como un hijo pródigo, sino como un superviviente de una guerra psíquica, cargando con una *fuerza* extraña, una claridad que mis padres confundían con enfermedad.

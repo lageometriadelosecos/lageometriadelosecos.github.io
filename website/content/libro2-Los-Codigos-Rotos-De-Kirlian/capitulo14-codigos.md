@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 14: Códigos"
 weight = 14
-novela = ["libro2-codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 El invierno académico, con sus rigores y sus sombras introspectivas, cedía

@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 6: Destrucción"
 weight = 6
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 El viernes se desplegó bajo un cielo que amenazaba lluvia pero se contenía,

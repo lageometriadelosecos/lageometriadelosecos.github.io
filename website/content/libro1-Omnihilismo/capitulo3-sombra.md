@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 3: Sombra"
 weight = 3
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 Diciembre había llegado a Almería con un frío húmedo que calaba los huesos y

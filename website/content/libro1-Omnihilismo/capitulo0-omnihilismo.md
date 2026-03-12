@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 0: Omnihilismo" 
 weight = 0
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 Kirlian se acomodó contra la pared, sintiendo el frío del cemento a través de su camiseta. La noche de viernes tenía esa cualidad especial, ese aire de posibilidad infinita que solo se respiraba cuando el mundo académico se desvanecía temporalmente.

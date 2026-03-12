@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 31: Obsesión"
 weight = 31
-novela = ["libro2--codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 El inicio de 2020 trajo consigo una calma tensa, una superficie lisa bajo la cual se agitaban corrientes traicioneras. La ausencia de Alice ya no era una herida abierta, sino una cicatriz que pulsaba con el cambio de tiempo. Intenté llenar el vacío con ruido social, con cenas y salidas que prometían una normalidad que no sentía.

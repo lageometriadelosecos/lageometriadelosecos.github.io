@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 1: La Explosión de la Burbuja"
 weight = 1
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 **[19/10/19 20:13] Explosión de la burbuja**

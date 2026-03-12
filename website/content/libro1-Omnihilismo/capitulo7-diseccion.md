@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 7: Disección"
 weight = 7
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 El eco de las palabras flotaba aún en el aire mental de Kirlian días después.

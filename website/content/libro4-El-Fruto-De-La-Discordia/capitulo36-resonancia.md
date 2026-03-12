@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 36: Resonancia"
 weight = 36
-novela = ["libro4-lepeterno"]
+novela = ["libro4-El-Fruto-De-La-Discordia"]
 +++
 
 El tiempo en la "Nueva Temporalidad Granadina" no fluía; resonaba. Tras el confinamiento y el verano enrarecido, volví a Granada en febrero de 2021, no como el estudiante ambicioso de años anteriores, sino como un superviviente que busca su lugar en los escombros.

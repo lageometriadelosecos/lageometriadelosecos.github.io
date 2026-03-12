@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 8: Diciembre"
 weight = 8
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 La mañana del 22 de diciembre nació bajo el peso de una advertencia parental ignorada y la dulce promesa del sueño robado a las primeras horas de clase. Una pequeña rebelión silenciosa. El leve agobio por la ficha pendiente de las Olimpiadas matemáticas se disolvió al encontrar a Kubrick; el intercambio ritual tuvo lugar: la ficha, el libro de Python, torpes consejos sobre un lenguaje nuevo. Una responsabilidad casi olvidada, la de guiar.
