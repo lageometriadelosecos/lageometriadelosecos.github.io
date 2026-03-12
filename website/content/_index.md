@@ -3,11 +3,9 @@ title = "La Geometría de los Ecos"
 sort_by = "weight"
 +++
 
-Esta es la historia de Kirlian, una novela juvenil-filosófica que ha sido reestructurada para revelar su verdadera naturaleza: un **viaje luminoso de crecimiento y descubrimiento**.
+Una mente obsesionada con la lógica tropieza con el caos de la intimidad y el cuerpo. Kirlian intenta programar su propia vida mientras amigos, amores y crisis lo obligan a reescribir el código. Seis libros narran ese proceso de depuración: del deslumbramiento inicial a la desprogramación final.
 
 ## Explora los Libros
-
-La novela está dividida en seis libros que forman un arco completo de desarrollo humano:
 
 - **[Libro 1: Omnihilismo](@/libro1-omnihilismo/index.md)** - La búsqueda del reflejo
 - **[Libro 2: Los Códigos Rotos de Kirlian](@/libro2-los-codigos-rotos-de-kirlian/index.md)** - La deconstrucción necesaria
