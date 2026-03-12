@@ -11,8 +11,6 @@ Tras el colapso de la "Fuga" y el encierro en el Aquarium, Kirlian regresa al mu
 
 En este confinamiento, Kirlian, acompañado por la presencia enigmática de **Índigo**, se embarca en una nueva clase de aventuras. Ya no son viajes físicos, sino exploraciones de la psique, intentos de "Desprogramación Positiva" y la construcción de una nueva identidad sobre las ruinas de la obsesión.
 
-Es el tiempo de **"Le Peter No"**: el rechazo a crecer bajo las normas impuestas, la reivindicación de la subjetividad y el intento de vivir en una eterna posibilidad, aunque las paredes de la casa familiar se cierren sobre ellos.
-
 ---
 
 ## 📚 Capítulos
