@@ -1,19 +1,16 @@
 +++
-title = "Libro 5: Aventuras de Kirlian"
+title = "Libro 5: Las Aventuras de Kirlian"
 subtitle = "Exploraciones del Yo"
 weight = 5
 template = "page.html"
+[extra]
+hide_title = true
 +++
 
-# 🌌 Libro 5: Aventuras de Kirlian
+# 🌌 Libro 5: Las Aventuras de Kirlian
 ## *Exploraciones del Yo*
 
-**Tono:** Aventurero, introspectivo, metamoderno  
-**Tema:** La búsqueda de identidad a través de experiencias y conexiones diversas
-
 Libro de las exploraciones internas y externas, donde Kirlian navega nuevas experiencias, descubre diferentes facetas de sí mismo, y construye conexiones significativas con personajes únicos.
-
-**Arco de Kirlian:** De la búsqueda interna a la apertura hacia nuevas experiencias y relaciones
 
 ---
 
@@ -28,7 +25,7 @@ Libro de las exploraciones internas y externas, donde Kirlian navega nuevas expe
 
 ## 🔗 Navegación
 
-**[← Libro Anterior](../libro4-lepeterno/)** | **[Inicio](../)**
+**[← Libro Anterior](@/libro4-el-fruto-de-la-discordia/index.md)** | **[Inicio](../)**
 
 ---
 

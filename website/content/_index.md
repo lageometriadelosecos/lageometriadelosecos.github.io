@@ -9,11 +9,11 @@ Esta es la historia de Kirlian, una novela juvenil-filosófica que ha sido reest
 
 La novela está dividida en cinco libros que forman un arco completo de desarrollo humano:
 
-- **[Libro 1: El Viernes Interior](/libro1-viernes-interior/)** - La búsqueda del reflejo
-- **[Libro 2: Códigos Rotos](/libro2-codigos-rotos/)** - La deconstrucción necesaria  
-- **[Libro 3: Retiro Espiritual](/libro3-aquarium/)** - La reconstrucción
-- **[Libro 4: Lepeterno](/libro4-lepeterno/)** - El confinamiento interior
-- **[Libro 5: Aventuras de Kirlian](/libro5-aventuras-de-kirlian/)** - Exploraciones del yo
+- **[Libro 1: Omnihilismo](@/libro1-omnihilismo/index.md)** - La búsqueda del reflejo
+- **[Libro 2: Los Códigos Rotos de Kirlian](@/libro2-los-codigos-rotos-de-kirlian/index.md)** - La deconstrucción necesaria
+- **[Libro 3: A Cantiga do Aquarium](@/libro3-a-cantiga-do-aquarium/index.md)** - La reconstrucción
+- **[Libro 4: El Fruto de la Discordia](@/libro4-el-fruto-de-la-discordia/index.md)** - El confinamiento interior
+- **[Libro 5: Las Aventuras de Kirlian](@/libro5-las-aventuras-de-kirlian/index.md)** - Exploraciones del yo
 
 ---
 
