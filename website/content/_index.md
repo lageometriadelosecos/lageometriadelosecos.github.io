@@ -1,5 +1,5 @@
 +++
-title = "Geometría de los Ecos"
+title = "La Geometría de los Ecos"
 sort_by = "weight"
 +++
 
