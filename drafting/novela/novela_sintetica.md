@@ -94,6 +94,8 @@ Cuando lo hizo, fue con una sola frase que Kirlian se repetiría durante años, 
 
 Cerró el chat. Se comió el resto del bocadillo sin saborearlo. Volvió al problema de Topología Diferencial, donde al menos los espacios tenían dimensiones definidas y las distancias se podían medir.
 
+Pero la distancia con Alice dejó de ser una metáfora. En los días siguientes, sus conversaciones se volvieron cautelosas, y cada silencio parecía un protocolo de seguridad nuevo. Una tarde, Kirlian la vio al otro lado de la plaza de la facultad, riendo con otros compañeros bajo una luz de primavera que volvía todo más irreal. Pensó en acercarse. Dio un paso. Luego otro. Alice levantó la vista, le dedicó una sonrisa correcta, casi administrativa, y volvió a la conversación. Fue un gesto mínimo, pero tuvo la precisión de una puerta cerrándose despacio.
+
 ---
 
 ### Capítulo 3: Diciembre y la Cobra
@@ -178,6 +180,12 @@ El resto de Londres fue una prórroga de esa sensación. Las conversaciones en e
 
 Volvieron a Almería transformados. Cargados con la sensación de haber probado una libertad más audaz de lo que habían imaginado. La llama londinense no se quedó en la niebla; volvió con ellos, lista para quemar las viejas reglas.
 
+El final de Bachillerato llegó como llegan las campañas que importan de verdad: con ojeras, cafés y la sensación de que cualquier error podía cambiarlo todo. Kirlian y Alice estudiaron como si estuvieran defendiendo una frontera. Cuando llegaron las notas y ambos obtuvieron Matrícula de Honor, la euforia tuvo algo de victoria compartida contra el mundo.
+
+La noche de la graduación, sin embargo, el ruido de los bares de Almería se les quedó pequeño. Huyeron de la música, de los compañeros, de las fotos repetidas. En la habitación de Kirlian, el silencio dejó de ser una pausa y se convirtió en una decisión. El primer beso no fue una sorpresa, sino la confirmación de algo que llevaba meses creciendo entre Londres, diciembre y todos los viernes anteriores. Aquella vez dejaron de teorizar. La intimidad no les resolvió la vida, pero les dio una verdad física que ninguno de los dos pudo volver a negar.
+
+Por eso, cuando terminó el verano y empezó a decidirse el futuro, la discusión sobre la universidad dolió más de lo que ambos estaban dispuestos a admitir.
+
 ---
 
 ## Libro 2: La Metanoia del Color
@@ -186,7 +194,7 @@ Volvieron a Almería transformados. Cargados con la sensación de haber probado 
 
 Granada los recibió con la indiferencia de las ciudades que han visto a miles de estudiantes llegar con sueños y marcharse con cicatrices. El Doble Grado en Informática y Matemáticas no era el sueño de libertad creativa que Kirlian había imaginado; era una fortaleza de hormigón donde cada asignatura era un muro por escalar.
 
-Alice había elegido Granada. Por él. Y ese gesto de sacrificio silencioso se convirtió, con el tiempo, en una deuda que ninguno de los dos sabía cómo saldar.
+Alice había querido Barcelona. La nombraba como quien nombra una ciudad mítica: más abierta, más anónima, más parecida a la vida que quería inventarse. Kirlian defendió Granada con argumentos de expediente, de prestigio, de optimización de recursos, pero por debajo de todo eso había otra verdad: le aterraba que la distancia rompiera lo que apenas acababan de empezar. Alice cedió. Eligió Granada por él. Y ese gesto de sacrificio silencioso se convirtió, con el tiempo, en una deuda que ninguno de los dos sabía cómo saldar.
 
 Los primeros meses fueron un simulacro de felicidad. Estudiaban juntos en la biblioteca de la Facultad de Ciencias, comían en el comedor universitario —donde Índigo, el amigo de Almería que los había seguido como una sombra leal, reservaba sitio con media hora de antelación—, y por las noches se perdían por el Albaicín, buscando en sus calles empedradas el eco de la libertad londinense.
 
@@ -196,7 +204,7 @@ Pero la máquina universitaria no perdona.
 
 Alice no dijo nada durante un momento largo. Se sentó a su lado, le quitó los apuntes de las manos y los dejó sobre la mesa. Después lo abrazó. Un abrazo largo y silencioso que no pretendía arreglar nada, solo acompañar.
 
-En esa calidez, Kirlian sintió cómo algo dentro de él se rompía y, al mismo tiempo, empezaba a sanar. Fue un resquicio de esperanza en el frío invierno de su primera crisis.
+En esa calidez, Kirlian sintió cómo algo dentro de él se rompía y, al mismo tiempo, empezaba a sanar. Fue un resquicio de esperanza en el frío invierno de su primera crisis. Aun así, la programación empezaba a dejar de parecerle una forma de libertad. Los algoritmos ya no eran promesa: eran entregas, rúbricas, errores sintácticos que no respondían a la imaginación sino al rendimiento.
 
 Pero los resquicios se cierran.
 
@@ -209,6 +217,10 @@ Antes de que pudiera responder, se levantó y desarrolló la demostración en la
 —Vaya —fue todo lo que Payton acertó a decir.
 
 Julia le dio un codazo a Kirlian. —Cierra la boca, que se te van a meter moscas.
+
+Pero fuera de la biblioteca la vida seguía rompiéndose por otros sitios. Alice empezó a hablarle de otras personas con una honestidad que a veces rozaba la crueldad involuntaria: un chico del viaje, la sensación de sentirse más viva lejos de cualquier definición cerrada, la sospecha de que el amor no tenía por qué parecerse a lo que les habían enseñado. Kirlian había defendido en abstracto la libertad afectiva, pero en la práctica cada confesión le abría una grieta nueva. No sabía si le dolía perderla o descubrir que nunca la había poseído.
+
+Cuando el siguiente cuatrimestre empezó a venirse abajo, Julia, Payton y Bob fueron el andamiaje mínimo que impidió el derrumbe total. Hubo tardes de estudio en las que nadie avanzaba gran cosa, pero aun así se quedaban allí, compartiendo apuntes, café de máquina y una lealtad sin épica. Una mañana, Julia incluso le dejó una nota bajo la puerta de la residencia: no era una solución, solo una prueba de que alguien seguía viéndolo desde fuera del laberinto. A veces eso bastaba para aplazar la caída. A veces no.
 
 ---
 
@@ -326,7 +338,7 @@ No era Nietzsche. No era Camus. Era Índigo. Y a veces, eso bastaba.
 
 Shayla llegó como llegan las cosas que no buscas: sin pedir permiso y a destiempo.
 
-Era 2022. Kirlian la conoció en la cafetería de la ETSIIT, donde ella trabajaba con unos auriculares enormes y una concentración que le recordó a Velouria. Se llamaba Celia, pero él la rebautizó como Shayla —un homenaje privado a *Mr. Robot*, la serie que ambos habían visto tres veces—.
+Era 2022. Kirlian la conoció en la cafetería de la ETSIIT, donde ella trabajaba con unos auriculares enormes y una concentración que le recordó a Velouria. Él la llamaba Shayla —un homenaje privado a *Mr. Robot*, la serie que ambos habían visto tres veces—.
 
 La relación fue, al principio, un campo de pruebas. Kirlian aplicó todo lo que creía haber aprendido: comunicación abierta, honestidad, respeto. Shayla era paciente, divertida y tenía un gato llamado Boro que se subía al teclado cada vez que ella intentaba programar.
 
@@ -362,9 +374,9 @@ Olive, la programadora del pelo rojo que cambiaba de color cada mes como un fire
 
 Sandy reapareció del pasado —2016, una vida anterior— como un glitch en la Matrix. Besarse con ella era cómodo
 
-, anestésico. "Lo posible", como Kirlian la llamaba en su diario, frente a Marcela, que era "lo imposible".
+, anestésico. "Lo posible", como Kirlian la llamaba en su diario, frente a Marzi, que era "lo imposible".
 
-Marcela —Marzi— fue el amor intelectual que no pudo ser. Se conocieron en un concierto de Salvador Sobral en Almería. Ella hablaba de Gustavo Bueno con una pasión que le recordaba a Érika, pero sin la ironía corrosiva. Con Marzi, Kirlian se permitió soñar con el Amor Intelectual puro, con la convergencia perfecta entre mente y emoción.
+Marzi fue el amor intelectual que no pudo ser. Se conocieron en un concierto de Salvador Sobral en Almería. Ella hablaba de Gustavo Bueno con una pasión que le recordaba a Érika, pero sin la ironía corrosiva. Con Marzi, Kirlian se permitió soñar con el Amor Intelectual puro, con la convergencia perfecta entre mente y emoción.
 
 Se besaron una noche, después del concierto, bajo una farola que parpadeaba como si la propia ciudad dudara de lo que estaba viendo. Días después, Marzi le escribió que no quería una relación.
 
