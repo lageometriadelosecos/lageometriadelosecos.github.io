@@ -1,0 +1,405 @@
+{
+  "libro1-omnihilismo": {
+    "capitulo0-omnihilismo.md": {
+      "next": {
+        "title": "Capítulo 1: La Explosión de la Burbuja",
+        "url": "/libro1-omnihilismo/capitulo1-burbuja/"
+      }
+    },
+    "capitulo1-burbuja.md": {
+      "next": {
+        "title": "Capítulo 2: Diagnóstico",
+        "url": "/libro1-omnihilismo/capitulo2-diagnostico/"
+      },
+      "previous": {
+        "title": "Capítulo 0: Omnihilismo",
+        "url": "/libro1-omnihilismo/capitulo0-omnihilismo/"
+      }
+    },
+    "capitulo10-londres.md": {
+      "next": {
+        "title": "Capítulo 11: Bandas",
+        "url": "/libro1-omnihilismo/capitulo11-bandas/"
+      },
+      "previous": {
+        "title": "Capítulo 9: Beso",
+        "url": "/libro1-omnihilismo/capitulo9-beso/"
+      }
+    },
+    "capitulo11-bandas.md": {
+      "next": {
+        "title": "Capítulo 12: Horizontes",
+        "url": "/libro1-omnihilismo/capitulo12-horizontes/"
+      },
+      "previous": {
+        "title": "Capítulo 10: El Despertar Londinense",
+        "url": "/libro1-omnihilismo/capitulo10-londres/"
+      }
+    },
+    "capitulo12-horizontes.md": {
+      "previous": {
+        "title": "Capítulo 11: Bandas",
+        "url": "/libro1-omnihilismo/capitulo11-bandas/"
+      }
+    },
+    "capitulo2-diagnostico.md": {
+      "next": {
+        "title": "Capítulo 3: La Sombra de Alice",
+        "url": "/libro1-omnihilismo/capitulo3-sombra/"
+      },
+      "previous": {
+        "title": "Capítulo 1: La Explosión de la Burbuja",
+        "url": "/libro1-omnihilismo/capitulo1-burbuja/"
+      }
+    },
+    "capitulo3-sombra.md": {
+      "next": {
+        "title": "Capítulo 4: Distancia",
+        "url": "/libro1-omnihilismo/capitulo4-distancia/"
+      },
+      "previous": {
+        "title": "Capítulo 2: Diagnóstico",
+        "url": "/libro1-omnihilismo/capitulo2-diagnostico/"
+      }
+    },
+    "capitulo4-distancia.md": {
+      "next": {
+        "title": "Capítulo 5: Absurdo",
+        "url": "/libro1-omnihilismo/capitulo5-absurdo/"
+      },
+      "previous": {
+        "title": "Capítulo 3: La Sombra de Alice",
+        "url": "/libro1-omnihilismo/capitulo3-sombra/"
+      }
+    },
+    "capitulo5-absurdo.md": {
+      "next": {
+        "title": "Capítulo 6: Destrucción",
+        "url": "/libro1-omnihilismo/capitulo6-destruccion/"
+      },
+      "previous": {
+        "title": "Capítulo 4: Distancia",
+        "url": "/libro1-omnihilismo/capitulo4-distancia/"
+      }
+    },
+    "capitulo6-destruccion.md": {
+      "next": {
+        "title": "Capítulo 7: Disección",
+        "url": "/libro1-omnihilismo/capitulo7-diseccion/"
+      },
+      "previous": {
+        "title": "Capítulo 5: Absurdo",
+        "url": "/libro1-omnihilismo/capitulo5-absurdo/"
+      }
+    },
+    "capitulo7-diseccion.md": {
+      "next": {
+        "title": "Capítulo 8: Diciembre y la Cobra",
+        "url": "/libro1-omnihilismo/capitulo8-diciembre/"
+      },
+      "previous": {
+        "title": "Capítulo 6: Destrucción",
+        "url": "/libro1-omnihilismo/capitulo6-destruccion/"
+      }
+    },
+    "capitulo8-diciembre.md": {
+      "next": {
+        "title": "Capítulo 9: Beso",
+        "url": "/libro1-omnihilismo/capitulo9-beso/"
+      },
+      "previous": {
+        "title": "Capítulo 7: Disección",
+        "url": "/libro1-omnihilismo/capitulo7-diseccion/"
+      }
+    },
+    "capitulo9-beso.md": {
+      "next": {
+        "title": "Capítulo 10: El Despertar Londinense",
+        "url": "/libro1-omnihilismo/capitulo10-londres/"
+      },
+      "previous": {
+        "title": "Capítulo 8: Diciembre y la Cobra",
+        "url": "/libro1-omnihilismo/capitulo8-diciembre/"
+      }
+    }
+  },
+  "libro2-los-codigos-rotos-de-kirlian": {
+    "capitulo13-axiomas.md": {
+      "next": {
+        "title": "Capítulo 14: Códigos Rotos",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo14-codigos/"
+      }
+    },
+    "capitulo14-codigos.md": {
+      "next": {
+        "title": "Capítulo 15: Ruido",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo15-ruido/"
+      },
+      "previous": {
+        "title": "Capítulo 12: Axiomas",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo13-axiomas/"
+      }
+    },
+    "capitulo15-ruido.md": {
+      "next": {
+        "title": "Capítulo 16: Rotos",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo16-rotos/"
+      },
+      "previous": {
+        "title": "Capítulo 14: Códigos Rotos",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo14-codigos/"
+      }
+    },
+    "capitulo16-rotos.md": {
+      "next": {
+        "title": "Capítulo 17: Traición",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo17-traicion/"
+      },
+      "previous": {
+        "title": "Capítulo 15: Ruido",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo15-ruido/"
+      }
+    },
+    "capitulo17-traicion.md": {
+      "next": {
+        "title": "Capítulo 18: Reescritura",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo18-reescritura/"
+      },
+      "previous": {
+        "title": "Capítulo 16: Rotos",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo16-rotos/"
+      }
+    },
+    "capitulo18-reescritura.md": {
+      "next": {
+        "title": "Capítulo 19: Colapso",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo19-colapso/"
+      },
+      "previous": {
+        "title": "Capítulo 17: Traición",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo17-traicion/"
+      }
+    },
+    "capitulo19-colapso.md": {
+      "next": {
+        "title": "Capítulo 20: Tiempo",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo20-tiempo/"
+      },
+      "previous": {
+        "title": "Capítulo 18: Reescritura",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo18-reescritura/"
+      }
+    },
+    "capitulo20-tiempo.md": {
+      "next": {
+        "title": "Capítulo 21: Espejo",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo21-espejo/"
+      },
+      "previous": {
+        "title": "Capítulo 19: Colapso",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo19-colapso/"
+      }
+    },
+    "capitulo21-espejo.md": {
+      "next": {
+        "title": "Capítulo 22: Espejismo",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo22-espejismo/"
+      },
+      "previous": {
+        "title": "Capítulo 20: Tiempo",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo20-tiempo/"
+      }
+    },
+    "capitulo22-espejismo.md": {
+      "next": {
+        "title": "Capítulo 23: Derrumbe",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo23-derrumbe/"
+      },
+      "previous": {
+        "title": "Capítulo 21: Espejo",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo21-espejo/"
+      }
+    },
+    "capitulo23-derrumbe.md": {
+      "next": {
+        "title": "Capítulo 24: Amistad",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo24-amistad/"
+      },
+      "previous": {
+        "title": "Capítulo 22: Espejismo",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo22-espejismo/"
+      }
+    },
+    "capitulo24-amistad.md": {
+      "next": {
+        "title": "Capítulo 25: Euforia",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo25-euforia/"
+      },
+      "previous": {
+        "title": "Capítulo 23: Derrumbe",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo23-derrumbe/"
+      }
+    },
+    "capitulo25-euforia.md": {
+      "next": {
+        "title": "Capítulo 26: Tormenta",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo26-tormenta/"
+      },
+      "previous": {
+        "title": "Capítulo 24: Amistad",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo24-amistad/"
+      }
+    },
+    "capitulo26-tormenta.md": {
+      "next": {
+        "title": "Capítulo 27: Estoicismo",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo27-estoicismo/"
+      },
+      "previous": {
+        "title": "Capítulo 25: Euforia",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo25-euforia/"
+      }
+    },
+    "capitulo27-estoicismo.md": {
+      "next": {
+        "title": "Capítulo 28: Catarsis",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo28-catarsis/"
+      },
+      "previous": {
+        "title": "Capítulo 26: Tormenta",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo26-tormenta/"
+      }
+    },
+    "capitulo28-catarsis.md": {
+      "next": {
+        "title": "Capítulo 29: Inestabilidad",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo29-inestabilidad/"
+      },
+      "previous": {
+        "title": "Capítulo 27: Estoicismo",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo27-estoicismo/"
+      }
+    },
+    "capitulo29-inestabilidad.md": {
+      "next": {
+        "title": "Capítulo 30: Explosión",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo30-explosion/"
+      },
+      "previous": {
+        "title": "Capítulo 28: Catarsis",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo28-catarsis/"
+      }
+    },
+    "capitulo30-explosion.md": {
+      "next": {
+        "title": "Capítulo 31: Obsesión",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo31-obsesion/"
+      },
+      "previous": {
+        "title": "Capítulo 29: Inestabilidad",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo29-inestabilidad/"
+      }
+    },
+    "capitulo31-obsesion.md": {
+      "previous": {
+        "title": "Capítulo 30: Explosión",
+        "url": "/libro2-los-codigos-rotos-de-kirlian/capitulo30-explosion/"
+      }
+    }
+  },
+  "libro3-a-cantiga-do-aquarium": {
+    "capitulo34-a-cantiga-do-aquarium.md": {}
+  },
+  "libro4-el-fruto-de-la-discordia": {
+    "capitulo35-retorno.md": {
+      "next": {
+        "title": "Capítulo 36: Resonancia",
+        "url": "/libro4-el-fruto-de-la-discordia/capitulo36-resonancia/"
+      }
+    },
+    "capitulo36-resonancia.md": {
+      "next": {
+        "title": "Capítulo 37: No Mires Arriba",
+        "url": "/libro4-el-fruto-de-la-discordia/capitulo37-no-mires-arriba/"
+      },
+      "previous": {
+        "title": "Capítulo 35: Retorno",
+        "url": "/libro4-el-fruto-de-la-discordia/capitulo35-retorno/"
+      }
+    },
+    "capitulo37-no-mires-arriba.md": {
+      "next": {
+        "title": "Capítulo 38: Triángulos",
+        "url": "/libro4-el-fruto-de-la-discordia/capitulo38-triangulos/"
+      },
+      "previous": {
+        "title": "Capítulo 36: Resonancia",
+        "url": "/libro4-el-fruto-de-la-discordia/capitulo36-resonancia/"
+      }
+    },
+    "capitulo38-triangulos.md": {
+      "previous": {
+        "title": "Capítulo 37: No Mires Arriba",
+        "url": "/libro4-el-fruto-de-la-discordia/capitulo37-no-mires-arriba/"
+      }
+    }
+  },
+  "libro5-las-aventuras-de-kirlian": {
+    "capitulo39-eileen.md": {
+      "next": {
+        "title": "Capítulo 40: Sandy",
+        "url": "/libro5-las-aventuras-de-kirlian/capitulo40-sandy/"
+      }
+    },
+    "capitulo40-sandy.md": {
+      "previous": {
+        "title": "Capítulo 39: Eileen",
+        "url": "/libro5-las-aventuras-de-kirlian/capitulo39-eileen/"
+      },
+      "next": {
+        "title": "Capítulo 41: Poppy Girl",
+        "url": "/libro5-las-aventuras-de-kirlian/capitulo41-poppy-girl/"
+      }
+    },
+    "capitulo41-poppy-girl.md": {
+      "previous": {
+        "title": "Capítulo 40: Sandy",
+        "url": "/libro5-las-aventuras-de-kirlian/capitulo40-sandy/"
+      },
+      "next": {
+        "title": "Capítulo 42: Eileen",
+        "url": "/libro5-las-aventuras-de-kirlian/capitulo42-eileen/"
+      }
+    },
+    "capitulo42-eileen.md": {
+      "previous": {
+        "title": "Capítulo 41: Poppy Girl",
+        "url": "/libro5-las-aventuras-de-kirlian/capitulo41-poppy-girl/"
+      }
+    }
+  },
+  "libro6-el-evangelio-del-matematico-ateo": {
+    "capitulo43-fanzines.md": {
+      "next": {
+        "title": "Capítulo 44: Código QR para un Corazón Roto",
+        "url": "/libro6-el-evangelio-del-matematico-ateo/capitulo44-codigo-qr/"
+      }
+    },
+    "capitulo44-codigo-qr.md": {
+      "previous": {
+        "title": "Capítulo 43: Fanzines y Código",
+        "url": "/libro6-el-evangelio-del-matematico-ateo/capitulo43-fanzines/"
+      },
+      "next": {
+        "title": "Capítulo 45: Eileen",
+        "url": "/libro6-el-evangelio-del-matematico-ateo/capitulo45-eileen/"
+      }
+    },
+    "capitulo45-eileen.md": {
+      "previous": {
+        "title": "Capítulo 44: Código QR para un Corazón Roto",
+        "url": "/libro6-el-evangelio-del-matematico-ateo/capitulo44-codigo-qr/"
+      }
+    }
+  }
+}

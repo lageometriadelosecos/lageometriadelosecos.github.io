@@ -16,10 +16,10 @@ Libro de las exploraciones internas y externas, donde Kirlian navega nuevas expe
 
 ## 📚 Capítulos
 
+- [Capítulo 39: Eileen](capitulo39-eileen/)
+- [Capítulo 40: Sandy](capitulo40-sandy/)
+- [Capítulo 41: Poppy Girl](capitulo41-poppy-girl/)
 - [Capítulo 42: Eileen](capitulo42-eileen/)
-- [Capítulo 43: Sandy](capitulo43-sandy/)
-- [Capítulo 65: Poppy Girl](capitulo65-poppy-girl/)
-- [Capítulo 66: Eileen](capitulo66-eileen/)
 
 ---
 

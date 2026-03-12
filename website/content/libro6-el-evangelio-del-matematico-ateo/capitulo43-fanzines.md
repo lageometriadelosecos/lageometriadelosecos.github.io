@@ -1,7 +1,7 @@
 +++
-title = "Capítulo 40: Fanzines y Código"
-weight = 40
-novela = ["libro5-Las-Aventuras-De-Kirlian"]
+title = "Capítulo 43: Fanzines y Código"
+weight = 43
+novela = ["libro6-El-Evangelio-Del-Matematico-Ateo"]
 +++
 
 El sol de media tarde filtraba una luz débil y dorada a través de las hojas que

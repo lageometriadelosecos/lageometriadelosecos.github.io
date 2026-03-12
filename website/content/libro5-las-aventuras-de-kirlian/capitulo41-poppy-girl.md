@@ -1,6 +1,6 @@
 +++
-title = "Capítulo 65: Poppy Girl"
-weight = 65
+title = "Capítulo 41: Poppy Girl"
+weight = 41
 novela = ["libro5-Las-Aventuras-De-Kirlian"]
 +++
 
