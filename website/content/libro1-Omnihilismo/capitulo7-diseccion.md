@@ -4,73 +4,78 @@ weight = 7
 novela = ["libro1-Omnihilismo"]
 +++
 
-El eco de las palabras flotaba aún en el aire mental de Kirlian días después.
-"Asexual", la etiqueta clínica pegada por rumores. La lógica descarnada de
-Ben: "Fuck your feelings". Ambas resonaban no como revelaciones, sino como
-distorsiones, simplificaciones burdas de la maraña que sentía dentro. La
-reacción instintiva fue replegarse, no hacia la apatía total, sino hacia el
-único terreno donde sentía cierto control: el análisis y la planificación
-obsesiva.
+Los días después de aquella conversación con Alice fueron raros. Kirlian seguía
+con su vida normal, pero por dentro sentía que algo se había movido de sitio.
+La palabra "asexual", soltada por rumores ajenos, y la frase de Ben, "Fuck your
+feelings", se le quedaron pegadas como si fueran motes escritos con rotulador en
+una mesa del instituto.
 
-Las vacaciones de Navidad fueron un interludio extraño, un silencio en el diario
-que no se tradujo en calma mental. Kirlian se encontró trazando mapas para el
-futuro inmediato, diagramas de flujo para el próximo trimestre. El objetivo: la
-perfección académica en el instituto. No como un deseo genuino de conocimiento,
-sino como un intento desesperado de construir una fachada sólida, un andamio de
-calificaciones impecables que ocultara las ruinas interiores. Se sumergió en los
-detalles: el desafío del diédrico en Dibujo, la necesidad urgente de abordar
-Crónica de una muerte anunciada y Los girasoles ciegos para Lengua antes de que
-fuera tarde, la inminente fecha límite (aunque más lejana de lo que temía,
-descubrió con alivio pasajero) para el ensayo sobre Proust en Francés.
+Llegaron las vacaciones de Navidad y, con ellas, ese silencio incómodo que
+aparece cuando ya no hay clases para distraerse. Kirlian decidió que iba a
+arreglarse a base de organización. Se puso horarios. Hizo listas. Llenó folios
+con planes para enero. Sacar mejores notas. Ponerse al día con Dibujo Técnico.
+Leer los libros de Lengua de una vez. Terminar el ensayo de Francés sin dejarlo
+para el último momento.
 
-Enero llegó con el peso de estas autoimposiciones. La primera semana trajo
-consigo el pánico concreto de volver a la clase de Historia de la Música en el
-conservatorio, abandonada y suspendida. ¿Cómo afrontar la mirada de la
-profesora? ¿El posible examen sorpresa? Pasó horas diseñando estrategias de
-evasión, justificaciones, calculando las probabilidades de que la
-desorganización ajena jugara a su favor. Era un microcosmos de su estado
-general: una energía enorme invertida en gestionar el miedo al fracaso y a la
-exposición, en lugar de en la tarea misma.
+Durante dos o tres días, aquello le hizo sentirse fuerte. Como si bastara con
+poner todo por escrito para dejar de estar perdido.
 
-Fue durante esos días de enero, en un intento casi cómico de aplicar alguna de
-las técnicas de autoayuda que leía con escepticismo, que intentó la "Fotografía
-del estado actual". Se sentó frente al portátil, no para estudiar, sino para
-observarse estudiando, o más bien, observarse no estudiando. Tecleó con una determinación repentina: *"Esta vez será distinto, esta vez dispondremos de un tiempo de verdad inmóvil para hacer una tarea. Sin duda, escribir ayuda al alma."*
+Pero en cuanto empezó enero, el plan se convirtió en otra fuente de presión.
+Volver al conservatorio le daba vergüenza. Pensar en Historia de la Música le
+ponía un nudo en el estómago. La idea de entrar en clase, de cruzarse con la
+profesora, de fingir normalidad, le parecía más difícil que estudiar.
 
-Anotó el objetivo
-grandilocuente: "Compaginar la no-importancia académica con la vida real",
-"Cuestionar el pesimismo epistemológico", "Recuperar la consciencia relacional".
-Palabras huecas que chocaban contra la realidad de su parálisis. El ejercicio se
-convirtió rápidamente en otra lista de tareas pendientes, detallada hasta el
-agobio, un inventario de sus déficits.
+Así que hizo lo que mejor se le daba cuando tenía miedo: pensar demasiado.
 
-Estaba inmerso en esta auto-disección infructuosa un domingo por la tarde.
-Intentaba no juzgar el impulso constante de agarrar el móvil, la sed de
-distracción, la búsqueda de... ¿qué exactamente? ¿Validación externa? ¿Una
-señal? Se obligó a concentrarse en la lectura asignada: Un amour de Swann. Se
-sumergió en el análisis minucioso que hace Proust de la obsesión de Swann, de su
-incapacidad para ver a Odette más allá de sus propias proyecciones, de su
-sufrimiento auto-infligido nacido del análisis constante y la sospecha. Kirlian
-sintió un reconocimiento incómodo. ¿No era él mismo un Swann de su propia y
-menos glamurosa realidad, diseccionando tweets en lugar de miradas, analizando
-silencios en lugar de conversaciones, construyendo catedrales de significado
-sobre cimientos de arena? Estaba tan absorto en esta comparación, en esta
-aplicación de la literatura como espejo deformante de su propia parálisis, que
-casi ignoró la vibración del teléfono sobre la mesa.
+Se sentó una tarde frente al portátil y empezó a escribir sobre sí mismo, como
+si pudiera entenderse viéndose desde fuera. Quería hacerse una especie de
+retrato del momento. Pero aquello no salió como una confesión sincera. Salió
+como otra lista de tareas, otra disección fría de lo que estaba fallando.
 
-Se dio cuenta de lo que estaba haciendo: estaba analizando su angustia, no
-sintiéndola. Estaba usando las herramientas de la crítica literaria para abordar
-un pedido implícito de empatía. La ironía era aplastante. Podía pasar horas
-diseccionando la psicología de un personaje ficticio obsesionado por el amor,
-pero era incapaz de ofrecer una palabra de consuelo genuino a una persona real
-que parecía estar sufriendo por algo remotamente similar.
+Mientras tanto, Alice seguía apareciendo en el móvil. Mensajes sueltos. Tonos
+raros. Una mezcla de cercanía y distancia que a Kirlian lo dejaba descolocado.
+Había momentos en los que sentía que ella le estaba pidiendo algo sin decirlo
+del todo. No una solución. Ni siquiera una gran respuesta. Solo un gesto humano.
 
-Se justificó a sí mismo con frialdad: sus propios problemas eran prioritarios,
-ella misma había construido su "edificio estoico", él no era su terapeuta. Pero
-la justificación sonaba hueca. La verdad era que se sentía más cómodo en la
-distancia segura de la disección intelectual, ya fuera de Proust o de los
-mensajes de Alice, que en la desordenada e impredecible arena de la emoción real y la
-conexión humana. Respondió con frases calculadas, manteniendo la distancia,
-protegiendo su frágil fortaleza interior de cualquier asalto emocional externo.
-El mejor consuelo, se repitió, es el propio. Aunque sospechaba que ni él mismo
-se lo creía del todo.
+Y ahí era donde él fallaba.
+
+Podía pensar durante horas en por qué una persona actuaba de cierta manera. Podía
+desmenuzar una conversación como si fuera un problema de lógica. Pero cuando
+llegaba el momento de responder de verdad, de ser claro, de mostrarse cercano,
+se bloqueaba.
+
+Una tarde intentó refugiarse en la lectura. Abrió *Un amor de Swann* y empezó a
+leer sobre obsesiones, celos y proyecciones. Durante unos minutos incluso le
+pareció tranquilizador: siempre era más fácil entender a un personaje que
+entenderse a uno mismo.
+
+Entonces vibró el móvil.
+
+Era Alice.
+
+Kirlian miró la pantalla sin abrir el mensaje. Notó esa presión conocida en el
+pecho, como si la respuesta correcta existiera y él fuera el único incapaz de
+encontrarla. Sabía que no quería hacerle daño. Sabía también que, de alguna
+forma torpe, llevaba semanas haciéndolo.
+
+Abrió el chat. Leyó. Pensó demasiado. Empezó a escribir una respuesta, la borró
+entera, volvió a empezar. Todo le sonaba falso o excesivo.
+
+Al final contestó con una versión pequeña, prudente, casi administrativa de lo
+que realmente quería decir.
+
+Y al enviarla sintió vergüenza.
+
+Porque en el fondo entendía perfectamente lo que estaba pasando: no era que no
+supiera pensar. Era que usaba el pensamiento para no implicarse. Diseccionaba
+las emociones como si fueran insectos clavados en un corcho, porque eso era más
+seguro que admitir que estaba asustado, confundido y demasiado cerca de algo que
+no sabía manejar.
+
+Se quedó mirando la conversación unos segundos. La habitación estaba en silencio.
+El portátil seguía abierto sobre la mesa. Los apuntes seguían desordenados. El
+plan de enero seguía allí, intacto y absurdo.
+
+Por primera vez en días, Kirlian tuvo una intuición simple y desagradable: no le
+estaba yendo mal porque fuera incapaz de sentir. Le estaba yendo mal porque cada
+vez que algo importaba de verdad, intentaba convertirlo en teoría.
