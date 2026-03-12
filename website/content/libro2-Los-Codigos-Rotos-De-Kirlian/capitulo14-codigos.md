@@ -1,93 +1,34 @@
 +++
-title = "Capítulo 14: Códigos"
+title = "Capítulo 14: Códigos Rotos"
 weight = 14
 novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
-El invierno académico, con sus rigores y sus sombras introspectivas, cedía
-lentamente paso a una primavera granadina incierta, moteada de lluvias
-caprichosas y exámenes parciales. Kirlian, aún reverberando con el eco de las
-defensas construidas en Navidad –aquel andamio de planes y objetivos perfectos–
-se había resquebrajado bajo el peso real de la vida universitaria. Sin embargo,
-algo había cambiado desde la desolación del primer cuatrimestre. Una nueva
-normalidad, tejida con los hilos de una rutina compartida y una familiaridad
-creciente, parecía asentarse. La presencia de Alice ya no era una variable
-externa a analizar, sino una constante en la ecuación diaria, una fuerza que
-reconfiguraba su espacio vital y mental. La como él la llamaba
-en sus notas mentales y a veces en sus mensajes, se convertía en el escenario de
-esta nueva fase, un telón de fondo histórico para una relación que se tejía,
-sobre todo, en el éter digital.
+Granada los recibió con la indiferencia de las ciudades que han visto a miles de estudiantes llegar con sueños y marcharse con cicatrices. El Doble Grado en Informática y Matemáticas no era el sueño de libertad creativa que Kirlian había imaginado; era una fortaleza de hormigón donde cada asignatura era un muro por escalar.
 
-Sus móviles eran el ágora, el confesionario, el patio de recreo. Un universo
-paralelo donde la lógica de Kirlian colisionaba y a veces danzaba con la
-efusividad de Alice.
+Alice había elegido Granada. Por él. Y ese gesto de sacrificio silencioso se convirtió, con el tiempo, en una deuda que ninguno de los dos sabía cómo saldar.
 
-–¿Aún despierto, Kirlian? –llegaba un mensaje de ella, bien entrada la noche–.
-¿Desentrañando los misterios de la computabilidad o simplemente luchando contra
-un punto y coma rebelde?
+Los primeros meses fueron un simulacro de felicidad. Estudiaban juntos en la biblioteca de la Facultad de Ciencias, comían en el comedor universitario, donde Índigo, el amigo de Almería que los había seguido como una sombra leal, reservaba sitio con media hora de antelación, y por las noches se perdían por el Albaicín, buscando en sus calles empedradas el eco de la libertad londinense.
 
-–Procesando –respondía él desde su propia trinchera en la residencia–. La
-complejidad algorítmica presenta desafíos heurísticos. El punto y coma, por su
-parte, obedece a reglas sintácticas estrictas, aunque su omisión pueda generar
-caos sistémico. ¿Tu jornada ha sido semánticamente productiva?
+Pero la máquina universitaria no perdona.
 
-Y ella devolvía la pelota, a menudo con un suspiro virtual o un emoji juguetón,
-traduciendo su propio estrés académico o vital a un lenguaje menos cifrado.
-Kirlian recibía con una mezcla de perplejidad y un distante interés analítico.
-Él ofrecía interpretaciones simbólicas o recordatorios sobre la naturaleza no
-lineal de la psique nocturna, siempre manteniendo una barrera invisible.
+—No sé qué hago aquí, Alice —confesó Kirlian una noche, sentado en el suelo de su habitación de la residencia, rodeado de apuntes de Álgebra que parecían escritos en un idioma extraterrestre—. Siento que no encajo.
 
-La vida real, sin embargo, se filtraba con insistencia. El incidente del
-chaquetón negro perdido en la facultad, intercambiado por error con el de un
-compañero llamado Andreas. La pequeña odisea logística para recuperarlo, con
-Luna de intermediaria improvisada, se narró a través de mensajes, convirtiendo
-un contratiempo mundano en una micro-aventura compartida. Kirlian se sorprendió
-sintiendo un ligero alivio al recuperarlo, no tanto por la prenda, sino por la
-resolución de un imprevisto que había requerido, inevitablemente, su interacción
-coordinada.
+Alice no dijo nada durante un momento largo. Se sentó a su lado, le quitó los apuntes de las manos y los dejó sobre la mesa. Después lo abrazó. Un abrazo largo y silencioso que no pretendía arreglar nada, solo acompañar.
 
-Luego vino la campaña de apadrinamiento de pingüinos. Una excentricidad digital
-descubierta en los confines de internet que Kirlian, en un impulso difícil de
-analizar, decidió compartir.
+En esa calidez, Kirlian sintió cómo algo dentro de él se rompía y, al mismo tiempo, empezaba a sanar. Fue un resquicio de esperanza en el frío invierno de su primera crisis.
 
-–Hay una campaña del Ministerio de Defensa –escribió, adjuntando el enlace–.
-Puedes apadrinar un pingüino antártico.
+Pero los resquicios se cierran.
 
-La respuesta de Alice fue inmediata y entusiasta.
+Un día de primavera, en una sesión de estudio con Julia y Payton, los dos compañeros del DGIIM que se habían convertido en su red de seguridad, Velouria interrumpió su exposición sobre Álgebra Lineal.
 
-–¿¡Cómo te enteras de estas cosas!? ¿Es gratis? ¿Te mandan foto?
+—Interesante tu síntesis, Kirlian —dijo con voz tranquila—. Pero te falta un lema intermedio para que sea rigurosa.
 
-–Gratuito. Diploma virtual. He llamado al mío Isomorfismo.
+Antes de que pudiera responder, se levantó y desarrolló la demostración en la pizarra. Era lógica pura, elegante y concisa. Kirlian se quedó mudo. La chica a la que había descartado como una cara bonita sin sustancia poseía una mente matemática que superaba la suya.
 
-–¡Isomorfismo! ¡Qué nombre más horriblemente tú! –tecleó ella, y minutos
-después–: Hecho. El mío se llama Melendi.
+—Vaya —fue todo lo que Payton acertó a decir.
 
-Compartieron las fotos de los pingüinos con nombres absurdos –Isomorfismo y
-Melendi–, riéndose de la solemnidad militar aplicada a aves marinas. Fue uno de
-esos momentos de ligereza compartida, de sintonía en lo inesperado, que rompía
-momentáneamente la armadura analítica de Kirlian.
-
-Pero no todo era ligereza. La tensión subyacente, la diferencia fundamental en
-sus modos de procesar el mundo y las relaciones, afloraba con regularidad. La
-planificación de la asistencia a la manifestación feminista del 8 de marzo se
-convirtió en un microcosmos de sus diferencias. Él analizaba las implicaciones
-estratégicas de la presencia masculina, citaba comunicados, sopesaba argumentos
-contradictorios.
-
-–No es mi manifestación, no puedo crearme mi posición –argumentaba él con lógica
-impecable–. Si voy, puedo molestar. Si no voy, puedo ofender por falta de
-solidaridad. El dilema es lógicamente complejo.
-
-Ella, paciente pero firme, le recordó la dimensión personal, la que trascendía
-la estrategia colectiva.
-
-–A veces me gustaría que me apoyases –escribió, la vulnerabilidad filtrándose
-entre las palabras–. No por ser hombre, sino porque eres mi pareja.
-
-La palabra resonó de nuevo. Kirlian sintió el peso de la expectativa emocional.
-Accedió a acompañarla, no por convicción ideológica plena, sino por un cálculo
-relacional: el coste de no ir parecía mayor que el de la incomodidad de asistir.
-Caminó a su lado, observador externo en medio de la marea humana, registrando
+Julia le dio un codazo a Kirlian. —Cierra la boca, que se te van a meter moscas.
 los cánticos, las pancartas, la energía palpable que emanaba de ella. Intentó
 ofrecer un apoyo silencioso, una presencia física que supliera su dificultad
 para la efusión verbal espontánea.
