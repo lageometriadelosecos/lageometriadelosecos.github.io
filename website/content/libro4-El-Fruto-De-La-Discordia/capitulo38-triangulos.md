@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 38: Triángulos"
 weight = 38
-novela = ["libro4-lepeterno"]
+novela = ["libro4-El-Fruto-De-La-Discordia"]
 +++
 
 **6/2/2022**

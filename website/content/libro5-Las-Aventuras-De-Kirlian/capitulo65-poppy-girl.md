@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 65: Poppy Girl"
 weight = 65
-novela = ["libro5-aventuras-de-kirlian"]
+novela = ["libro5-Las-Aventuras-De-Kirlian"]
 +++
 
 Kirlian dejó a Shayla y conoció al caos. O mejor dicho, a sus fragmentos: Samurai, Eileen y **Poppy Girl**.

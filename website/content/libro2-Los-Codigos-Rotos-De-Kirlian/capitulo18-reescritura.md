@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 18: Reescritura"
 weight = 18
-novela = ["libro2--codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 La primavera llegó a Granada y Kirlian sintió un deshielo interno. El invierno anterior, con su crisis y sus suspensos, había dejado una marca, pero el aprobado agónico en Cálculo I y la supervivencia general le dieron un nuevo punto de partida. Afrontó el segundo cuatrimestre con una energía más serena y una perspectiva más pragmática.

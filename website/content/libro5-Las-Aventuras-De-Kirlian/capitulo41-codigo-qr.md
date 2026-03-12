@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 41: Código QR para un Corazón Roto"
 weight = 41
-novela = ["libro4-lepeterno"]
+novela = ["libro5-Las-Aventuras-De-Kirlian"]
 +++
 
 El tiempo, después de aquella conversación funcional pero extrañamente hueca con

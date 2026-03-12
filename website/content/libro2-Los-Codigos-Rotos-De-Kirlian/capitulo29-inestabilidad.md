@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 29: Inestabilidad"
 weight = 29
-novela = ["libro2--codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 **[10/10/19 22:24] Diario durante la inestabilidad profunda**

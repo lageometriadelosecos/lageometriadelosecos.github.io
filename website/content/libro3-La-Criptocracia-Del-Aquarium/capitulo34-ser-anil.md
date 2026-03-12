@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 34: Ser Anil"
 weight = 36
-novela = ["libro3-aquarium"]
+novela = ["libro3-La-Criptocracia-Del-Aquarium"]
 +++
 
 Febrero de 2020. El mundo todavía ignoraba que estaba a punto de cerrarse, pero en la clínica **Seranil**, en Benajarafe, el confinamiento ya era mi única realidad. Este era mi **Aquarium**, un tanque de cristal frente al Mediterráneo donde el tiempo se diluía en dosis de risperidona y paseos por pasillos de linóleo brillante.

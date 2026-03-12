@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 12: Axiomas"
 weight = 12
-novela = ["libro2-codigos-rotos"]
+novela = ["libro2-Los-Codigos-Rotos-De-Kirlian"]
 +++
 
 El Café Central respiraba con el murmullo sordo e insistente de una ciudad que

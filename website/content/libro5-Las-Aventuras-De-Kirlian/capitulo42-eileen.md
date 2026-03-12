@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 42: Eileen"
 weight = 42
-novela = ["libro4-lepeterno"]
+novela = ["libro5-Las-Aventuras-De-Kirlian"]
 +++
 
 La luz fluorescente del laboratorio de computación a las diez de la noche tenía

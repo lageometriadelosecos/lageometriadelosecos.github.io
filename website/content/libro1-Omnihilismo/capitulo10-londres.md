@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 10: Londres"
 weight = 10
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 

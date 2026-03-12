@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 5: Absurdo"
 weight = 5
-novela = ["libro1-viernes-interior"]
+novela = ["libro1-Omnihilismo"]
 +++
 
 
@@ -116,4 +116,3 @@ dichas, de silencios osificados. Y él, Kirlian, el supuesto buscador de la
 verdad lógica, vagaba por sus pasillos fríos, perdido en la geometría espectral
 de su propio tiempo perdido, aplastado por el peso insoportable de lo que podría
 haber sido y ya no era.
-
