@@ -1,7 +1,7 @@
 +++
-title = "Capítulo 66: Eileen"
-weight = 66
-novela = ["libro5-Las-Aventuras-De-Kirlian"]
+title = "Capítulo 45: Eileen"
+weight = 45
+novela = ["libro6-El-Evangelio-Del-Matematico-Ateo"]
 +++
 
 El piso de Granada estaba en penumbra cuando Eileen llegó. Kirlian había anulado su matrícula hacía semanas, y el apartamento se había convertido en su refugio y su prisión. Libros apilados, el portátil abierto con código a medio escribir, tazas de café olvidadas.
