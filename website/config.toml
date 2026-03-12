@@ -2,8 +2,6 @@
 base_url = "https://lageometriadelosecos.github.io"
 
 author = "Ricardo Ruiz"
-[extra]
-author_url = "/autor/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -28,6 +26,7 @@ build_search_index = false
 # Ver: https://www.getzola.org/documentation/getting-started/configuration/
 
 [extra]
+author_url = "/autor/"
 analytics = true
 after_dark_menu = [
     {url = "$BASE_URL", name = "Inicio"},
