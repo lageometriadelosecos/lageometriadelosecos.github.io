@@ -82,10 +82,12 @@
 
   <main>
     <header>
-      <h1 class="site-title">{{ section.title }}</h1>
-      {% if config.author %}
-      <p class="site-author">Por <a href="{{ config.extra.author_url | default(value='/') | safe }}">{{ config.author }}</a></p>
-      {% endif %}
+      <h1 class="site-title">
+        {{ section.title }}
+        {% if config.author %}
+        <span class="site-author-inline">· por <a href="{{ config.extra.author_url | default(value='/') | safe }}">{{ config.author | lower | title }}</a></span>
+        {% endif %}
+      </h1>
     </header>
 
     <div class="section-content">
