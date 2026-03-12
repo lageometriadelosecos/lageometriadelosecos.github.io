@@ -65,6 +65,19 @@ body {
   font-weight: 400;
 }
 
+.site-title {
+  margin-bottom: 0.3rem;
+}
+
+.site-author {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #cccccc;
+}
+
 .chapter-navigation {
   display: flex;
   gap: 1rem;
