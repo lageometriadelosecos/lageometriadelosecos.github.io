@@ -1,83 +1,42 @@
 +++
-title = "Capítulo 3: Sombra"
+title = "Capítulo 3: La Sombra de Alice"
 weight = 3
 novela = ["libro1-Omnihilismo"]
 +++
 
-Diciembre había llegado a Almería con un frío húmedo que calaba los huesos y
-teñía el cielo de un gris persistente, muy distinto a la vibrante melancolía de
-noviembre. Los exámenes de enero, antes una amenaza lejana, ahora eran una
-cordillera escarpada e inminente.
-Kirlian se encontraba de nuevo encorvado, esta vez no en la calculada penumbra
-del Café Central, sino bajo la luz fluorescente y despiadada de la biblioteca de
-la universidad, el aire cargado con el silencio tenso de la
-concentración ajena y el olor a papel viejo y calefacción reseca.
+El mensaje llegó a las once de la mañana, mientras Kirlian masticaba un bocadillo de tortilla en la cafetería del Café Central, rodeado por el murmullo de compañeros que repasaban apuntes de Topología.
 
-frente a él, las notas sobre Cálculo Integral se desenfocaban, las interminables filas de derivadas y los problemas de optimización transformándose en jeroglíficos incomprensibles. Su mente, en lugar de seguir la lógica implacable de las demostraciones, volvía una y otra vez a la pantalla del móvil, a la luz azulada que proyectaba las verdades descarnadas de Alice.
+*Ha pasado algo turbio.*
 
-No hubo un suceso "turbio", no hubo un evento externo que marcara la fractura. La ruptura fue puramente intelectual, una devaluación de sus activos emocionales dictada por la lucidez de ella.
+Tres palabras de Alice. Kirlian dejó el bocadillo sobre la servilleta y miró la pantalla como quien mira una bomba sin desactivar.
 
-— ¿Tienes miedo a dejar atrás el pozo de mierda en el que estás? —había escrito ella aquella madrugada—. El primer paso para despertar es admitir que no se quiere despertar.
+Conocía a Alice desde hacía año y medio. La había visto irrumpir en su vida como un cortocircuito: pelo teñido de un azul eléctrico que cambiaba cada mes, ropa de segunda mano que parecía diseñada por ella misma, y una capacidad asombrosa para convertir cualquier conversación en una montaña rusa emocional. Alice no entraba en las habitaciones; las invadía.
 
-Eran otros tiempos. Esa era la frase que resonaba ahora, con la insistencia de un teorema mal recordado. Aquellos días previos, aunque cargados de su propia angustia académica, poseían una cualidad distinta. Había una conexión con Alice, eléctrica y compleja, tejida con debates que Alice terminaba por demoler con una frase.
+*Demian me ha pedido un beso*, escribió ella a continuación.
 
-— La objetividad de tu "Viernes" es en realidad una intersubjetividad —le había disparado ella cuando él intentó explicar el Omnihilismo—. Os habéis puesto de acuerdo en símbolos para no volveros locos. Érika Durán vive en una mentira útil, Kirlian. Ha construido un edificio de certezas matemáticas para no ver que el Orden Humano es un arma de doble filo. Ahorrarle el juicio al niño es llenarlo de prejuicios.
+Kirlian sintió un frío repentino en el estómago.
 
-Y luego Freddie. El "Duelo" que Kirlian sentía, Alice lo había diagnosticado sin anestesia:
-— ¿Sabes qué es Freddie? Pura melodía en soledad. Se cree libre porque nadie espera nada de él, pero eso no es libertad, es ruido. Me choca que lo idealices. Cuando la gente se va, tu propia melodía sigue sonando sola. Y tú tienes miedo de que la tuya desafine si te acercas demasiado a la mía.
+*Le he dicho que no. Le he dicho que por ti.*
 
-Aquellas palabras habían abierto una brecha más profunda que cualquier incidente físico. No hubo una gran discusión. Simplemente, la delicada geometría de sus idealizaciones se había desplazado. Alice había expuesto la "falta" de los pilares de su mundo: la rigidez de Érika Durán, la vacuidad de Freddie. Y él, atrapado en su red de "Radio Social", no había encontrado la forma de defender sus mitos.
+Leyó la frase tres veces. "Por ti." Dos palabras que deberían haberle provocado alivio, o incluso orgullo. Pero lo que sintió fue náusea. Una náusea que no tenía nada que ver con el Crohn.
 
-Un golpecito suave en su hombro lo sobresaltó. Levantó la vista, parpadeando para ajustar el foco. Era Alice. Su pelo oscuro recogido en una coleta desordenada, una sonrisa comprensiva y ligeramente irónica en sus labios. Alice. La que se había convertido en su ancla terrenal, con la que compartía no solo el silencio de la biblioteca sino un universo digital de mensajes nocturnos que desafiaban cualquier clasificación.
+Porque Demian era el novio de Érika Durán. Y porque Alice había elegido usar su nombre como escudo, como barrera, como excusa. Y Kirlian no sabía si eso significaba que ella le quería o que le estaba usando como pretexto para no hacer algo que, en el fondo, quería hacer.
 
-—¿Intentando desentrañar los secretos del universo o simplemente sobrevivir a
-Integrales? —preguntó, dejando caer una pila de libros sobre la mesa con un ruido
-sordo.
+Tecleó y borró cinco respuestas distintas. La lógica le decía que debía analizar la situación con frialdad. La emoción le pedía que saliese corriendo a buscarla.
 
-Kirlian esbozó una media sonrisa. —Un poco de ambas cosas, supongo. Más bien lo segundo disfrazado de lo primero. _Ca_.
+Eligió la lógica, como siempre.
 
-—¿_Ca_? —Alice rió, reconociendo el código compartido—. Veo que el lenguaje del "Viernes Interior" sigue mutando. ¿Es ese tu nuevo firewall verbal?
+*No lo entiendo. ¿Esperabas que sintiera celos?*
 
-—Te conozco —asintió Alice, sentándose frente a él—. Cuando te pones esa cara de
-intenso metafísico, normalmente es que estás a punto de implosionar por algo
-mucho más terrenal. ¿Parciales a la vista? ¿O dramas existenciales de viernes
-noche extendidos?
+Pulsó enviar. Supo al instante que era la peor respuesta posible. No era fría; era cruel. No era analítica; era cobarde.
 
-Kirlian dudó un instante. Con Alice, la coraza intelectual se sentía menos
-necesaria. Ella había presenciado sus fases anteriores, conocía fragmentos de su
-historia que ni Érika Durán ni los compañeros del Doble Grado sospechaban. —Los
-exámenes, sí. Pero... también lo otro. Lo de siempre. La sensación de estar
-observando todo desde detrás de un cristal.
+Alice no respondió en dos horas.
 
-Alice lo miró fijamente, sus ojos oscuros serios por un momento. —¿Y nosotros? ¿Cómo va eso? Siento que nos hemos vuelto distantes últimamente.
+Cuando lo hizo, fue con una sola frase que Kirlian se repetiría durante años, en noches de insomnio, como una herida que se reabre con cada recuerdo:
 
-La pregunta directa, inevitable. Kirlian desvió la mirada hacia sus apuntes,
-hacia los símbolos que antes le ofrecían refugio y ahora parecían acusadores.
-—Distante. Supongo. Desde... bueno, desde hace unas semanas.
+*¿Quién coño soy yo para ti?*
 
-—¿Desde lo de Érika Durán? —La perspicacia de Alice era a veces incómoda—. ¿O es que te sientes un traidor al Ric del recuerdo por hablar conmigo de estas cosas? No puedes traicionar a alguien que ya no existe, Kirlian.
-
-Kirlian asintió, sin mirarla. —No hablamos realmente de ello. Yo no... no supe qué decir cuando me hablaste de la intersubjetividad de la ciencia. Me sentí desarmado. Y ahora es... raro. Como si hubiera una pared invisible.
-
-—Una pared que tú ayudaste a construir al no hacer nada, querrás decir —dijo Alice, sin acritud, pero con una franqueza que lo obligó a enfrentarlo—.
-Kirlian, a veces tu brillante capacidad para analizarlo todo hasta la parálisis
-es tu peor enemigo. ¿De qué sirve entender la fenomenología de la angustia si no
-puedes simplemente preguntar "¿Estás bien?"?
-
-Tenía razón. Por supuesto que tenía razón. Su huida hacia la abstracción, su
-refugio en la filosofía como escudo contra la vulnerabilidad y la acción, lo
-había dejado aislado precisamente cuando la conexión era más necesaria. Había
-diagnosticado la situación con precisión clínica –la inversión de roles, la
-contradicción entre teoría y sentimiento– pero había fallado estrepitosamente en
-la praxis.
-
-—Lo sé —murmuró, sintiendo el peso de la admisión—. Es como si hubiera dos Kirlian. El que entiende la teoría, el que puede citar a Camus sobre el absurdo o a Kierkegaard sobre la angustia... y el que se queda congelado cuando tiene que actuar en consecuencia. —Hizo una pausa, mirando su libreta—. Además, me siento un traidor.
-
-—¿Traidor a quién?
-
-—Al Ric del recuerdo. Siempre he intentado mantenerme coherente con lo que fuimos en la época dorada. Pero ahora... si cambio para acercarme a Alice, siento que le doy la espalda a ese Ric. No puedes traicionar a alguien que ya no existe, me dirías tú, pero para mí ese "alguien" es más importante que lo existente.
-
-Alice suspiró, revolviendo su café. —Hegel hablaba de un deseo muy curioso: el deseo de ser deseado. Tú estableces un conflicto ahí. Quieres que el mundo te desee, pero sientes que tu pasado te lo impide. Al final, es un problema de capas. ¿Te acuerdas de tu gráfico del "Radio Social"?
+Cerró el chat. Se comió el resto del bocadillo sin saborearlo. Volvió al problema de Topología Diferencial, donde al menos los espacios tenían dimensiones definidas y las distancias se podían medir.
 
 —¿El de las capas de cebolla? —Kirlian asintió levemente.
 
