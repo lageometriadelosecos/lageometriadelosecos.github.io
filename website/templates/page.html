@@ -16,6 +16,7 @@
 
 <article itemscope itemtype="http://schema.org/BlogPosting">
     {% set hide_title = page.extra.hide_title | default(value=false) %}
+    {% set is_chapter = page.relative_path is defined and page.relative_path is containing("/capitulo") %}
     {% if not hide_title %}
     <header>
         <h1 itemprop="headline">{{ page.title }}</h1>
@@ -25,6 +26,36 @@
     <div itemprop="articleBody">
       {{ page.content | safe }}
     </div>
+
+    {% if is_chapter %}
+    {% set chapter_navigation = load_data(path="data/chapter_navigation.json") %}
+    {% set chapter_path_parts = page.relative_path | split(pat="/") %}
+    {% set chapter_book_slug = chapter_path_parts | first %}
+    {% set chapter_file_name = chapter_path_parts | last %}
+    {% if chapter_navigation[chapter_book_slug] is defined and chapter_navigation[chapter_book_slug][chapter_file_name] is defined %}
+        {% set chapter_nav = chapter_navigation[chapter_book_slug][chapter_file_name] %}
+
+        <nav class="chapter-navigation" aria-label="Navegación entre capítulos">
+            {% if chapter_nav.previous is defined %}
+            <a class="chapter-navigation__link chapter-navigation__link--previous" href="{{ chapter_nav.previous.url | safe }}" rel="prev">
+                <span class="chapter-navigation__eyebrow">Anterior</span>
+                <span class="chapter-navigation__title">{{ chapter_nav.previous.title }}</span>
+            </a>
+            {% else %}
+            <span class="chapter-navigation__spacer" aria-hidden="true"></span>
+            {% endif %}
+
+            {% if chapter_nav.next is defined %}
+            <a class="chapter-navigation__link chapter-navigation__link--next" href="{{ chapter_nav.next.url | safe }}" rel="next">
+                <span class="chapter-navigation__eyebrow">Siguiente</span>
+                <span class="chapter-navigation__title">{{ chapter_nav.next.title }}</span>
+            </a>
+            {% else %}
+            <span class="chapter-navigation__spacer" aria-hidden="true"></span>
+            {% endif %}
+        </nav>
+    {% endif %}
+    {% endif %}
 
     {% block page_footer %}
         <footer>
