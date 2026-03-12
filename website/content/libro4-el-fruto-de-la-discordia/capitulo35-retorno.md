@@ -4,13 +4,13 @@ weight = 35
 novela = ["libro4-El-Fruto-De-La-Discordia"]
 +++
 
-Marzo de 2020. El mundo exterior se cerró con el golpe seco de un confinamiento global, pero para mí, la verdadera clausura había ocurrido semanas antes, tras los muros de la clínica El Seranil. Volví a casa de mis padres no como un hijo pródigo, sino como un superviviente de una guerra psíquica, cargando con una *fuerza* extraña, una claridad que mis padres confundían con enfermedad.
+Marzo de 2020. El mundo exterior se cerró con el golpe seco de un confinamiento global, pero para mí, la verdadera clausura había ocurrido semanas antes, tras los muros de la clínica Aquarium. Volví a casa de mis padres no como un hijo pródigo, sino como un superviviente de una guerra psíquica, cargando con una *fuerza* extraña, una claridad que mis padres confundían con enfermedad.
 
 —Mi madre se cree que no estoy bien y me proyecta como enfermo —escribí en el diario, recuperando el derecho a mi propia narrativa—. Todo ha sido una paranoia de mis padres. Yo volví con una gran fuerza.
 
 La "fuerza" era la **Desprogramación Positiva**. Había visto el abismo de la "Fuga", había tocado el fondo del delirio mesiánico en el calabozo, y ahora, de regreso en la habitación de mi infancia, sentía que había resucitado. Mis amigos del "mundo real" —los que me habían "traicionado" u olvidado— quedaron al otro lado de la barrera invisible. Aquí, en el encierro, empezaba una nueva era.
 
-Fue entonces cuando **Índigo** empezó a cobrar forma. No era una alucinación, ni un amigo imaginario en el sentido infantil. Era la manifestación de esa parte de mí que se negaba a ser "arreglada" por el sistema, la parte que había sobrevivido al Seranil y que ahora miraba el mundo con ojos de **Peter No** —el niño que se niega a crecer bajo las normas de la "realidad objetiva".
+Fue entonces cuando **Índigo** empezó a cobrar forma. No era una alucinación, ni un amigo imaginario en el sentido infantil. Era la manifestación de esa parte de mí que se negaba a ser "arreglada" por el sistema, la parte que había sobrevivido al Aquarium y que ahora miraba el mundo con ojos de **Peter No** —el niño que se niega a crecer bajo las normas de la "realidad objetiva".
 
 —La oposición entre realidad y fantasía es solo para aquellos que no entiendan que la subjetividad es bien real —me repetía Índigo, sentado en el borde de mi cama mientras yo organizaba mis nuevas **"Prioridades de la vida actual"** en una lista de Notion mental:
 

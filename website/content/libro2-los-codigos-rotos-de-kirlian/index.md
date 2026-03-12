@@ -1,19 +1,16 @@
 +++
-title = "Libro 2: Códigos Rotos"
+title = "Libro 2: Los Códigos Rotos de Kirlian"
 subtitle = "La Deconstrucción Necesaria"
 weight = 2
 template = "page.html"
+[extra]
+hide_title = true
 +++
 
-# 🌊 Libro 2: Códigos Rotos
+# 🌊 Libro 2: Los Códigos Rotos de Kirlian
 ## *La Deconstrucción Necesaria*
 
-**Tono:** Introspectivo, melancólico, pero cada caída es preludio de lección vital  
-**Tema:** La humildad. Aprender que el intelecto no puede controlarlo todo
-
 El libro del aprendizaje profundo, donde cada caída enseña, cada crisis es una oportunidad de crecimiento, y cada dolor se convierte en sabiduría.
-
-**Arco de Kirlian:** Su identidad intelectual se desmorona para dar paso a una más auténtica y resiliente
 
 ---
 
@@ -41,19 +38,9 @@ El libro del aprendizaje profundo, donde cada caída enseña, cada crisis es una
 
 ---
 
-## 🎯 Momentos Clave
-
-- El fracaso académico como lección de que la pasión necesita pragmatismo
-- La construcción de amistades sólidas en el momento más bajo
-- Los celos como catalizador para cuestionar teorías sobre relaciones
-- La perspectiva salvadora de Marla como punto de inflexión
-- La catarsis sónica del rap como motor de renacimiento
-
----
-
 ## 🔗 Navegación
 
-**[← Libro Anterior](../libro1-viernes-interior/)** | **[Inicio](../)** | **[Siguiente Libro →](../libro3-aquarium/)**
+**[← Libro Anterior](@/libro1-omnihilismo/index.md)** | **[Inicio](../)** | **[Siguiente Libro →](@/libro3-a-cantiga-do-aquarium/index.md)**
 
 ---
 

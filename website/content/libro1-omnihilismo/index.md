@@ -1,19 +1,16 @@
 +++
-title = "Libro 1: El Viernes Interior"
+title = "Libro 1: Omnihilismo"
 subtitle = "La Búsqueda del Reflejo"
 weight = 1
 template = "page.html"
+[extra]
+hide_title = true
 +++
 
-# 🌅 Libro 1: El Viernes Interior
+# 🌅 Libro 1: Omnihilismo
 ## *La Búsqueda del Reflejo*
 
-**Tono:** Nostálgico, brillante, juvenil-filosófico  
-**Tema:** La búsqueda de la conexión y la identidad a través de la amistad y el idealismo
-
 El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada conexión es una revelación, y cada momento es una celebración del poder transformador del intelecto y el afecto. Se forja aquí la "Época Dorada" y su lenguaje propio: desde el Omnihilismo hasta el código _Ca_, el ahorro de palabras ante la comprensión mutua.
-
-**Arco de Kirlian:** De buscar validación intelectual única (Érika) a abrirse a conexión completa y terrenal (Alice)
 
 ---
 
@@ -35,17 +32,9 @@ El libro de la luz juvenil, donde cada descubrimiento es una victoria, cada cone
 
 ---
 
-## 🎯 Momentos Clave
-
-- La creación del Omnihilismo como juego creativo entre mentes brillantes
-- El despertar en Londres y Cyberdog como símbolo de libertad
-- La decisión de Granada como apuesta por el amor compartido
-
----
-
 ## 🔗 Navegación
 
-**[← Inicio](../)** | **[Siguiente Libro →](../libro2-codigos-rotos/)**
+**[← Inicio](../)** | **[Siguiente Libro →](@/libro2-los-codigos-rotos-de-kirlian/index.md)**
 
 ---
 

@@ -1,31 +1,28 @@
 +++
-title = "Retiro Espiritual"
+title = "Libro 3: A Cantiga do Aquarium"
 subtitle = "La Reconstrucción"
 weight = 3
 template = "page.html"
+[extra]
+hide_title = true
 +++
 
-# ⚓ Libro 3: Retiro Espiritual
+# ⚓ Libro 3: A Cantiga do Aquarium
 ## *La Reconstrucción*
 
-**Tono:** Calmado, sabio, esperanzador  
-**Tema:** La autoaceptación y la búsqueda de equilibrio personal
-
 El libro de la madurez, donde Kirlian se convierte en el arquitecto de su propia vida, construye conexiones auténticas con otros, y encuentra su propio centro de gravedad.
-
-**Arco de Kirlian:** De buscar respuestas fuera a construir su propio centro de gravedad
 
 ---
 
 ## 📚 Capítulos
 
-- [Capítulo 34: Ser Añil](capitulo34-ser-anil/)
+- [Capítulo 34: Aquarium](capitulo34-aquarium/)
 
 ---
 
 ## 🔗 Navegación
 
-**[← Libro Anterior](../libro2-codigos-rotos/)** | **[Inicio](../)** | **[Siguiente Libro →](../libro4-lepeterno/)**
+**[← Libro Anterior](@/libro2-los-codigos-rotos-de-kirlian/index.md)** | **[Inicio](../)** | **[Siguiente Libro →](@/libro4-el-fruto-de-la-discordia/index.md)**
 
 ---
 

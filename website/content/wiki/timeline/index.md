@@ -167,13 +167,13 @@ Capítulo 29: La Catarsis Sónica y el Renacimiento en Clave de Rap
 
 Descripción: Durante su retiro, Kirlian experimenta una catarsis a través de la música (Novedades Carminha, Kokoshca), culminando en un "renacimiento" y una "crisis gnóstica" al descubrir el rap (Kase.O) y reinterpretarse como un ser espiritual/materialista.
 
-Capítulo 30: El Seranil y la Reinterpretación del Mundo
+Capítulo 30: El Aquarium y la Reinterpretación del Mundo
 
-Descripción: Kirlian narra su estancia en la clínica "El Seranil" (tras una crisis nerviosa/brote), sus "revelaciones" sobre el NOM, sectas, y una reinterpretación gnóstica y simbólica de la realidad (Matrix, Harry Potter).
+Descripción: Kirlian narra su estancia en la clínica Aquarium (tras una crisis nerviosa/brote), sus "revelaciones" sobre el NOM, sectas, y una reinterpretación gnóstica y simbólica de la realidad (Matrix, Harry Potter).
 
 Capítulo 31: Granada Redescubierta, Códigos Ocultos
 
-Descripción: Tras El Seranil, Kirlian vuelve a Granada. Su percepción está alterada, encontrando significados ocultos en canciones y símbolos. Explora el materialismo filosófico y el cristianismo esotérico mientras intenta reinsertarse en la vida académica.
+Descripción: Tras su paso por el Aquarium, Kirlian vuelve a Granada. Su percepción está alterada, encontrando significados ocultos en canciones y símbolos. Explora el materialismo filosófico y el cristianismo esotérico mientras intenta reinsertarse en la vida académica.
 
 Interludio con Shayla: Un Romance Efímero y sus Secuelas (Primavera 2022 - Diciembre 2022)
 
