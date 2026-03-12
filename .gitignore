@@ -5,6 +5,7 @@ credenciales.json
 # Directorios de salida de audio
 audio_libro1/
 etica/
+orders
 
 # Archivos específicos de la novela que pueden ser generados o no son parte del control de versiones
 novela/cuerpo_novela.pdf
