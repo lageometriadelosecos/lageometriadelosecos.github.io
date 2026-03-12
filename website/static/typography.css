@@ -78,6 +78,16 @@ body {
   color: #cccccc;
 }
 
+.site-author a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+
+.site-author a:hover {
+  text-decoration: underline;
+}
+
 .chapter-navigation {
   display: flex;
   gap: 1rem;

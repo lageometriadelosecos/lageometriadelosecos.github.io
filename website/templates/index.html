@@ -83,7 +83,9 @@
   <main>
     <header>
       <h1 class="site-title">{{ section.title }}</h1>
-      <p class="site-author">Por Ricardo Ruiz</p>
+      {% if config.author %}
+      <p class="site-author">Por <a href="{{ config.extra.author_url | default(value='/') | safe }}">{{ config.author }}</a></p>
+      {% endif %}
     </header>
 
     <div class="section-content">
