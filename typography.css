@@ -1,0 +1,136 @@
+/* Typography overrides layered on top of the after-dark theme. */
+:root {
+  --site-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Monaco, Consolas,
+    "Liberation Mono", "DejaVu Sans Mono", monospace;
+}
+
+body,
+button,
+input,
+optgroup,
+select,
+textarea,
+.hack,
+.hack blockquote,
+.hack code,
+.hack em,
+.hack h1,
+.hack h2,
+.hack h3,
+.hack h4,
+.hack h5,
+.hack h6,
+.hack strong {
+  font-family: var(--site-mono) !important;
+}
+
+body {
+  font-weight: 400;
+  letter-spacing: 0.015em;
+}
+
+.hack h1,
+.hack h2,
+.hack h3,
+.hack h4,
+.hack h5,
+.hack h6,
+.navbar a,
+.search-container input,
+.search-results {
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.hack p,
+.hack li,
+.hack blockquote,
+.hack table,
+.hack td,
+.hack th,
+.hack footer,
+.hack header,
+.section-content {
+  letter-spacing: 0.015em;
+}
+
+.hack pre,
+.hack code,
+#search {
+  font-family: var(--site-mono) !important;
+  font-weight: 500;
+}
+
+.hack blockquote {
+  font-weight: 400;
+}
+
+.site-title {
+  margin-bottom: 0.8rem;
+}
+
+.site-author-inline {
+  font-size: 0.7em;
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  color: #cccccc;
+}
+
+.site-author-inline a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+
+.site-author-inline a:hover {
+  text-decoration: underline;
+}
+
+.chapter-navigation {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  margin: 3rem 0 2rem;
+}
+
+.chapter-navigation__link,
+.chapter-navigation__spacer {
+  box-sizing: border-box;
+  min-height: 6.5rem;
+  width: calc(50% - 0.5rem);
+}
+
+.chapter-navigation__link {
+  border: 1px solid currentColor;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1rem 1.1rem;
+  text-decoration: none;
+}
+
+.chapter-navigation__link--next {
+  text-align: right;
+}
+
+.chapter-navigation__eyebrow {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.chapter-navigation__title {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 720px) {
+  .chapter-navigation {
+    flex-direction: column;
+  }
+
+  .chapter-navigation__link,
+  .chapter-navigation__spacer {
+    width: 100%;
+  }
+}
