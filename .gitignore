@@ -20,6 +20,9 @@ drafting/export/
 orders
 tools/.venv
 tools/__pycache__/
+drafting/tools/.venv/
+drafting/tools/__pycache__/
+drafting/tools/audiolibro/
 *.mp3
 *.wav
 *.m4a
