@@ -28,33 +28,43 @@ Kirlian se rio. Una risa corta, seca, que le salía cuando Érika Durán dispara
 
 —El carro alado —continuó él, porque no podía evitarlo—. La razón intentando dominar a los caballos desbocados del espíritu y el apetito. Esa es nuestra lucha.
 
-—Mi carro va sin auriga la mayor parte del tiempo —dijo Érika Durán, dándole una calada larga al cigarro—. Los caballos hacen lo que quieren. Quizás Nietzsche tenía razón. Nos han dejado solos en un páramo sin brújula. Dios ha muerto y no tenemos mapa.
+—Mi carro va sin auriga la mayor parte del tiempo —dijo Érika Durán—. Los caballos hacen lo que quieren. Y si Nietzsche tenía razón, encima nos soltaron en un páramo sin brújula.
 
 Kirlian se quedó mirando un charco de luz anaranjada en el asfalto. Sabía adónde iba esto. Era el ritual de cada viernes: empezar hablando de clase y acabar rozando algo que no tenía nombre.
 
 —Nietzsche propuso un camino —dijo—. Las tres transformaciones. Primero, el camello: el que carga con los "tú debes" de todo el mundo. Después, el león: la rebelión, el "yo quiero". El que destruye los viejos valores.
 
-—¿Y la última? —preguntó Érika Durán, y su voz se había vuelto más baja, como siempre que algo le importaba de verdad.
+—¿Y la última? —preguntó Érika Durán. Esta vez no sonaba irónica; solo curiosa.
 
 —El niño. La creación de nuevos valores desde la nada. Un santo decir sí a la vida.
 
 El cigarro de Érika Durán se consumía entre sus dedos, olvidado.
 
-—Un santo decir sí —repitió ella, saboreando las palabras—. Eso es lo que hacemos aquí, ¿no? ¿Cada viernes?
+—Pues a mí me sale regular lo de santo —dijo ella—. Yo paso del camello al caos sin escalas.
 
-—Quizás. —Kirlian se giró hacia ella—. Es aceptar el vacío. Saber que nada importa desde fuera. Pero que esto —señaló el espacio entre ambos, el banco, la noche, la conversación—, esto lo es todo desde dentro.
+Kirlian se volvió hacia ella.
 
-Érika Durán lo miró fijamente. Sus ojos oscuros brillaban con algo que no era ironía ni cinismo. Era reconocimiento.
+—Igual por eso volvemos aquí. Porque fuera todo parece exagerado y aquí, en cambio, las cosas se quedan quietas un rato.
 
-—Nuestro Omnihilismo —dijo ella.
+Érika Durán lo miró y sonrió apenas, como si le concediera media victoria.
 
-—Nuestro Omnihilismo —confirmó él.
+—No sé si eso es filosofía o una excusa muy rebuscada para seguir viéndonos.
+
+—Las dos cosas —dijo Kirlian.
+
+—Entonces me vale.
 
 Se quedaron en silencio. El ruido de un coche lejano cruzó la noche. En algún lugar, alguien puso una canción de Triángulo de Amor Bizarro, tan alta que los bajos vibraban en las aceras.
 
-Kirlian pensó que si alguna vez alguien le preguntaba cuándo había sido realmente feliz, diría esto. Este banco. Esta chica fumando a su lado. Esta conversación sobre nada que lo era todo.
+Érika Durán aplastó el cigarro contra la suela y se subió las rodillas al pecho.
 
-No sabía que era la última vez que se sentirían así.
+—El viernes que viene traes algo mejor que Platón —dijo.
+
+—¿Me aceptas a Cioran?
+
+—Ni se te ocurra. Quiero llegar viva a Selectividad.
+
+Kirlian se rio otra vez. Miró el banco, la ceniza en la acera, la noche sosteniéndose a su alrededor con una calma rara. No pensó en el futuro. Aquello le bastó.
 
 ---
 
@@ -66,7 +76,7 @@ El mensaje llegó a las once de la mañana, mientras Kirlian masticaba un bocadi
 
 Tres palabras de Alice. Kirlian dejó el bocadillo sobre la servilleta y miró la pantalla como quien mira una bomba sin desactivar.
 
-Conocía a Alice desde hacía año y medio. La había visto irrumpir en su vida como un cortocircuito: pelo teñido de un azul eléctrico que cambiaba cada mes, ropa de segunda mano que parecía diseñada por ella misma, y una capacidad asombrosa para convertir cualquier conversación en una montaña rusa emocional. Alice no entraba en las habitaciones; las invadía.
+Alice tenía la costumbre de escribir como si una conversación ya estuviera en marcha antes del primer mensaje. No saludaba. Irrumpía. Medio año antes, en una fiesta de cumpleaños, se había presentado con el flequillo azul, una chaqueta vaquera pintada por ella misma y una pregunta imposible sobre si Platón habría sobrevivido a Twitter. Desde entonces, cada vez que aparecía, el aire parecía cambiar de presión.
 
 *Demian me ha pedido un beso*, escribió ella a continuación.
 
@@ -76,7 +86,7 @@ Kirlian sintió un frío repentino en el estómago.
 
 Leyó la frase tres veces. "Por ti." Dos palabras que deberían haberle provocado alivio, o incluso orgullo. Pero lo que sintió fue náusea. Una náusea que no tenía nada que ver con el Crohn.
 
-Porque Demian era el novio de Érika Durán. Y porque Alice había elegido usar su nombre como escudo, como barrera, como excusa. Y Kirlian no sabía si eso significaba que ella le quería o que le estaba usando como pretexto para no hacer algo que, en el fondo, quería hacer.
+Demian era el novio de Érika Durán. Y Alice había usado su nombre como quien improvisa una defensa en mitad de un incendio. Kirlian no sabía si eso era una declaración o una coartada.
 
 Tecleó y borró cinco respuestas distintas. La lógica le decía que debía analizar la situación con frialdad. La emoción le pedía que saliese corriendo a buscarla.
 
@@ -88,13 +98,13 @@ Pulsó enviar. Supo al instante que era la peor respuesta posible. No era fría;
 
 Alice no respondió en dos horas.
 
-Cuando lo hizo, fue con una sola frase que Kirlian se repetiría durante años, en noches de insomnio, como una herida que se reabre con cada recuerdo:
+Cuando lo hizo, fue con una sola frase:
 
 *¿Quién coño soy yo para ti?*
 
-Cerró el chat. Se comió el resto del bocadillo sin saborearlo. Volvió al problema de Topología Diferencial, donde al menos los espacios tenían dimensiones definidas y las distancias se podían medir.
+Cerró el chat. Se comió el resto del bocadillo sin saborearlo. Volvió al problema de Topología Diferencial, donde al menos los espacios tenían dimensiones definidas y las distancias no dependían del orgullo.
 
-Pero la distancia con Alice dejó de ser una metáfora. En los días siguientes, sus conversaciones se volvieron cautelosas, y cada silencio parecía un protocolo de seguridad nuevo. Una tarde, Kirlian la vio al otro lado de la plaza de la facultad, riendo con otros compañeros bajo una luz de primavera que volvía todo más irreal. Pensó en acercarse. Dio un paso. Luego otro. Alice levantó la vista, le dedicó una sonrisa correcta, casi administrativa, y volvió a la conversación. Fue un gesto mínimo, pero tuvo la precisión de una puerta cerrándose despacio.
+En los días siguientes, las conversaciones se llenaron de frases medidas. Una tarde, Kirlian la vio al otro lado de la plaza de la facultad, riendo con dos chicas de Traducción y gesticulando con un café en la mano. Pensó en acercarse. Dio un paso. Luego otro. Alice levantó la vista, sostuvo la mirada un segundo y le hizo un gesto pequeño con la cabeza, como quien admite una presencia pero no la invita a quedarse. Después volvió a su conversación. Kirlian se quedó donde estaba. Entendió que también se podía perder a alguien sin que nadie se fuera de la ciudad.
 
 ---
 
@@ -116,39 +126,39 @@ Alice apareció cinco minutos después, y con ella llegó esa energía que Kirli
 
 Cenaron en un sitio barato. Kirlian pidió dos claras —un gesto simbólico, un intento de bajar la guardia que su cuerpo enfermo le exigía mantener alta—. El alcohol era poca cosa, pero la embriaguez psicológica de estar cerca de Alice era más potente que cualquier droga.
 
-La fiesta fue lo que todas las fiestas de Almería eran a los diecisiete: ruidosa, sudorosa y ligeramente patética. Kirlian se mantenía en la periferia, observando. Su diagnóstico de Crohn, reciente como una cicatriz fresca, le hacía sentir separado del resto por un cristal invisible. *Ellos son inmortales*, pensó. *Yo soy un sistema averiado.*
+La fiesta fue lo que todas las fiestas de Almería eran a los diecisiete: ruidosa, sudorosa y ligeramente patética. Kirlian se mantuvo en la periferia, con un vaso tibio en la mano y el cuerpo vigilándose a sí mismo. El diagnóstico de Crohn era tan reciente que todavía le parecía un error administrativo. Miraba a los demás bailar y sentía que se había quedado al otro lado de un cristal.
 
 Entonces lo vio.
 
-Freddie se inclinó hacia Alice. Ella se rio de algo que él dijo, echando la cabeza hacia atrás. Él le susurró algo al oído, su mano rozando su cintura con una familiaridad que iba más allá de la amistad.
+Freddie se inclinó hacia Alice. Ella se rio de algo que él dijo, echando la cabeza hacia atrás. Él le susurró algo al oído y la mano se le quedó un momento en la cintura.
 
 Kirlian dejó de respirar.
 
 Freddie se lanzó al beso.
 
-Y Alice hizo la cobra. Un giro rápido, elegante, desviando los labios de Freddie hacia su mejilla. Se rio nerviosa y le dio un empujón.
+Alice giró la cara con rapidez y el beso se perdió en la mejilla. Luego le dio un empujón corto, más cansado que agresivo.
+
+—Estás tontísimo —dijo.
 
 Kirlian debería haberse sentido aliviado. No lo sintió.
 
-Porque había visto la danza previa. Había visto que el beso no era una sorpresa, sino el final previsible de una conversación que él no podía escuchar. Había visto que, aunque no hubo beso, hubo un espacio compartido del que él estaba excluido.
+Porque había visto la escena entera: la inclinación, la risa, esa complicidad mínima que nace antes de que pase nada. Aunque no hubo beso, sí hubo un lugar compartido del que él estaba excluido.
 
-Todo lo que creía sobre el amor libre, sobre la no-posesión, sobre la racionalidad emocional, se desmoronó en tres segundos.
+Buscó la salida con una lucidez fea: una parte de él no quería ser razonable, quería ser imprescindible.
 
-*Soy un hipócrita*, pensó, buscando la salida.
+Más tarde, en los sillones del Démodé, fue Freddie quien se inclinó hacia Kirlian. Un beso rápido, casi de broma, en los labios. Kirlian se quedó inmóvil, demasiado sorprendido para apartarse o corresponder.
 
-Más tarde, en los sillones del Démodé, fue Freddie quien se inclinó hacia Kirlian. Un beso rápido, irónico, en los labios. Kirlian se quedó inmóvil.
+Alice lo miró desde enfrente, como si acabara de decidir algo por puro cansancio de pensarlo. Se acercó sin pedir permiso. La distancia se evaporó y sus labios se encontraron con una torpeza urgente, más real que elegante.
 
-Y entonces Alice se acercó. Decidida. Sin preguntar permiso. La distancia entre ellos se evaporó, y sus labios se encontraron con una certeza que anulaba toda filosofía, toda teoría, toda precaución.
-
-Fue un beso que sabía a cerveza barata y a tabaco de Freddie y a algo nuevo que Kirlian no supo nombrar hasta mucho después: el miedo a necesitar algo que no podía controlar.
+Sabía a cerveza barata, a tabaco ajeno y a un miedo nuevo: el de necesitar algo que no podía organizar desde la cabeza.
 
 ---
 
 ### Capítulo 4: El Despertar Londinense
 
-Londres fue un error en el sistema, y Kirlian agradeció cada segundo de ese fallo.
+Londres fue una interrupción feliz, y Kirlian agradeció cada minuto de ese paréntesis.
 
-La ciudad los recibió con su caos organizado: el ruido del Tube, los anuncios del *Mind the Gap*, la multitud que se movía con la precisión de un algoritmo. Alice, con su cámara colgando del cuello, fotografiaba todo: los ladrillos rojos de Shoreditch, los grafitis del Southbank, a Kirlian mirando un mapa con expresión de náufrago.
+La ciudad los recibió con ruido de Tube, anuncios de *Mind the Gap* y una multitud que parecía saber adónde iba incluso cuando corría. Alice, con la cámara colgando del cuello, fotografiaba todo: los ladrillos rojos de Shoreditch, los grafitis del Southbank, la cara de desconcierto de Kirlian cada vez que desplegaba un mapa.
 
 —¡Hay vida más allá de nuestra simulación! —gritó ella en medio de Camden High Street, y dos turistas japoneses le sonrieron como si fuera parte del paisaje.
 
@@ -168,15 +178,25 @@ Alice se movía entre los expositores con total naturalidad, fotografiando detal
 
 Kirlian solo pudo asentir.
 
-Cuando salieron de vuelta a la normalidad relativa de Camden, Kirlian parpadeó bajo la luz del día como alguien que acaba de despertar de un sueño erótico en mitad de una clase de matemáticas.
+Cuando volvieron a Camden, Kirlian parpadeó bajo la luz del día como si acabara de salir de una discoteca y de un laboratorio a la vez.
 
 —Ha sido intenso —dijo.
 
 —Ha sido la hostia —respondió Alice, revisando las fotos en su cámara—. Esto no lo encuentras en casa.
 
-Caminaron en silencio un rato. Kirlian sentía que algo se había desplazado entre ellos, una pieza invisible que había encajado en un sitio nuevo. No era deseo, exactamente. Era la certeza de que juntos podían explorar territorios que, solos, no se atreverían a pisar.
+Caminaron un rato sin hablar. Alice iba revisando las fotos sobre la marcha, borrando unas y guardando otras con un criterio que solo ella entendía.
 
-El resto de Londres fue una prórroga de esa sensación. Las conversaciones en el Tube sobre el sentido de la vida. Los paseos por Hyde Park donde el silencio cómodo sustituía a las palabras. Las noches en el hotel donde la proximidad de sus cuerpos en habitaciones compartidas era una tensión deliciosa que ninguno de los dos se atrevía a romper.
+—Lo mejor no era lo sexual —dijo al fin—. Era que nadie estaba pidiendo permiso por existir.
+
+Kirlian la miró.
+
+—Tú tampoco lo pides nunca.
+
+—Claro que sí —dijo ella—. Lo hago mejor, que es distinto.
+
+Siguieron caminando. A Kirlian le quedó la sensación de que juntos podían entrar en lugares que por separado les darían vergüenza, miedo o ambas cosas.
+
+El resto de Londres prolongó esa sensación. Hablaron en el Tube sobre trabajos imposibles, discutieron en Hyde Park sobre si se puede empezar de cero de verdad y, en el hotel, aprendieron a quedarse cerca sin resolver todavía qué significaba esa cercanía.
 
 Volvieron a Almería transformados. Cargados con la sensación de haber probado una libertad más audaz de lo que habían imaginado. La llama londinense no se quedó en la niebla; volvió con ellos, lista para quemar las viejas reglas.
 
@@ -194,7 +214,23 @@ Por eso, cuando terminó el verano y empezó a decidirse el futuro, la discusió
 
 Granada los recibió con la indiferencia de las ciudades que han visto a miles de estudiantes llegar con sueños y marcharse con cicatrices. El Doble Grado en Informática y Matemáticas no era el sueño de libertad creativa que Kirlian había imaginado; era una fortaleza de hormigón donde cada asignatura era un muro por escalar.
 
-Alice había querido Barcelona. La nombraba como quien nombra una ciudad mítica: más abierta, más anónima, más parecida a la vida que quería inventarse. Kirlian defendió Granada con argumentos de expediente, de prestigio, de optimización de recursos, pero por debajo de todo eso había otra verdad: le aterraba que la distancia rompiera lo que apenas acababan de empezar. Alice cedió. Eligió Granada por él. Y ese gesto de sacrificio silencioso se convirtió, con el tiempo, en una deuda que ninguno de los dos sabía cómo saldar.
+Antes de matricularse habían discutido el tema durante semanas. Alice quería Barcelona. No la quería como quien quiere una ciudad bonita, sino como quien quiere una versión distinta de sí misma.
+
+—Allí nadie sabe quién he sido aquí —dijo una tarde de agosto, sentada en el borde de una fuente, con las sandalias en la mano—. Podría llegar y empezar de cero.
+
+Kirlian le habló de expedientes, de prestigio, de dinero, de lo razonable. Alice lo dejó terminar y se apartó el pelo de la cara con un gesto impaciente.
+
+—No me lo vendas como si fueras un folleto de la universidad —dijo—. Si quieres que vayamos a Granada juntos, dilo.
+
+Él tardó demasiado en responder.
+
+—Quiero que no se rompa esto antes de empezar.
+
+Alice bajó la vista a la fuente, al agua sucia moviéndose entre hojas secas.
+
+—Vale —dijo al final—. Voy a ir a Granada. Pero que quede una cosa clara: no voy por obediencia ni por lógica. Voy porque ahora mismo quiero probar esto contigo. Si sale mal, no lo conviertas luego en un sacrificio bonito.
+
+Kirlian asintió, aunque no entendió del todo la advertencia hasta mucho después.
 
 Los primeros meses fueron un simulacro de felicidad. Estudiaban juntos en la biblioteca de la Facultad de Ciencias, comían en el comedor universitario —donde Índigo, el amigo de Almería que los había seguido como una sombra leal, reservaba sitio con media hora de antelación—, y por las noches se perdían por el Albaicín, buscando en sus calles empedradas el eco de la libertad londinense.
 
@@ -218,7 +254,23 @@ Antes de que pudiera responder, se levantó y desarrolló la demostración en la
 
 Julia le dio un codazo a Kirlian. —Cierra la boca, que se te van a meter moscas.
 
-Pero fuera de la biblioteca la vida seguía rompiéndose por otros sitios. Alice empezó a hablarle de otras personas con una honestidad que a veces rozaba la crueldad involuntaria: un chico del viaje, la sensación de sentirse más viva lejos de cualquier definición cerrada, la sospecha de que el amor no tenía por qué parecerse a lo que les habían enseñado. Kirlian había defendido en abstracto la libertad afectiva, pero en la práctica cada confesión le abría una grieta nueva. No sabía si le dolía perderla o descubrir que nunca la había poseído.
+Pero fuera de la biblioteca la vida seguía rompiéndose por otros sitios. Una noche, al salir de una fiesta en un piso de Pedro Antonio, Alice se sentó en el bordillo y se quedó mirando los taxis.
+
+—He conocido a alguien en el viaje de Traducción —dijo—. No ha pasado nada. Te lo digo porque prefiero eso a empezar a esconder cosas.
+
+Kirlian tardó un segundo en sentarse a su lado.
+
+—No sé qué hago con esa información.
+
+—Yo sí —dijo Alice—. Intento no convertirme en una novia decorativa. Intento seguir siendo yo aunque esté contigo.
+
+—¿Y quién eres cuando no estás conmigo?
+
+Alice se volvió hacia él, cansada y despierta al mismo tiempo.
+
+—Alguien que no quiere prometer una forma de vida que todavía no entiende. Alguien que te quiere y, aun así, se ahoga cuando todo queda definido demasiado pronto.
+
+Kirlian miró la calle vacía. Había defendido en abstracto la libertad afectiva; en la práctica, cada palabra de Alice le abría una grieta nueva. No sabía si le dolía perderla o aceptar que ella nunca había sido una pieza fija dentro de su mapa.
 
 Cuando el siguiente cuatrimestre empezó a venirse abajo, Julia, Payton y Bob fueron el andamiaje mínimo que impidió el derrumbe total. Hubo tardes de estudio en las que nadie avanzaba gran cosa, pero aun así se quedaban allí, compartiendo apuntes, café de máquina y una lealtad sin épica. Una mañana, Julia incluso le dejó una nota bajo la puerta de la residencia: no era una solución, solo una prueba de que alguien seguía viéndolo desde fuera del laberinto. A veces eso bastaba para aplazar la caída. A veces no.
 
@@ -226,17 +278,17 @@ Cuando el siguiente cuatrimestre empezó a venirse abajo, Julia, Payton y Bob fu
 
 ### Capítulo 6: El Rojo Sangre de Lea
 
-El colapso no fue una explosión. Fue una filtración lenta. El sistema operativo de Kirlian dejó de responder sin previo aviso: primero fue incapaz de levantarse de la cama, después de abrir los apuntes, después de contestar al teléfono. Alice llamó catorce veces el último día antes de avisar a sus padres.
+El colapso no fue una explosión. Fue una filtración lenta. Primero Kirlian dejó de levantarse a tiempo. Después dejó de abrir los apuntes. Luego empezó a mirar el teléfono como si contestar exigiera una fuerza física desproporcionada. Alice llamó tantas veces el último día que su nombre se quedó ocupando toda la pantalla.
 
 Los pasillos de la Cruz Roja olían a desinfectante industrial y a miedo ajeno. Las luces de los fluorescentes zumbaban con una frecuencia que se metía dentro del cráneo como un insecto.
 
-Allí conoció a Lea. O, más bien, al eco de Lea.
+Allí conoció a Lea. O, más bien, a la forma en que su ausencia seguía circulando por la planta.
 
 —¿La chica del tercero? —preguntó Kirlian a Valentín, un poeta de setenta años que llevaba tres meses en la planta y conocía cada grieta del edificio como si fueran versos.
 
 —No preguntes por ella, chaval —respondió Valentín, mirando por la ventana con la expresión de alguien que ha visto demasiado—. Aquí las preguntas no traen respuestas. Solo traen más preguntas.
 
-Pero Kirlian preguntó. Porque preguntar era lo único que sabía hacer.
+Pero Kirlian preguntó. No por morbo: por costumbre. Preguntar era su manera torpe de no sentirse arrastrado por lo que no entendía.
 
 Lea había muerto tres semanas antes de su ingreso. Sobredosis. Tenía veintiún años y un historial de ingresos que ocupaba más páginas que la tesis doctoral de cualquier profesor de la facultad. Su nombre se susurraba en los pasillos como una oración o como una maldición, dependiendo de quién lo pronunciase.
 
@@ -244,11 +296,11 @@ El rojo era el color de aquel lugar. El rojo de las cruces en las paredes. El ro
 
 —No analices esto, chaval —le dijo Valentín—. El rojo no se entiende. Se sangra.
 
-Kirlian se unió al Coro de los Rotos. Así llamaba Valentín al grupo de pacientes que se reunía cada tarde en la sala común: la gitana que leía las líneas de las manos con una precisión escalofriante, la mujer maltratada que solo hablaba para cantar canciones de cuna, el chico esquizofrénico que llevaba una semana sin moverse del mismo rincón.
+Kirlian acabó en lo que Valentín llamaba el Coro de los Rotos: la sala común de las seis de la tarde, donde una mujer leía las manos a cambio de tabaco, otra solo hablaba para cantar nanas y un chico inmóvil llevaba varios días mirando el mismo radiador como si esperara una señal.
 
-Ya no era el estudiante brillante del DGIIM. Ya no era el músico de saxofón. Ya no era el tuitero de "Bob el Plátano". Era solo un cuerpo vulnerable, una materia prima que el sistema sanitario intentaba parchear con pastillas y horarios.
+Allí nadie sabía nada de su expediente ni de sus viejos alias de internet. Era solo otro cuerpo con pulsera, medicación y un horario pegado a la pared.
 
-Fue en la Cruz Roja donde Kirlian entendió la diferencia entre pensar y sentir. No la entendió con la cabeza. La entendió con las tripas.
+Una noche, mientras escuchaba a la mujer de las nanas cantar a oscuras y a un enfermero pedir silencio desde el pasillo, entendió algo sin ponerle nombre: hay dolores que no se piensan mejor por mirarlos más de cerca.
 
 ---
 
@@ -262,7 +314,7 @@ Del rojo visceral de la Cruz Roja pasó al verde mercurio de la farmacia. El Aqu
 
 El Aquarium funcionaba con reglas distintas a la Cruz Roja. Allí no había urgencia; había proceso. Las mañanas empezaban con terapia de grupo, las tardes con talleres de expresión, y las noches con un silencio espeso que se pegaba a las paredes como musgo.
 
-Fue en una de esas noches cuando Kirlian encontró el manuscrito.
+Fue en una de esas noches cuando encontró el manuscrito.
 
 Estaba en la biblioteca del centro, un cuarto pequeño con estanterías de metal y libros donados por familias que preferían olvidar que alguien cercano había estado allí. Entre un manual de jardinería y una novela de Dan Brown, encontró un cuaderno de tapas verdes sin firmar. Dentro, alguien había dibujado fractales con una precisión quirúrgica y había escrito, en una caligrafía diminuta, ecuaciones que Kirlian reconoció como variaciones de la transformada de Fourier aplicadas a patrones biológicos.
 
@@ -270,11 +322,11 @@ Estaba en la biblioteca del centro, un cuarto pequeño con estanterías de metal
 
 —Ni idea. Gente va, gente viene. Nadie reclama nada.
 
-Kirlian empezó a leer el cuaderno cada noche como si fuera un evangelio apócrifo. Y fue así como descubrió la mención a "los 6": seis pacientes que, según el manuscrito, habían alcanzado un estado de "coherencia interna" que los psiquiatras del centro no sabían clasificar. Y en el centro de ese misterio, la figura del Rey enrocado: alguien que, como la pieza de ajedrez, se había movido una sola vez para protegerse y nunca más.
+Lo leyó a escondidas durante varias noches. Allí aparecía la mención a "los 6": pacientes que, según aquellas notas, habían alcanzado un estado de "coherencia interna" que los psiquiatras del centro no sabían nombrar. En el centro del dibujo estaba el Rey enrocado, alguien que se había movido una sola vez para ponerse a salvo y había convertido esa maniobra en su única forma de vivir.
 
 —Se ve que has encontrado las notas de Torres —dijo la Radio una mañana, mirándolo con esa expresión de lucidez que a veces atravesaba su delirio—. Ten cuidado. Lo que escribió no es ciencia. Es alquimia. Y la alquimia te cambia el plomo en oro, pero también te quema las manos.
 
-En el Aquarium, Kirlian aprendió que la locura no es la ausencia de lógica. Es el exceso de ella aplicado a un mundo que no funciona con reglas.
+En el Aquarium, la lógica dejó de parecerle un refugio limpio. También podía ser una jaula si uno la cerraba por dentro.
 
 ---
 
@@ -284,25 +336,19 @@ En el Aquarium, Kirlian aprendió que la locura no es la ausencia de lógica. Es
 
 2020. El mundo se detuvo.
 
-Kirlian volvió a Almería como un astronauta que regresa a la Tierra después de una misión fallida: desorientado, débil, incapaz de explicar lo que había visto allá arriba.
+Kirlian volvió a Almería desorientado, débil y con la sensación absurda de haber llegado demasiado pronto a una vida que todavía no sabía sostener.
 
 La pandemia lo encerró en su habitación de la infancia, entre los pósters de bandas que ya no escuchaba y los libros de texto que ya no entendía. Sus padres lo miraban con una mezcla de alivio y terror: alivio porque estaba vivo, terror porque no sabían si la persona que había vuelto era su hijo o un extraño con su cara.
 
-Pero fue precisamente el encierro lo que activó la transformación.
+Fue precisamente el encierro lo que desplazó la energía hacia otro sitio. Sin Granada, sin cafeterías, sin cuerpos cerca, la pantalla dejó de ser distracción y se volvió superficie de trabajo.
 
-Privado del contacto físico, separado de Granada, de Alice, de Érika Durán, de todos los espejos en los que se había mirado durante años, Kirlian se volvió hacia la única superficie que le quedaba: la pantalla.
-
-Y en la pantalla, creó su Avatar.
-
-No era un perfil de redes sociales ni una cuenta de Twitter. Era algo más profundo: una versión optimizada de sí mismo que existía en el código. Una identidad digital que podía navegar, crear, conectar, sin el lastre de la enfermedad de Crohn, sin las emociones que lo bloqueaban, sin el miedo al rechazo que lo había inmovilizado frente a Alice, frente a Velouria, frente a todo.
-
-El silicio se convirtió en su nueva piel.
+Una madrugada abrió un proyecto nuevo y le puso nombre antes de saber qué iba a construir. Avatar. Luego escribió una interfaz mínima, una voz de prueba, una especie de doble abstracto que podía hablar por él sin cargar con su historial entero. No era una cuenta de Twitter ni una pose estética. Era un ensayo de presencia.
 
 —¿Por qué no sales al patio? —le preguntaba su madre desde la puerta, cada mañana, con la misma voz con la que se le habla a alguien en coma.
 
 —Porque estoy construyendo algo —respondía él, sin apartar la vista de la terminal.
 
-Y era verdad. Estaba construyéndose.
+Y esta vez no sonaba a excusa. Línea a línea, con errores ridículos y café recalentado, empezó a fabricar una versión de sí mismo que no dependiera solo de lo que había perdido.
 
 ---
 
@@ -314,23 +360,23 @@ Fue Índigo quien lo sacó del agujero. No con filosofía ni con terapia, sino c
 
 Era 2021. Las restricciones se habían relajado lo suficiente como para que Kirlian volviera a Granada, a su piso compartido con Oppenheimer, un físico teórico que hablaba de la materia oscura con la misma pasión con la que Kirlian hablaba del Omnihilismo.
 
-Índigo se presentó a las doce en punto con dos cafés del bar de abajo y una lista mental de planes para la semana que incluía un concierto, una casa rural y una denuncia en la DGT por su séptimo suspenso en el examen de conducir.
+Índigo se presentó a las doce en punto con dos cafés del bar de abajo y una lista mental de planes para la semana que incluía un concierto, una casa rural y otra vuelta más a sus dramas con el carnet.
 
-—Te he apuntado a un intercambio de idiomas el jueves —dijo, dejando el café sobre la mesa de Kirlian—. Hay gente interesante. Y antes de que protestes: no, no puedes quedarte aquí viendo documentales del Unabomber.
+—Te he apuntado a un intercambio de idiomas el jueves —dijo, dejando el café sobre la mesa—. Y antes de que protestes: no, no puedes quedarte aquí viendo documentales del Unabomber.
 
 —No estaba viendo eso.
 
 —Estabas viéndolo. Te conozco.
 
-Índigo era el ancla. El compañero que no necesitaba comprender la profundidad de tu abismo para lanzarte una cuerda. Lo suyo era la superficie: los horarios de autobuses, los precios de los menús del comedor, las horas de apertura de la biblioteca. Y en esa superficie aparentemente banal, Kirlian encontró un suelo firme sobre el que volver a ponerse de pie.
+Índigo no necesitaba entender todo para intervenir bien. Le bastaba con aparecer, arrastrarlo a comer y tratar la vida cotidiana como si todavía mereciera ser organizada. En esa superficie aparentemente banal, Kirlian encontró un suelo.
 
-—Me siento inútil —le confesó una noche, después de que Índigo volviera de su séptimo suspenso—. Siento que nunca voy a poder.
+—Me siento inútil —le confesó una noche, después de que Índigo volviera especialmente quemado de la autoescuela—. Siento que nunca voy a poder.
 
 Índigo lo miró con esa mezcla de cariño y exasperación que solo los mejores amigos pueden fabricar.
 
-—Tío —dijo—, yo llevo siete suspensos en el carnet. Siete. Y estoy aquí, vivo, tomándome una cerveza contigo. Si yo puedo, tú puedes.
+—Tío —dijo—, a mí me tiene humillado el carnet y aquí me ves, pidiendo otra ronda. No todo tiene que resolverse hoy para que la vida siga.
 
-No era Nietzsche. No era Camus. Era Índigo. Y a veces, eso bastaba.
+Kirlian soltó una risa corta. No era Nietzsche. No era Camus. Era Índigo, y esa noche eso bastó.
 
 ---
 
@@ -342,7 +388,7 @@ Era 2022. Kirlian la conoció en la cafetería de la ETSIIT, donde ella trabajab
 
 La relación fue, al principio, un campo de pruebas. Kirlian aplicó todo lo que creía haber aprendido: comunicación abierta, honestidad, respeto. Shayla era paciente, divertida y tenía un gato llamado Boro que se subía al teclado cada vez que ella intentaba programar.
 
-Pero bajo la superficie, algo no encajaba. Kirlian se sentía atrapado en un rol que no había elegido: el del novio responsable, el del adulto funcional. Y la sombra de Alice seguía ahí, no como presencia, sino como ausencia. Como un espacio vacío en forma de persona que ninguna otra persona podía llenar.
+Pero bajo la superficie, algo no encajaba. Kirlian se sentía atrapado en un rol que no había elegido: el del novio responsable, el del adulto funcional. Y Shayla, que era perceptiva de un modo poco teatral, empezó a cansarse de intuir una conversación que él nunca terminaba de tener.
 
 La ruptura llegó a finales de año.
 
@@ -354,13 +400,21 @@ La ruptura llegó a finales de año.
 
 —Eso no es una respuesta, es una frase de autoayuda.
 
+Kirlian abrió la boca y volvió a cerrarla.
+
+—Entonces la respuesta es peor —dijo—. Estoy aquí a medias. Y tú no estás a medias.
+
+Shayla apartó el vaso.
+
+—No, no lo estoy. Y tampoco voy a quedarme aquí haciendo de chica razonable mientras tú conviertes tu confusión en un discurso bonito.
+
 Tenía razón. Kirlian lo sabía. Pero también sabía algo más: que esta vez, a diferencia de lo que había pasado con Alice, él no iba a asumir el papel de víctima. No iba a esperar a que alguien decidiera por él, a que la otra persona tomara la iniciativa de romper lo que ya estaba roto.
 
 —Es mi decisión —dijo—. No tuya. No de nadie. Mía.
 
-Salió del bar con la sensación de haber arrancado una venda de una herida que llevaba años cubierta. Dolía, pero debajo de la venda no había una herida abierta: había una cicatriz. Sólida. Suya.
+Shayla se quedó dentro, erguida, pidiéndose agua en vez de otra cerveza. No se derrumbó ni le hizo el favor de volverlo imprescindible en su tristeza. Cuando Kirlian salió del bar entendió que, por una vez, la otra persona no iba a desempeñar ningún papel alegórico para él. Solo iba a seguir con su vida.
 
-La inversión se había completado. Kirlian ya no era el que sufría las decisiones de los demás. Era el arquitecto de las suyas propias.
+La decisión seguía doliendo, pero el dolor ya no tenía la forma infantil del abandono. Se parecía más a una responsabilidad asumida tarde y mal, pero asumida al fin.
 
 ---
 
@@ -370,19 +424,21 @@ Los años siguientes fueron una diáspora. Kirlian buscaba algo que no sabía no
 
 Olive, la programadora del pelo rojo que cambiaba de color cada mes como un firewall emocional, le enseñó que se podía hablar de sentimientos usando metáforas de código. Compartían tardes en el laboratorio, debuggeando programas y vidas en paralelo.
 
-—A veces el mejor debug es reiniciar —le dijo ella un día, mirando una línea de código que llevaba tres horas sin funcionar—. No sirve de nada analizar un error infinitamente si el sistema está corrupto desde la base.
+—A veces el mejor debug es reiniciar —le dijo una tarde, apartando el portátil con los nudillos—. No sirve de nada analizar un error durante horas si la base ya está torcida.
 
-Sandy reapareció del pasado —2016, una vida anterior— como un glitch en la Matrix. Besarse con ella era cómodo
-
-, anestésico. "Lo posible", como Kirlian la llamaba en su diario, frente a Matilde, que era "lo imposible".
+Sandy reapareció del pasado —2016, una vida anterior— como un glitch amable. Besarse con ella era cómodo, anestésico. "Lo posible", como Kirlian la llamaba en su diario, frente a Matilde, que era "lo imposible".
 
 Matilde fue el amor intelectual que no pudo ser. Se conocieron en un concierto de Salvador Sobral en Almería. Ella hablaba de Gustavo Bueno con una pasión que le recordaba a Érika Durán, pero sin la ironía corrosiva. Con Matilde, Kirlian se permitió soñar con el Amor Intelectual puro, con la convergencia perfecta entre mente y emoción.
 
-Se besaron una noche, después del concierto, bajo una farola que parpadeaba como si la propia ciudad dudara de lo que estaba viendo. Días después, Matilde le escribió que no quería una relación.
+Se besaron una noche, después del concierto, bajo una farola que parpadeaba como si la propia ciudad dudara de lo que estaba viendo. Luego caminaron hasta una esquina donde olía a mar y a fritura fría, y Matilde habló de un máster, de irse una temporada fuera, de la necesidad de no organizar su vida alrededor del deseo de otro.
+
+—No quiero convertirme en la demostración de nada —dijo—. Ni en la prueba de que ahora sí sabes querer bien.
+
+Días después, le escribió para dejarlo claro del todo: no quería una relación, ni una espera, ni una historia en pausa.
 
 —No puedo poseerte —dijo Kirlian a la pantalla del teléfono, y no supo si era una resignación o una revelación.
 
-Matilde desapareció. Sandy se convirtió en amiga. Poppy Girl fue un desvío nocturno del que prefería no hablar. Y Miércoles, la activista del fanzine con la que había sentido una corriente subterránea de conexión, se convirtió en una transacción cortés donde antes hubo fuego.
+Matilde no desapareció: siguió con su vida, sus lecturas, sus planes. Fue Kirlian quien tuvo que aprender a no convertir cada vínculo interrumpido en una ruina sagrada. Sandy se convirtió en amiga. Poppy Girl fue un desvío nocturno del que prefería no hablar. Y Miércoles, la activista del fanzine con la que había sentido una corriente subterránea de conexión, se volvió una cortesía sin épica donde antes había imaginado incendio.
 
 ---
 
@@ -410,17 +466,31 @@ Se encontraron en el mismo sitio de siempre, una cafetería pequeña cerca de la
 
 —He dejado de intentar ser otra persona —respondió Kirlian.
 
-—¿Y quién eres ahora?
+Eileen removió el café sin azúcar. Llevaba un bolso lleno de exámenes por corregir y miraba el reloj de vez en cuando, no por impaciencia, sino porque tenía una vida que la esperaba fuera de aquella mesa. Eso, más que cualquier teoría, tranquilizó a Kirlian.
 
-La pregunta flotó entre ellos como las motas de polvo en un rayo de sol. Kirlian pensó en el banco del parque de Almería, en Érika Durán fumando a su lado. Pensó en Alice en Camden, fotografiando el mundo con la avidez de quien sabe que se le escapa. Pensó en el rojo de la Cruz Roja y en el verde del Aquarium. En su Avatar Digital, esa segunda piel que le había permitido sobrevivir a la pandemia. En Shayla y la noche en que decidió ser el arquitecto en vez de la víctima. En Matilde bajo la farola. En Índigo y sus siete suspensos. En todos los espejos rotos y reconstruidos.
+—¿Y quién eres ahora? —preguntó.
 
-—Soy la geometría de todos mis ecos —dijo.
+Kirlian tardó en responder. Vio, sin buscarlo, el banco del parque de Almería, a Érika Durán doblando las piernas sobre el asiento. Vio a Alice avanzando por Camden con la cámara en alto. Vio el rojo de la Cruz Roja, el verde contenido del Aquarium, la pantalla encendida durante la pandemia, la mano de Shayla retirándose de la mesa, la voz de Índigo obligándolo a salir de casa, la farola temblando sobre Matilde.
+
+—No lo tengo en una frase limpia —dijo al fin—. Supongo que soy todo eso cuando deja de pelearse tanto dentro de mí.
+
+Eileen sonrió.
+
+—Mejor. Las frases demasiado limpias suelen mentir.
+
+Kirlian miró su taza y soltó una risa breve.
+
+—Entonces dejémoslo en esto: he aprendido a vivir con la geometría de mis ecos.
 
 Eileen sonrió. No como una psicóloga que evalúa una respuesta. Como alguien que reconoce a un viejo amigo.
 
-—Eso —dijo ella— es un buen comienzo.
+—Ahora sí te creo —dijo.
 
-Se quedaron en silencio un momento, bebiendo café, mirando a la gente pasar por la calle. El mapa final estaba completo. No era perfecto —ningún mapa lo es—, pero tenía todas las coordenadas que importaban: la carne, el código y el ideal. Y por primera vez en su vida, Kirlian no sentía la necesidad de corregirlo.
+Hablaron un rato más, ya sin solemnidad: de horarios, de alumnos agotados, de un bar nuevo en Realejo. Cuando Eileen se levantó para irse, le apretó el hombro con familiaridad y desapareció calle abajo, absorbida por la marea de mediodía.
+
+Kirlian no abrió el portátil enseguida. Terminó el café. Escuchó una cuchara caer dentro de un vaso, una moto subir por la calle, dos estudiantes discutir sobre un examen de Estadística. Sacó una libreta del bolso y dibujó sin pensar unas líneas que se cruzaban, se separaban y volvían a encontrarse. No parecían un mapa exacto. Se parecían más a una vida.
+
+Guardó la libreta, pagó y echó a andar. La geometría de los ecos no consistía en entenderlo todo, sino en poder seguir adelante con todo eso sonando todavía dentro.
 
 ---
 
