@@ -23,11 +23,12 @@ class Chapter:
     book_slug: str
     title: str
     source_path: Path
+    markdown: str
     text: str
 
 
 def parse_args() -> argparse.Namespace:
-    root = Path(__file__).resolve().parents[1]
+    root = Path(__file__).resolve().parents[2]
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--content-dir",
@@ -36,8 +37,14 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--output",
-        default=str(root / "tools" / "audiolibro_completo.txt"),
+        default=str(root / "drafting" / "tools" / "audiolibro_completo.txt"),
         help="Fichero de salida con el texto consolidado.",
+    )
+    parser.add_argument(
+        "--format",
+        choices=("text", "markdown"),
+        default="text",
+        help="Formato del fichero de salida.",
     )
     parser.add_argument(
         "--book",
@@ -71,13 +78,28 @@ def discover_books(content_dir: Path, selected_books: list[str] | None) -> list[
     if books:
         return books
 
-    return sorted(path for path in content_dir.glob("libro*") if path.is_dir())
+    return sorted((path for path in content_dir.glob("libro*") if path.is_dir()), key=book_sort_key)
+
+
+def book_sort_key(path: Path) -> tuple[int, str]:
+    match = re.search(r"libro(\d+)", path.name)
+    if match:
+        return (int(match.group(1)), path.name)
+    return (9999, path.name)
+
+
+def chapter_sort_key(path: Path) -> tuple[int, str]:
+    match = re.search(r"capitulo(\d+)", path.name)
+    if match:
+        return (int(match.group(1)), path.name)
+    return (9999, path.name)
 
 
 def extract_title_and_body(content: str, fallback_title: str) -> tuple[str, str]:
     title = fallback_title
-    if content.startswith("+++"):
-        parts = content.split("+++", 2)
+    normalized = content.lstrip("\ufeff\r\n\t ")
+    if normalized.startswith("+++"):
+        parts = normalized.split("+++", 2)
         if len(parts) == 3:
             frontmatter = parts[1]
             body = parts[2]
@@ -86,6 +108,14 @@ def extract_title_and_body(content: str, fallback_title: str) -> tuple[str, str]
                 title = match.group(1).strip()
             return title, body
     return title, content
+
+
+def load_book_title(book_dir: Path) -> str:
+    index_path = book_dir / "index.md"
+    if index_path.exists():
+        title, _ = extract_title_and_body(index_path.read_text(encoding="utf-8"), book_dir.name)
+        return title
+    return book_dir.name
 
 
 def strip_markdown(text: str) -> str:
@@ -130,12 +160,21 @@ def clean_chapter_text(raw_text: str) -> str:
 
 def load_chapters(book_dir: Path, debug_enabled: bool) -> list[Chapter]:
     chapters: list[Chapter] = []
-    for chapter_path in sorted(book_dir.glob("capitulo*.md")):
+    for chapter_path in sorted(book_dir.glob("capitulo*.md"), key=chapter_sort_key):
         content = chapter_path.read_text(encoding="utf-8")
         title, body = extract_title_and_body(content, chapter_path.stem)
+        markdown = body.strip()
         text = clean_chapter_text(body)
         if text:
-            chapters.append(Chapter(book_slug=book_dir.name, title=title, source_path=chapter_path, text=text))
+            chapters.append(
+                Chapter(
+                    book_slug=book_dir.name,
+                    title=title,
+                    source_path=chapter_path,
+                    markdown=markdown,
+                    text=text,
+                )
+            )
             debug(debug_enabled, f"Cargado {chapter_path} ({len(text)} chars)")
     return chapters
 
@@ -158,9 +197,18 @@ def label_text(text: str) -> str:
 def build_text_output(chapters_by_book: list[tuple[Path, list[Chapter]]], speaker_labels: bool) -> str:
     blocks = ["Geometría de los Ecos", "La historia de Kirlian"]
     for index, (book_dir, chapters) in enumerate(chapters_by_book, start=1):
-        blocks.extend(["", "=" * 60, f"LIBRO {index}: {book_dir.name}", "=" * 60])
+        blocks.extend(["", "=" * 60, f"LIBRO {index}: {load_book_title(book_dir)}", "=" * 60])
         for chapter in chapters:
             blocks.extend(["", chapter.title, "", label_text(chapter.text) if speaker_labels else chapter.text])
+    return "\n".join(blocks).strip() + "\n"
+
+
+def build_markdown_output(chapters_by_book: list[tuple[Path, list[Chapter]]]) -> str:
+    blocks = ["# La Geometría de los Ecos", "", "---"]
+    for _index, (book_dir, chapters) in enumerate(chapters_by_book, start=1):
+        blocks.extend(["", f"## {load_book_title(book_dir)}"])
+        for chapter in chapters:
+            blocks.extend(["", f"### {chapter.title}", "", chapter.markdown])
     return "\n".join(blocks).strip() + "\n"
 
 
@@ -181,8 +229,12 @@ def main() -> int:
         return 1
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    text = build_text_output(chapters_by_book, speaker_labels=args.speaker_labels)
-    output_path.write_text(text, encoding="utf-8")
+    if args.format == "markdown":
+        output = build_markdown_output(chapters_by_book)
+    else:
+        output = build_text_output(chapters_by_book, speaker_labels=args.speaker_labels)
+
+    output_path.write_text(output, encoding="utf-8")
     print(f"Texto consolidado generado en {output_path}")
     return 0
 
