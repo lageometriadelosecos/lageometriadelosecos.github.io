@@ -83,6 +83,12 @@ def _cleanup_line(line: str) -> tuple[str, bool]:
     s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s)
     s = re.sub(r"^\s*[-*+]\s+", "", s)
     s = s.replace("`", "").replace("*", "")
+    # Evita una pronunciacion rara de la secuencia literal "El niño" en el TTS.
+    s = re.sub(r'\bEl niño\b', "La figura del niño", s)
+    s = re.sub(r'\bel niño\b', "la figura del niño", s)
+    # Ajustes foneticos puntuales para nombres propios.
+    s = re.sub(r'\bAlice\b', "Álizz", s)
+    s = re.sub(r'\balice\b', "álizz", s)
 
     # Deteccion de dialogo de novela
     if s.startswith("—"):
