@@ -1,13 +1,13 @@
 # The URL the site will be built for
 base_url = "https://lageometriadelosecos.github.io"
+title = "La Geometría de los Ecos"
+description = "Novela de formación en tres libros sobre memoria, deseo, filosofía y códigos rotos."
 
 author = "Ricardo Ruiz"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
-
 theme = "after-dark"
-
 
 taxonomies = [
     # You can enable/disable RSS
