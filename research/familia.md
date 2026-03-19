@@ -39,7 +39,7 @@ Durante la universidad, la tensión disminuye pero se transforma. El autor, lejo
 ## III. LA FASE PRODRÓMICA (Septiembre 2019 – Enero 2020)
 ### La distorsión que precede
 
-Con la ruptura de Alice/Alice y el deterioro emocional, los padres comienzan a transformarse simbólicamente en la mente del autor, aunque todavía no aparecen como enemigos explícitos.
+Con la ruptura de Alice y el deterioro emocional, los padres comienzan a transformarse simbólicamente en la mente del autor, aunque todavía no aparecen como enemigos explícitos.
 
 **La transformación gradual:**
 
