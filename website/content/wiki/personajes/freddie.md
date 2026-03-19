@@ -4,7 +4,6 @@ weight = 3
 +++
 
 ## 1. Datos Básicos (Ficcionales)
-*   **Nombre en la novela:** Freddie
 *   **Arquetipo:** El Sadboy Hedonista / El Emo Irónico.
 *   **Rol Narrativo:** Es la encarnación de la **melancolía estética**. Mientras Kirlian sufre por filosofía y Alice por intensidad, Freddie lleva la tristeza como una prenda de ropa de marca. Es el "Sadboy" que escucha música trap/emo en la esquina de la fiesta, con la capucha puesta, pero que paradójicamente es quien *hace* que la fiesta ocurra. Su cinismo es su armadura y su atractivo.
 *   **Deseo Consciente:** **Sentir (aunque sea dolor).** Busca experiencias que le hagan sentir vivo, ya sea a través de la euforia del alcohol o la profundidad de la tristeza compartida. "Si duele, es real".

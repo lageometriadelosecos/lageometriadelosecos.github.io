@@ -4,13 +4,12 @@ weight = 2
 +++
 
 ## 1. Núcleo del personaje
-* **Nombre en la novela:** Érika Durán
 * **Arquetipo:** La Inteligencia Cortante / La Guardiana de la Intimidad
 * **Rol narrativo:** Es la cofundadora del Viernes Interior y la primera interlocutora real de Kirlian. No solo piensa con él: le impide intoxicarse del todo con sus propias ideas.
 * **Presencia dominante:** Donde Kirlian tiende a convertir una emoción en sistema, Érika Durán la recorta, la enfría y la devuelve a una escala soportable.
 
 ## 2. Lo que revelan los chats
-En los grupos vinculados a Panfleto, Sábado y la vieja época de Proyecto, Érika Durán no aparece como una figura excesiva, sino como una fuerza de corrección. Interviene poco, pero cuando lo hace cambia el clima. No compra la grandilocuencia de Ric, desinfla metáforas nacionales, sospecha de las solemnidades compartidas y exige una versión más limpia de los hechos.
+En los grupos vinculados a Panfleto, Sábado y la vieja época de Proyecto, Érika Durán no aparece como una figura excesiva, sino como una fuerza de corrección. Interviene poco, pero cuando lo hace cambia el clima. No compra la grandilocuencia de Kirlian, desinfla metáforas nacionales, sospecha de las solemnidades compartidas y exige una versión más limpia de los hechos.
 
 Su estilo no es el de la confesión fácil. Tolera la intimidad, pero no acepta que se la dramatice. De ahí uno de sus rasgos más valiosos para la novela: sabe callarse sin convertir el silencio en un teatro. Puede querer profundamente y, a la vez, negarse a sentimentalizar ese vínculo.
 

@@ -4,7 +4,6 @@ weight = 21
 +++
 
 ## 1. Núcleo del personaje
-* **Nombre en la novela:** Eileen
 * **Arquetipo:** La Calma Inteligente / La Claridad Afectiva
 * **Rol narrativo:** Es una figura de madurez, pero no en el sentido frío del término. Su función no es dictar sentencia sobre Kirlian, sino devolverle proporción.
 * **Presencia dominante:** Serenidad, humor fino, escucha real y una forma muy concreta de cuidar.

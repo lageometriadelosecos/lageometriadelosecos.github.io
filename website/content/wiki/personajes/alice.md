@@ -4,13 +4,12 @@ weight = 1
 +++
 
 ## 1. Núcleo del personaje
-* **Nombre en la novela:** Alice
 * **Arquetipo:** La Iniciadora / La Corriente de Aire
 * **Rol narrativo:** Es la aparición que desordena la geometría de Kirlian. No lo salva: lo saca de sitio.
 * **Presencia dominante:** Parece ligera, pero tiene una inteligencia observadora y una forma muy suya de desarmar las clasificaciones ajenas.
 
 ## 2. Lo que revelan los chats
-En la conversación original con Alice aparece una Alice menos ornamental y más aguda que la caricatura de "huracán emocional". Juega, sí, pero también cuestiona. Se ríe de los sistemas con los que Ric intenta ordenar a las personas, le devuelve preguntas, convierte una conversación sobre gráficos sociales, películas o calcetines en una escena de intimidad lateral.
+En la conversación original que da pie al personaje, Alice aparece menos ornamental y más aguda que la caricatura de "huracán emocional". Juega, sí, pero también cuestiona. Se ríe de los sistemas con los que Kirlian intenta ordenar a las personas, le devuelve preguntas, convierte una conversación sobre gráficos sociales, películas o calcetines en una escena de intimidad lateral.
 
 Hay en ella un modo de vincularse a través del humor, de la imagen y del archivo. Hace fotos. Guarda cosas. Recomienda películas. Sostiene una conversación a base de ironías, curiosidad y pequeñas provocaciones. No necesita hablar en metáforas oscuras para volverse inolvidable: le basta con esa mezcla de agilidad, rareza doméstica y desparpajo.
 

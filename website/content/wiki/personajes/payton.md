@@ -4,7 +4,6 @@ weight = 8
 +++
 
 ## 1. Datos Básicos (Ficcionales)
-*   **Nombre en la novela:** Payton
 *   **Arquetipo:** El Confidente Leal / El Espejo de Identidad.
 *   **Rol Narrativo:** Es el compañero de viaje de Kirlian en la exploración de la identidad (sexual y personal) durante la universidad. A diferencia de la intensidad tóxica de otras relaciones, Payton ofrece un espacio seguro de comprensión mutua. Su "salida del armario" paralela a la de Kirlian crea un vínculo de hermandad único.
 *   **Deseo Consciente:** **Autenticidad y Pertenencia.** Busca vivir su verdad sin miedo y encontrar un grupo donde encajar tal como es.

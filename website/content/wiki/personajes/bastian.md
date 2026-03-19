@@ -4,7 +4,6 @@ weight = 6
 +++
 
 ## 1. Datos Básicos (Ficcionales)
-*   **Nombre en la novela:** Ben Hurtado
 *   **Arquetipo:** El Espejo Oscuro / El Intelectual Manipulador.
 *   **Rol Narrativo:** Representa la **sombra intelectual** de Kirlian. Es su primer "igual" en términos de capacidad cognitiva, pero utiliza esa inteligencia para el control y la manipulación en lugar de la conexión. Es el antagonista de la etapa de la ESO, sembrando la semilla de la desconfianza que Kirlian tardará años en sanar.
 *   **Deseo Consciente:** **Dominio Intelectual.** Quiere ser el más listo de la habitación y demostrar que puede controlar las emociones y reacciones de los demás.
