@@ -4,7 +4,6 @@ weight = 5
 +++
 
 ## 1. Datos Básicos (Ficcionales)
-*   **Nombre en la novela:** Jordan
 *   **Arquetipo:** El Compañero Leal / El Bufón Matemático.
 *   **Rol Narrativo:** Es el **Precursor de Índigo** y el antídoto a la toxicidad de Ben Hurtado. Aparece en 3º de ESO para demostrarle a Kirlian que se puede ser inteligente y tener una amistad sana. Es el puente fundamental hacia Ãrika DurÃ¡n Durán.
 *   **Deseo Consciente:** **La excelencia divertida.** Sacar buenas notas (especialmente en Matemáticas) mientras se ríe de todo con chistes malos y humor negro.

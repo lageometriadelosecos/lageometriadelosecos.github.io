@@ -4,13 +4,12 @@ weight = 5
 +++
 
 ## 1. Núcleo del personaje
-* **Nombre en la novela:** Índigo
 * **Arquetipo:** El Conector Social / El Amigo Infraestructura
 * **Rol narrativo:** Es quien impide que Kirlian se quede demasiado tiempo a solas con su propio laberinto. Organiza, pregunta, arrastra, avisa y sostiene.
 * **Presencia dominante:** Más que un personaje secundario, Índigo funciona como una red de apoyo con voz propia.
 
 ## 2. Lo que revelan los chats
-En la conversación con Adri no aparece un simple acompañante cómico, sino alguien extraordinariamente atento a la vida práctica. Pregunta cómo está el otro, propone planes, reorganiza horarios, recuerda comidas, acerca amistades, mueve regalos, recomienda sitios, pide feedback sobre sus propios textos y sabe detectar cuándo conviene insistir y cuándo conviene dejar respirar.
+En la conversación con Índigo no aparece un simple acompañante cómico, sino alguien extraordinariamente atento a la vida práctica. Pregunta cómo está el otro, propone planes, reorganiza horarios, recuerda comidas, acerca amistades, mueve regalos, recomienda sitios, pide feedback sobre sus propios textos y sabe detectar cuándo conviene insistir y cuándo conviene dejar respirar.
 
 También deja ver sus bajones, sus subidas y bajadas, su necesidad de volver a Granada, de estar con gente, de no quedarse detenido. Tiene una sociabilidad activa, casi artesanal: no se limita a "estar"; hace que las cosas ocurran.
 

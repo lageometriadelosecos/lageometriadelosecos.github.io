@@ -4,7 +4,6 @@ weight = 4
 +++
 
 ## 1. Datos Básicos (Ficcionales)
-*   **Nombre en la novela:** Demian
 *   **Arquetipo:** El Romántico Trágico / El Espejo de la Normalidad.
 *   **Rol Narrativo:** Funciona como el **Antagonista Involuntario** de Kirlian. No porque sea malvado, sino porque representa todo lo que Kirlian no es: acción romántica, conexión emocional directa y una cierta "normalidad" que Kirlian envidia y desprecia a la vez. Es el novio de Érika Durán y el interés (momentáneo) de Alice, lo que lo coloca en el centro de las inseguridades de Kirlian.
 *   **Deseo Consciente:** **El Amor Idealizado.** Busca una conexión profunda y romántica (tipo Werther), vivir una historia de amor intensa con Érika Durán (y luego quizás con otras).

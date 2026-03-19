@@ -23,7 +23,7 @@ Prólogo: Los Cimientos (3º ESO)
 
 Capítulo 0.0: El Origen de la Amistad y la Máscara Digital (3º ESO)
 
-Descripción: Kirlian conoce a Índigo en 3º de ESO. Paralelamente, se forja la amistad con Érika Durán a raíz de los intercambios a Francia y su presencia en internet como "La Doblas". Kirlian, aspirando a ser un "Twitstar" como ella, crea su cuenta "Bob el Platano" posteriormente "Ric") y "Alboraneoxd" (crítica sarcástica). Es una etapa de profunda "máscara social" vía internet y el grupo "Mierda Selecta", donde el humor negro y la ironía sirven de escudo. Kirlian disfruta de las clases de Lenguaje Musical (obteniendo un 10) y del intercambio a Tence (Liam), consolidando su rol de "gracioso del grupo".
+Descripción: Kirlian conoce a Índigo en 3º de ESO. Paralelamente, se forja la amistad con Érika Durán a raíz de los intercambios a Francia y de la presencia digital de Érika Durán. Kirlian, aspirando a construir una máscara en internet a la altura de aquella energía, crea sus cuentas "Bob el Platano", después "Kirlian" y "Alboraneoxd" (crítica sarcástica). Es una etapa de profunda "máscara social" vía internet y el grupo "Mierda Selecta", donde el humor negro y la ironía sirven de escudo. Kirlian disfruta de las clases de Lenguaje Musical (obteniendo un 10) y del intercambio a Tence (Liam), consolidando su rol de "gracioso del grupo".
 
 Precuela: La Época Dorada y los Primeros Vínculos (4ESO - Bachillerato)
 
