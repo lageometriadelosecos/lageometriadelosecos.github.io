@@ -20,7 +20,7 @@
   <meta name="description" content="{{ config.description }}" />
   {% endif %}
 
-  <title>{% block title %}{{ config.title }} - {{ section.title | default(value="Section") }}{% endblock title %}</title>
+  <title>{% block title %}{% if section.title and section.title != config.title %}{{ config.title }} - {{ section.title }}{% else %}{{ config.title }}{% endif %}{% endblock title %}</title>
 
   {%- if config.generate_feeds %}
   {%- for feed in config.feed_filenames %}
