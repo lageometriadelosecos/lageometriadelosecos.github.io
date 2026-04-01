@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sincroniza `website/content` desde la edición editorial y regenera el EPUB."""
+"""Sincroniza `website/content` desde `novela_editorial.md` y regenera el EPUB."""
 
 from __future__ import annotations
 
@@ -37,7 +37,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--editorial",
-        default=str(root / "drafting" / "tools" / "novela_editorial_16_marzo.md"),
+        default=str(root / "drafting" / "tools" / "novela_editorial.md"),
         help="Markdown editorial fuente.",
     )
     parser.add_argument(
@@ -52,12 +52,12 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--epub",
-        default=str(root / "drafting" / "tools" / "novela_editorial_16_marzo.epub"),
+        default=str(root / "drafting" / "tools" / "novela_editorial.epub"),
         help="EPUB de salida.",
     )
     parser.add_argument(
         "--cover",
-        default=str(root / "drafting" / "novela" / "portada_simple_luminosa.png"),
+        default=str(root / "drafting" / "novela" / "portada.png"),
         help="Portada para el EPUB.",
     )
     parser.add_argument(
