@@ -4,54 +4,64 @@ weight = 5
 novela = ["libro2-La-Metanoia-Del-Color"]
 +++
 
-Granada los recibió con frío de piedra, calendarios nuevos y la arrogancia silenciosa de las ciudades que ya han visto a cientos de jóvenes creer que empiezan por fin su vida.
+Granada los recibió con la indiferencia de las ciudades que han visto a miles de estudiantes llegar con sueños y marcharse con cicatrices. El Doble Grado en Informática y Matemáticas no era el sueño de libertad creativa que Kirlian había imaginado; era una fortaleza de hormigón donde cada asignatura era un muro por escalar.
 
-Kirlian y Alice llegaron juntos. No exactamente como una pareja invulnerable, tampoco como dos extraños. Llegaron como dos personas que habían apostado algo importante sin terminar de saber con qué reglas iban a jugar.
+Antes de matricularse habían discutido el tema durante semanas. Alice quería Barcelona. No la quería como quien quiere una ciudad bonita, sino como quien quiere una versión distinta de sí misma.
 
-Julia apareció pronto. La conoció en una de esas primeras semanas de desorientación académica y cafés de máquina. Tenía una forma de hablar precisa y cálida a la vez, como si las ideas no le sirvieran para esconderse sino para acercarse.
+—Allí nadie sabe quién he sido aquí —dijo una tarde de agosto, sentada en el borde de una fuente, con las sandalias en la mano—. Podría llegar y empezar de cero.
 
-Una tarde, después de clase, se quedaron en un banco cerca de la facultad hablando de programación.
+Kirlian le habló de expedientes, de prestigio, de dinero, de lo razonable. Alice lo dejó terminar y se apartó el pelo de la cara con un gesto impaciente.
 
-—Lo que me interesa del código abierto —dijo Julia— es que no presupone pureza. Parte de que alguien va a encontrar tus errores.
+—No me lo vendas como si fueras un folleto de la universidad —dijo—. Si quieres que vayamos a Granada juntos, dilo.
 
-—Eso suena poco romántico.
+Él tardó demasiado en responder.
 
-—Al contrario. Es confiar en que otro pueda entrar en tu trabajo sin destruirlo.
+—Quiero que no se rompa esto antes de empezar.
 
-Kirlian giró el café entre las manos.
+Alice bajó la vista a la fuente, al agua sucia moviéndose entre hojas secas.
 
-—Entonces programar sería aceptar que ninguna inteligencia basta sola.
+—Vale —dijo al final—. Voy a ir a Granada. Pero que quede una cosa clara: no voy por obediencia ni por lógica. Voy porque ahora mismo quiero probar esto contigo. Si sale mal, no lo conviertas luego en un sacrificio bonito.
 
-Julia sonrió.
+Kirlian asintió, aunque no entendió del todo la advertencia hasta mucho después.
 
-—Ahora dilo sin tono de manifiesto y ya casi estaremos de acuerdo.
+Los primeros meses fueron un simulacro de felicidad. Estudiaban juntos en la biblioteca de la Facultad de Ciencias, comían en el comedor universitario —donde Índigo, el amigo de Almería que los había seguido como una sombra leal, reservaba sitio con media hora de antelación—, y por las noches se perdían por el Albaicín, buscando en sus calles empedradas el eco de la libertad londinense.
 
-La primera clase de Geometría también dejó marca. El profesor llenó la pizarra con símbolos y axiomas de teoría de conjuntos como si estuviera levantando un edificio desde la nada. Kirlian salió excitado y exhausto a la vez.
+Pero la máquina universitaria no perdona.
 
-—Lo raro —le dijo a Julia al cruzar el patio— es que todo empiece declarando qué se admite y qué no.
+—No sé qué hago aquí, Alice —confesó Kirlian una noche, sentado en el suelo de su habitación de la residencia, rodeado de apuntes de Álgebra que parecían escritos en un idioma extraterrestre—. Siento que no encajo.
 
-—Toda lógica empieza por una cortesía arbitraria —respondió ella.
+Alice no dijo nada durante un momento largo. Se sentó a su lado, le quitó los apuntes de las manos y los dejó sobre la mesa. Después lo abrazó. Un abrazo largo y silencioso que no pretendía arreglar nada, solo acompañar.
 
-—¿Incluso las no clásicas?
+En esa calidez, Kirlian sintió cómo algo dentro de él se rompía y, al mismo tiempo, empezaba a sanar. Fue un resquicio de esperanza en el frío invierno de su primera crisis. Aun así, la programación empezaba a dejar de parecerle una forma de libertad. Los algoritmos ya no eran promesa: eran entregas, rúbricas, errores sintácticos que no respondían a la imaginación sino al rendimiento.
 
-—Sobre todo esas. Las no clásicas no destruyen la verdad: la vuelven más incómoda.
+Pero los resquicios se cierran.
 
-Alice los oyó llegar al final de la conversación y puso los ojos en blanco con una mezcla de ironía y afecto.
+Un día de primavera, en una sesión de estudio con Julia y Payton —los dos compañeros del DGIIM que se habían convertido en su red de seguridad—, Velouria interrumpió su exposición sobre Álgebra Lineal.
 
-—Os juro que habláis como si un axioma pudiera invitaros a cenar.
+—Interesante tu síntesis, Kirlian —dijo con voz tranquila—. Pero te falta un lema intermedio para que sea rigurosa.
 
-No todo era biblioteca. También estaban los roces pequeños. Los prejuicios sobre Velouria, por ejemplo, no nacieron de Kirlian sino de Alice.
+Antes de que pudiera responder, se levantó y desarrolló la demostración en la pizarra. Era lógica pura, elegante y concisa. Kirlian se quedó mudo. La chica a la que había descartado como una cara bonita sin sustancia poseía una mente matemática que superaba la suya.
 
-—Tiene pinta de brillante de las que corrigen para marcar territorio —dijo una tarde.
+—Vaya —fue todo lo que Payton acertó a decir.
 
-Kirlian no respondió. Más adelante, cuando vio a Velouria desmontar una demostración con una claridad impecable, pensó primero en la precisión de ella y después, muy tarde, en lo fácil que es aceptar una sospecha ajena cuando conviene no revisar la propia inseguridad.
+Julia le dio un codazo a Kirlian. —Cierra la boca, que se te van a meter moscas.
 
-En **Estación Sonora** todo se volvió más visible. Alice habló un buen rato con un chico del festival mientras la música seguía sonando detrás como si nada importante estuviera ocurriendo. Kirlian no dijo una palabra. Se limitó a quedarse quieto un segundo más de la cuenta, a mirar el vaso vacío, a responder tarde cuando Alice volvió a su lado.
+Pero fuera de la biblioteca la vida seguía rompiéndose por otros sitios. Una noche, al salir de una fiesta en un piso de Pedro Antonio, Alice se sentó en el bordillo y se quedó mirando los taxis.
 
-—¿Te pasa algo? —preguntó ella.
+—He conocido a alguien en el viaje de Traducción —dijo—. No ha pasado nada. Te lo digo porque prefiero eso a empezar a esconder cosas.
 
-—No.
+Kirlian tardó un segundo en sentarse a su lado.
 
-La mentira fue tan leve que casi ni molestó. Casi.
+—No sé qué hago con esa información.
 
-Aquella fue la verdadera fractura del primer año en Granada: no la dificultad de las asignaturas, ni la ciudad, ni la enfermedad crónica latiendo debajo de todo. Fue la evidencia de que quererse no les evitaba ser dos velocidades distintas. Y de que, a partir de ahí, cada gesto iba a tener consecuencias que ya no podían reducir a una discusión brillante.
+—Yo sí —dijo Alice—. Intento no convertirme en una novia decorativa. Intento seguir siendo yo aunque esté contigo.
+
+—¿Y quién eres cuando no estás conmigo?
+
+Alice se volvió hacia él, cansada y despierta al mismo tiempo.
+
+—Alguien que no quiere prometer una forma de vida que todavía no entiende. Alguien que te quiere y, aun así, se ahoga cuando todo queda definido demasiado pronto.
+
+Kirlian miró la calle vacía. Había defendido en abstracto la libertad afectiva; en la práctica, cada palabra de Alice le abría una grieta nueva. No sabía si le dolía perderla o aceptar que ella nunca había sido una pieza fija dentro de su mapa.
+
+Cuando el siguiente cuatrimestre empezó a venirse abajo, Julia, Payton y Bob fueron el andamiaje mínimo que impidió el derrumbe total. Hubo tardes de estudio en las que nadie avanzaba gran cosa, pero aun así se quedaban allí, compartiendo apuntes, café de máquina y una lealtad sin épica. Una mañana, Julia incluso le dejó una nota bajo la puerta de la residencia: no era una solución, solo una prueba de que alguien seguía viéndolo desde fuera del laberinto. A veces eso bastaba para aplazar la caída. A veces no.
