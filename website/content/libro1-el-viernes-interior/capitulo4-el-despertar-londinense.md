@@ -4,44 +4,52 @@ weight = 4
 novela = ["libro1-El-Viernes-Interior"]
 +++
 
-Londres fue una interrupción luminosa.
+Londres fue una interrupción feliz, y Kirlian agradeció cada minuto de ese paréntesis.
 
-La ciudad los recibió con su ruido de túneles, con el hierro del metro, con la velocidad anónima de la gente y el cielo gris como una pantalla mal calibrada. Alice llevaba la cámara al cuello desde el primer minuto y empezó a mirar la ciudad como si la hubiera estado esperando sin saberlo.
+La ciudad los recibió con ruido de Tube, anuncios de *Mind the Gap* y una multitud que parecía saber adónde iba incluso cuando corría. Alice, con la cámara colgando del cuello, fotografiaba todo: los ladrillos rojos de Shoreditch, los grafitis del Southbank, la cara de desconcierto de Kirlian cada vez que desplegaba un mapa.
 
-—No camines tan rápido —dijo Kirlian al salir del metro.
+—¡Hay vida más allá de nuestra simulación! —gritó ella en medio de Camden High Street, y dos turistas japoneses le sonrieron como si fuera parte del paisaje.
 
-—Entonces tú piensa más deprisa.
+La exploración los llevó a la entrada de Cyberdog. Dos figuras metálicas custodiaban una puerta de la que emanaba música electrónica y luz ultravioleta. Kirlian se detuvo.
 
-Rieron. Era fácil allí. Más fácil que en Almería. Más fácil que en cualquier sitio donde alguien pudiera recordarles demasiado bien.
+—¿Qué coño es esto?
 
-Alice fotografió el río, los ladrillos, los puestos de Camden, una bicicleta atada a una señal, la cara de Kirlian dentro de una cápsula del London Eye cuando fingía no impresionarse y fracasaba.
+—Ni idea —dijo Alice, ya empujando la puerta—. Pero hay que entrar.
 
-—Ahora pareces una persona que acepta por fin estar suspendida —le dijo ella enseñándole la pantalla de la cámara.
+El interior era un universo paralelo. Música techno que vibraba en los huesos. Ropa fluorescente de estética futurista. Bailarinas en plataformas moviéndose como androides. Y en los niveles inferiores, una sección que Kirlian tardó un momento en procesar: electrónica erótica, vibradores con luces LED, ropa interior de látex brillando bajo la luz negra.
 
-En sus auriculares fueron entrando canciones como si formaran parte del itinerario: *Bedshaped* de Keane, *Resistance* de Muse, *Half a Person* de The Smiths. Kirlian no olvidó la línea de esa última canción sobre tener dieciséis, ser torpe y sentirse fuera de sitio en Londres. Le pareció una forma exacta de estar allí sin terminar de pertenecer.
+Sintió el rubor subiéndole por el cuello.
 
-Entraron en Cyberdog, sí, pero no buscando escándalo. Lo que los atrapó fue otra cosa: la sensación de que el cuerpo podía volverse interfaz, brillo, máscara, juego de superficies. Alice disparaba fotos como si la cámara le permitiera conversar con la ciudad sin pedirle una respuesta limpia.
+Alice se movía entre los expositores con total naturalidad, fotografiando detalles con la curiosidad de una antropóloga en una tribu desconocida.
 
-—Tú miras como si fueras a archivar el mundo —dijo Kirlian.
+—Mira esto —le dijo, señalando un conjunto de lencería luminiscente—. Parece sacado de Blade Runner.
 
-—Y tú como si fueras a resolverlo.
+Kirlian solo pudo asentir.
 
-—No siempre.
+Cuando volvieron a Camden, Kirlian parpadeó bajo la luz del día como si acabara de salir de una discoteca y de un laboratorio a la vez.
 
-—No. Solo casi siempre.
+—Ha sido intenso —dijo.
 
-Hubo en Londres una intimidad rara, todavía sin declaración. La cercanía en los trayectos, el hombro de Alice rozando el suyo al revisar fotografías, el silencio cómodo dentro de la noria, el modo en que ambos podían caminar media hora sin hablar y aun así sentir que la conversación seguía ocurriendo.
+—Ha sido la hostia —respondió Alice, revisando las fotos en su cámara—. Esto no lo encuentras en casa.
 
-No precipitaron nada. No hizo falta.
+Caminaron un rato sin hablar. Alice iba revisando las fotos sobre la marcha, borrando unas y guardando otras con un criterio que solo ella entendía.
 
-A la vuelta, Almería parecía más pequeña y más nítida. Estudiaron mucho. Se agotaron bastante. La noticia de la matrícula llegó con una alegría contenida, casi administrativa, como si decirlo demasiado alto pudiera volverlo menos cierto. Lo celebraron con un paseo, no con una épica.
+—Lo mejor no era lo sexual —dijo al fin—. Era que nadie estaba pidiendo permiso por existir.
 
-Fue después, ya con el verano empezando a gastarse, cuando Kirlian entendió que Londres no había sido una excepción sino una abertura. Alice seguía moviéndose con esa libertad que lo atraía y lo descolocaba. Él seguía queriendo convertir cada experiencia en teoría para no verse arrastrado por ella.
+Kirlian la miró.
 
-Una noche, al despedirse, Alice lo miró con cansancio y ternura mezclados.
+—Tú tampoco lo pides nunca.
 
-—No me conviertas en una ciudad —dijo—. Ni en una prueba. Yo también me estoy enterando sobre la marcha.
+—Claro que sí —dijo ella—. Lo hago mejor, que es distinto.
 
-Kirlian quiso prometer algo mejor que su costumbre. No lo hizo. Se limitó a asentir.
+Siguieron caminando. A Kirlian le quedó la sensación de que juntos podían entrar en lugares que por separado les darían vergüenza, miedo o ambas cosas.
 
-Londres había terminado, sí. Pero la forma en que los había desplazado a ambos seguía trabajando por dentro. Y ese trabajo, todavía sin nombre, iba a acompañarlos hasta Granada.
+El resto de Londres prolongó esa sensación. Hablaron en el Tube sobre trabajos imposibles, discutieron en Hyde Park sobre si se puede empezar de cero de verdad y, en el hotel, aprendieron a quedarse cerca sin resolver todavía qué significaba esa cercanía.
+
+Volvieron a Almería transformados. Cargados con la sensación de haber probado una libertad más audaz de lo que habían imaginado. La llama londinense no se quedó en la niebla; volvió con ellos, lista para quemar las viejas reglas.
+
+El final de Bachillerato llegó como llegan las campañas que importan de verdad: con ojeras, cafés y la sensación de que cualquier error podía cambiarlo todo. Kirlian y Alice estudiaron como si estuvieran defendiendo una frontera. Cuando llegaron las notas y ambos obtuvieron Matrícula de Honor, la euforia tuvo algo de victoria compartida contra el mundo.
+
+La noche de la graduación, sin embargo, el ruido de los bares de Almería se les quedó pequeño. Huyeron de la música, de los compañeros, de las fotos repetidas. En la habitación de Kirlian, el silencio dejó de ser una pausa y se convirtió en una decisión. El primer beso no fue una sorpresa, sino la confirmación de algo que llevaba meses creciendo entre Londres, diciembre y todos los viernes anteriores. Aquella vez dejaron de teorizar. La intimidad no les resolvió la vida, pero les dio una verdad física que ninguno de los dos pudo volver a negar.
+
+Por eso, cuando terminó el verano y empezó a decidirse el futuro, la discusión sobre la universidad dolió más de lo que ambos estaban dispuestos a admitir.
