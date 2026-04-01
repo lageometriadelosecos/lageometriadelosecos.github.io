@@ -2,7 +2,7 @@
 
 <img src="drafting/novela/portada.png" width="200" height="600">
 
-📥 **Descarga EPUB**: [novela_editorial_16_marzo.epub](drafting/tools/novela_editorial_16_marzo.epub)
+📥 **Descarga EPUB**: [novela_editorial.epub](drafting/tools/novela_editorial.epub)
 
 ---
 
