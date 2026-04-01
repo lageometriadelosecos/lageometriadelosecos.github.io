@@ -4,38 +4,64 @@ weight = 2
 novela = ["libro1-El-Viernes-Interior"]
 +++
 
-El mensaje llegó a las once de la mañana, mientras Kirlian masticaba un bocadillo de tortilla en la cafetería del Café Central, rodeado por el murmullo de compañeros que repasaban apuntes de Topología.
+Demian empezó a esperar a Érika Durán a la salida del instituto cuando el otoño ya olía a fotocopias, mandarinas y cansancio acumulado. No fue un cataclismo. Fue una desviación mínima del eje. Justo por eso dolió tanto.
 
-*Ha pasado algo turbio.*
+Kirlian lo comentó con Freddie en el patio, apoyados junto al muro donde siempre se reunían los que aún no sabían si entrar del todo en clase o quedarse un poco más en el recreo.
 
-Tres palabras de Alice. Kirlian dejó el bocadillo sobre la servilleta y miró la pantalla como quien mira una bomba sin desactivar.
+—No sé por qué me importa tanto —dijo Kirlian.
 
-Alice tenía la costumbre de escribir como si una conversación ya estuviera en marcha antes del primer mensaje. No saludaba. Irrumpía. Medio año antes, en una fiesta de cumpleaños, se había presentado con el flequillo azul, una chaqueta vaquera pintada por ella misma y una pregunta imposible sobre si Platón habría sobrevivido a Twitter. Desde entonces, cada vez que aparecía, el aire parecía cambiar de presión.
+Freddie mordió el borde de un bollo industrial y lo miró como si la respuesta estuviera demasiado cerca.
 
-*Demian me ha pedido un beso*, escribió ella a continuación.
+—Porque es Érika Durán.
 
-Kirlian sintió un frío repentino en el estómago.
+—Eso no explica nada.
 
-*Le he dicho que no. Le he dicho que por ti.*
+—Lo explica casi todo. Era tu mejor amiga. Ahora sigue siéndolo, pero ya no está sola dentro de eso.
 
-Leyó la frase tres veces. “Por ti.” Dos palabras que deberían haberle provocado alivio, o incluso orgullo. Pero lo que sintió fue náusea. Una náusea que no tenía nada que ver con el Crohn.
+Kirlian apartó la vista. En las últimas semanas el cuerpo se había vuelto una amenaza discreta: fatiga, un dolor sordo debajo de la ropa, comidas contadas, la casa convertida en botiquín. Nadie le había dicho todavía una palabra definitiva, pero él sabía que algo se había torcido.
 
-Demian era el novio de Érika. Y Alice había usado su nombre como quien improvisa una defensa en mitad de un incendio. Kirlian no sabía si eso era una declaración o una coartada.
+—Estoy cansado de parecer frágil —murmuró.
 
-Tecleó y borró cinco respuestas distintas. La lógica le decía que debía analizar la situación con frialdad. La emoción le pedía que saliese corriendo a buscarla.
+Freddie dejó el bollo a medias.
 
-Eligió la lógica, como siempre.
+—Entonces deja de fingir que no te pasa nada.
 
-*No lo entiendo. ¿Esperabas que sintiera celos?*
+Alice apareció unos días después y la atmósfera cambió.
 
-Pulsó enviar. Supo al instante que era la peor respuesta posible. No era fría; era cruel. No era analítica; era cobarde.
+Volvía de una temporada en Austria. Era rubia, de ojos azules, con una forma de entrar en los sitios que no pedía permiso pero tampoco buscaba espectáculo. Parecía venir de otra velocidad, de otro modo de mirar. No desordenaba por exceso, sino por desplazamiento.
 
-Alice no respondió en dos horas.
+Kirlian empezó a fijarse en ella sin proponérselo. La vio una mañana hablando con Demian junto a la escalera exterior, los dos medio apoyados en la barandilla, y se quedó escuchando desde lejos con la tensión de quien no sabe si quiere entender o no.
 
-Cuando lo hizo, fue con una sola frase:
+—Austria era más silenciosa —decía Alice—. Aquí todo el mundo parece vivir a punto de discutir.
 
-*¿Quién coño soy yo para ti?*
+Demian sonrió.
 
-Cerró el chat. Se comió el resto del bocadillo sin saborearlo. Volvió al problema de Topología Diferencial, donde al menos los espacios tenían dimensiones definidas y las distancias no dependían del orgullo.
+—Eso es porque aún no has visto a Érika Durán enfadarse de verdad.
 
-En los días siguientes, las conversaciones se llenaron de frases medidas. Una tarde, Kirlian la vio al otro lado de la plaza de la facultad, riendo con dos chicas de Traducción y gesticulando con un café en la mano. Pensó en acercarse. Dio un paso. Luego otro. Alice levantó la vista, sostuvo la mirada un segundo y le hizo un gesto pequeño con la cabeza, como quien admite una presencia pero no la invita a quedarse. Después volvió a su conversación. Kirlian se quedó donde estaba. Entendió que también se podía perder a alguien sin que nadie se fuera de la ciudad.
+—La he visto pensar —respondió ella—. Con eso ya me basta.
+
+Demian soltó una risa breve. Alice no. Se limitó a mirarlo con esa curiosidad oblicua suya, como si cada persona le ofreciera un idioma provisional.
+
+Kirlian no se acercó. Le bastó con la escena: la luz del mediodía en el pelo de Alice, la facilidad de Demian, la sensación de que la realidad había incorporado a alguien nuevo justo cuando la antigua estabilidad empezaba a romperse.
+
+Érika Durán lo encontró más tarde, apoyado en el muro trasero.
+
+—Estás raro —dijo.
+
+—Tú estás ocupada.
+
+Ella sostuvo la mirada.
+
+—No son cosas incompatibles.
+
+Kirlian quiso decir que sí. Que a veces una nueva cercanía desplaza a otra aunque nadie la traicione. Que su mejor amiga ya no estaba enteramente en el lugar de antes. Que su propio cuerpo, con aquel malestar crónico todavía sin nombre limpio, le estaba volviendo más torpe, más irritable, más atento a todo lo que podía perder.
+
+Pero no dijo nada.
+
+Érika Durán se guardó las manos en los bolsillos.
+
+—No conviertas este curso en una autopsia.
+
+Kirlian asintió. Alice pasó al fondo del patio en ese momento, hablando con una compañera y apartándose un mechón claro de la cara. No llevaba nada extraordinario: un jersey oscuro, una bufanda mal puesta, un cuaderno contra el pecho. Y aun así parecía venir de otro sitio.
+
+Kirlian la siguió con los ojos hasta que desapareció tras la esquina del edificio. Luego volvió a mirar a Érika Durán. Supo que el otoño acababa de abrir una grieta. Aún no sabía en qué dirección.

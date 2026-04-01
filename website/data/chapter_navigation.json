@@ -12,11 +12,11 @@
         "url": "/libro1-el-viernes-interior/capitulo1-omnihilismo/"
       },
       "next": {
-        "title": "Capítulo 3: Diciembre y la Cobra",
-        "url": "/libro1-el-viernes-interior/capitulo3-diciembre-y-la-cobra/"
+        "title": "Capítulo 3: Ecos y Presencias",
+        "url": "/libro1-el-viernes-interior/capitulo3-ecos-y-presencias/"
       }
     },
-    "capitulo3-diciembre-y-la-cobra.md": {
+    "capitulo3-ecos-y-presencias.md": {
       "previous": {
         "title": "Capítulo 2: La Sombra de Alice",
         "url": "/libro1-el-viernes-interior/capitulo2-la-sombra-de-alice/"
@@ -28,8 +28,8 @@
     },
     "capitulo4-el-despertar-londinense.md": {
       "previous": {
-        "title": "Capítulo 3: Diciembre y la Cobra",
-        "url": "/libro1-el-viernes-interior/capitulo3-diciembre-y-la-cobra/"
+        "title": "Capítulo 3: Ecos y Presencias",
+        "url": "/libro1-el-viernes-interior/capitulo3-ecos-y-presencias/"
       }
     }
   },
@@ -46,11 +46,11 @@
         "url": "/libro2-la-metanoia-del-color/capitulo5-codigos-rotos/"
       },
       "next": {
-        "title": "Capítulo 7: Aquarium",
-        "url": "/libro2-la-metanoia-del-color/capitulo7-aquarium/"
+        "title": "Capítulo 7: Green Cross",
+        "url": "/libro2-la-metanoia-del-color/capitulo7-green-cross/"
       }
     },
-    "capitulo7-aquarium.md": {
+    "capitulo7-green-cross.md": {
       "previous": {
         "title": "Capítulo 6: El Rojo Sangre de Lea",
         "url": "/libro2-la-metanoia-del-color/capitulo6-el-rojo-sangre-de-lea/"

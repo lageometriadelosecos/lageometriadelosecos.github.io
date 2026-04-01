@@ -4,50 +4,74 @@ weight = 12
 novela = ["libro3-La-Arquitectura-Del-Codigo"]
 +++
 
-Kirlian estaba sentado en una terraza de Granada, tecleando en su portátil, cuando recibió el mensaje.
+Cuando Eileen le escribió para quedar, Granada ya no tenía el mismo relieve que en los años más duros. Seguía siendo la misma ciudad de cuestas, terrazas y estudiantes exhaustos, pero Kirlian la habitaba de otra manera: menos como prueba, más como lugar.
 
-Era Eileen.
+Se vieron en una cafetería cercana a Psicología. Eileen llegó con una carpeta bajo el brazo, el pelo más corto y esa calma suya que nunca había sido frialdad, sino precisión.
 
-La última vez que la había visto, ella lo había rechazado con la honestidad brutal de quien ha estudiado psicología durante años y sabe que la compasión a veces es más cruel que la verdad.
+—Tienes mejor cara —dijo al sentarse.
 
-*Te pasas la vida idealizando a otras personas*, le había dicho, *porque no puedes ver tu propio valor.*
+—Eso me dicen los que no me vieron por dentro.
 
-Entonces le había dolido como un cuchillo. Ahora, con los años, entendía que había sido un bisturí: un corte necesario para extirpar algo que le estaba matando por dentro.
+Eileen sonrió apenas.
 
-El mensaje era simple:
+—Sigues contestando raro, pero menos.
 
-*¿Café?*
+Pidieron café. Hablaron primero de cosas pequeñas: alumnos, horarios, un bar nuevo, la dificultad absurda de dormir bien después de cierta edad aunque uno siga sintiéndose joven a ratos. Ninguno necesitaba precipitar la escena.
 
-Se encontraron en el mismo sitio de siempre, una cafetería pequeña cerca de la Facultad de Psicología donde ella daba clases. Eileen tenía el pelo más corto y una calma que irradiaba como temperatura corporal.
+Luego Eileen dejó la cucharilla sobre el plato.
 
-—Tienes mejor cara —dijo ella, sentándose frente a él.
+—¿Y ahora qué estás escribiendo de verdad?
 
-—He dejado de intentar ser otra persona —respondió Kirlian.
+Kirlian miró la calle antes de responder. Pasó una moto. Dos estudiantes discutían frente a un semáforo. Una mujer arrastraba un carro de la compra con una dignidad perfecta.
 
-Eileen removió el café sin azúcar. Llevaba un bolso lleno de exámenes por corregir y miraba el reloj de vez en cuando, no por impaciencia, sino porque tenía una vida que la esperaba fuera de aquella mesa. Eso, más que cualquier teoría, tranquilizó a Kirlian.
+—Intento ordenar el ruido sin traicionarlo —dijo—. Supongo que va de eso. De ver cómo unas vidas quedan dentro de otras sin dejar de ser vidas enteras.
 
-—¿Y quién eres ahora? —preguntó.
+Eileen lo observó en silencio.
 
-Kirlian tardó en responder. Vio, sin buscarlo, el banco del parque de Almería, a Érika doblando las piernas sobre el asiento. Vio a Alice avanzando por Camden con la cámara en alto. Vio el rojo de la Cruz Roja, el verde contenido del Aquarium, la pantalla encendida durante la pandemia, la mano de Shayla retirándose de la mesa, la voz de Índigo obligándolo a salir de casa, la farola temblando sobre Marzi.
+—Suena a título.
 
-—No lo tengo en una frase limpia —dijo al fin—. Supongo que soy todo eso cuando deja de pelearse tanto dentro de mí.
+—No me provoques.
 
-Eileen sonrió.
+—Te provoco poco y bien. Venga.
 
-—Mejor. Las frases demasiado limpias suelen mentir.
+Kirlian sonrió, cansado y tranquilo a la vez.
 
-Kirlian miró su taza y soltó una risa breve.
+—Quizá se llame *La Geometría de los Ecos*.
 
-—Entonces dejémoslo en esto: he aprendido a vivir con la geometría de mis ecos.
+Eileen apoyó la espalda en la silla.
 
-Eileen sonrió. No como una psicóloga que evalúa una respuesta. Como alguien que reconoce a un viejo amigo.
+—Es pretencioso.
 
-—Ahora sí te creo —dijo.
+—Sí.
 
-Hablaron un rato más, ya sin solemnidad: de horarios, de alumnos agotados, de un bar nuevo en Realejo. Cuando Eileen se levantó para irse, le apretó el hombro con familiaridad y desapareció calle abajo, absorbida por la marea de mediodía.
+—Y bastante exacto.
 
-Kirlian no abrió el portátil enseguida. Terminó el café. Escuchó una cuchara caer dentro de un vaso, una moto subir por la calle, dos estudiantes discutir sobre un examen de Estadística. Sacó una libreta del bolso y dibujó sin pensar unas líneas que se cruzaban, se separaban y volvían a encontrarse. No parecían un mapa exacto. Se parecían más a una vida.
+Kirlian bajó la vista al café.
 
-Guardó la libreta, pagó y echó a andar. La geometría de los ecos no consistía en entenderlo todo, sino en poder seguir adelante con todo eso sonando todavía dentro.
+—La alternativa era *El Evangelio del Matemático Ateo*.
+
+Eileen soltó una risa limpia, de las que llegan sin cálculo.
+
+—Eso ya no es un título. Eso es una provocación con pantalones.
+
+—Por eso lo descarto.
+
+—No del todo —dijo ella—. Guárdalo. Nunca se sabe cuándo vuelve a hacer falta.
+
+La conversación no lo resolvió todo. Tampoco lo bendijo. Eileen no estaba allí para certificar que había llegado a una versión definitiva de sí mismo. Tenía su propia vida esperándola fuera de la cafetería, sus clases, su cansancio, sus cosas no compartidas. Y eso, más que cualquier gran frase, le pareció a Kirlian una forma de verdad.
+
+Al despedirse, Eileen le apretó el hombro.
+
+—Ya no te oyes solo a ti cuando hablas —dijo.
+
+Luego se fue calle abajo, sin girarse.
+
+Kirlian no abrió el portátil de inmediato. Terminó el café. Escuchó la cucharilla de otra mesa, una conversación sobre estadística, una puerta de autobús abriéndose. Sacó una libreta y dibujó unas líneas que se cruzaban, se separaban y volvían a encontrarse.
+
+No parecían un mapa exacto. Parecían una vida.
+
+Pagó, guardó la libreta y echó a andar. La geometría de los ecos no consistía en comprenderlo todo, sino en poder seguir adelante con ese murmullo dentro sin convertirlo ya en una prisión. Eso, por fin, le pareció suficiente.
+
+---
 
 *FIN*
