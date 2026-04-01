@@ -4,26 +4,38 @@ weight = 6
 novela = ["libro2-La-Metanoia-Del-Color"]
 +++
 
-El colapso no fue una explosión. Fue una filtración lenta. Primero Kirlian dejó de levantarse a tiempo. Después dejó de abrir los apuntes. Luego empezó a mirar el teléfono como si contestar exigiera una fuerza física desproporcionada. Alice llamó tantas veces el último día que su nombre se quedó ocupando toda la pantalla.
+Antes de convertirse en noticia, Lea había sido una escena pequeña.
 
-Los pasillos de la Cruz Roja olían a desinfectante industrial y a miedo ajeno. Las luces de los fluorescentes zumbaban con una frecuencia que se metía dentro del cráneo como un insecto.
+La habían conocido una tarde cualquiera, entre Freddie, Alice y Kirlian, en una librería de segunda mano donde el polvo parecía formar parte del catálogo. Lea tenía una forma serena de mirar los libros, como si no estuviera eligiéndolos sino pidiéndoles que se explicaran.
 
-Allí conoció a Lea. O, más bien, a la forma en que su ausencia seguía circulando por la planta.
+—¿Has leído a Freud? —preguntó Kirlian, sacando un ejemplar usado de *Introducción al psicoanálisis*.
 
-—¿La chica del tercero? —preguntó Kirlian a Valentín, un poeta de setenta años que llevaba tres meses en la planta y conocía cada grieta del edificio como si fueran versos.
+—Lo suficiente para discutirlo mal —respondió ella.
 
-—No preguntes por ella, chaval —respondió Valentín, mirando por la ventana con la expresión de alguien que ha visto demasiado—. Aquí las preguntas no traen respuestas. Solo traen más preguntas.
+Kirlian le prestó el libro. Lea sonrió, se lo guardó debajo del brazo y prometió devolverlo cuando dejara de subrayarlo como si fuera un enemigo.
 
-Pero Kirlian preguntó. No por morbo: por costumbre. Preguntar era su manera torpe de no sentirse arrastrado por lo que no entendía.
+Luego pasó el tiempo, que es la forma respetable de la dispersión.
 
-Lea había muerto tres semanas antes de su ingreso. Sobredosis. Tenía veintiún años y un historial de ingresos que ocupaba más páginas que la tesis doctoral de cualquier profesor de la facultad. Su nombre se susurraba en los pasillos como una oración o como una maldición, dependiendo de quién lo pronunciase.
+Años más tarde, la noticia llegó sin preparación. Lea había muerto. Kirlian la leyó dos veces antes de terminar de entender que la frase no escondía ninguna continuación.
 
-El rojo era el color de aquel lugar. El rojo de las cruces en las paredes. El rojo de las luces de emergencia que se encendían cuando alguien se desprendía de la vía. El rojo de la sangre que Kirlian vio una madrugada en el baño del ala este, antes de que los enfermeros lo limpiaran con una eficiencia que delataba costumbre.
+El funeral fue breve y devastador. Freddie estaba allí, con el cuello del abrigo subido; Alice también, de pie junto a una fila de coronas que parecían demasiado pulcras para la violencia de la pérdida. Nadie supo muy bien qué decir.
 
-—No analices esto, chaval —le dijo Valentín—. El rojo no se entiende. Se sangra.
+—No me acuerdo de su voz —murmuró Alice al salir.
 
-Kirlian acabó en lo que Valentín llamaba el Coro de los Rotos: la sala común de las seis de la tarde, donde una mujer leía las manos a cambio de tabaco, otra solo hablaba para cantar nanas y un chico inmóvil llevaba varios días mirando el mismo radiador como si esperara una señal.
+—Yo sí —dijo Freddie—. Y me jode más por eso.
 
-Allí nadie sabía nada de su expediente ni de sus viejos alias de internet. Era solo otro cuerpo con pulsera, medicación y un horario pegado a la pared.
+Kirlian no habló. Solo vio el rojo de unas flores abiertas contra la piedra húmeda y sintió que había algo obsceno en la tranquilidad del cementerio. El libro nunca volvió. Le pareció bien.
 
-Una noche, mientras escuchaba a la mujer de las nanas cantar a oscuras y a un enfermero pedir silencio desde el pasillo, entendió algo sin ponerle nombre: hay dolores que no se piensan mejor por mirarlos más de cerca.
+Su caída vino después, pero ya no le pareció del todo ajena a esa escena. El cuerpo empezó a cerrarse: insomnio, agotamiento, incapacidad para sostener una rutina mínima, una mezcla de miedo y extrañeza frente al simple hecho de levantarse.
+
+Acabó en **Red Cross**, donde los pasillos olían a lejía, metal y vulnerabilidad ajena. El rojo lo ocupaba todo: señales, luces, cruces, emergencias, la imaginación del desastre pegada a las paredes.
+
+Un hombre mayor al que todos llamaban Valentín fumaba donde no se debía y hablaba como si la vida fuera una cosa que ya le hubiera ocurrido del todo.
+
+—Aquí el rojo no significa auxilio —le dijo una noche—. Significa que todavía hay algo sangrando.
+
+Kirlian se sentó a su lado sin responder.
+
+Por primera vez en mucho tiempo dejó de buscar una teoría proporcionada a lo que le pasaba. El dolor ya no pedía interpretación. Pedía tiempo, medicación, compañía a ratos y una forma más humilde de seguir respirando.
+
+La muerte de Lea, el funeral, la planta blanca y roja, el cuerpo desobediente: todo parecía pertenecer a un mismo tono, a una misma advertencia. La vida podía desaparecer sin necesidad de clímax. Y también podía quedarse, simplemente, en un estado de daño que no aceptaba metáforas.
