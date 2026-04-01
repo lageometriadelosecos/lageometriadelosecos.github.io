@@ -4,36 +4,42 @@ weight = 10
 novela = ["libro3-La-Arquitectura-Del-Codigo"]
 +++
 
-Shayla llegó como llegan las cosas que no buscas: sin pedir permiso y a destiempo.
+Conoció a Shayla en una noche de fiesta en **Nueva Planta**.
 
-Era 2022. Kirlian la conoció en la cafetería de la ETSIIT, donde ella trabajaba con unos auriculares enormes y una concentración que le recordó a Velouria. Él la llamaba Shayla —un homenaje privado a *Mr. Robot*, la serie que ambos habían visto tres veces—.
+Había música demasiado alta, vasos de plástico y esa sensación típica de las fiestas universitarias en las que nadie sabe del todo si quiere ligar, olvidarse o simplemente no volver aún a casa. Shayla estaba apoyada en una pared, riéndose con alguien, con una copa en la mano y una manera de escuchar que no parecía fingida.
 
-La relación fue, al principio, un campo de pruebas. Kirlian aplicó todo lo que creía haber aprendido: comunicación abierta, honestidad, respeto. Shayla era paciente, divertida y tenía un gato llamado Boro que se subía al teclado cada vez que ella intentaba programar.
+Se acercaron por una conversación absurda sobre una canción mal pinchada y terminaron hablando en la calle, ya fuera del ruido, sobre series, gatos, bisexualidad, programación y el cansancio de tener que explicarse siempre demasiado.
 
-Pero bajo la superficie, algo no encajaba. Kirlian se sentía atrapado en un rol que no había elegido: el del novio responsable, el del adulto funcional. Y Shayla, que era perceptiva de un modo poco teatral, empezó a cansarse de intuir una conversación que él nunca terminaba de tener.
+—No pareces cómodo en los sitios donde hay mucha gente —dijo ella.
 
-La ruptura llegó a finales de año.
+—No lo soy.
 
-—Esto no funciona —dijo Kirlian, sentado frente a Shayla en un bar del centro.
+—Yo tampoco. La diferencia es que yo lo hago con más desparpajo.
 
-—¿Por qué? —preguntó ella, y en sus ojos había más rabia que tristeza.
+Aquella facilidad inicial los sostuvo durante semanas. Shayla tenía humor, deseo, una claridad poco teatral y la costumbre de no convertir la intimidad en examen. Kirlian sintió, por primera vez en bastante tiempo, que una relación podía empezar sin estar precedida por una gran teoría sobre el amor.
 
-—Porque no puedo quererte como mereces.
+Por eso dolió más cuando la grieta apareció.
 
-—Eso no es una respuesta, es una frase de autoayuda.
+No fue una traición visible. Fue la acumulación de medias presencias: respuestas tardías, afecto sincero pero fragmentario, la sensación de que Kirlian seguía entrando y saliendo de sí mismo incluso cuando estaba con ella.
 
-Kirlian abrió la boca y volvió a cerrarla.
+La conversación final ocurrió en un bar pequeño, con la lluvia golpeando el cristal.
 
-—Entonces la respuesta es peor —dijo—. Estoy aquí a medias. Y tú no estás a medias.
+—No quiero seguir en una relación donde siempre tengo que intuir la mitad que no dices —dijo Shayla.
+
+Kirlian apoyó los codos en la mesa.
+
+—No creo que te esté mintiendo.
+
+—No. Te estás escondiendo peor.
+
+Hubo silencio. Un silencio adulto, sin teatralidad.
+
+—Te quiero —dijo él al fin—, pero no de una forma que te cuide bien.
 
 Shayla apartó el vaso.
 
-—No, no lo estoy. Y tampoco voy a quedarme aquí haciendo de chica razonable mientras tú conviertes tu confusión en un discurso bonito.
+—Entonces no me quieras desde ahí.
 
-Tenía razón. Kirlian lo sabía. Pero también sabía algo más: que esta vez, a diferencia de lo que había pasado con Alice, él no iba a asumir el papel de víctima. No iba a esperar a que alguien decidiera por él, a que la otra persona tomara la iniciativa de romper lo que ya estaba roto.
+No lloró. No le ofreció la escena redentora del derrumbe. Simplemente se levantó, pagó su parte y se fue antes de que la frase pudiera adornarse.
 
-—Es mi decisión —dijo—. No tuya. No de nadie. Mía.
-
-Shayla se quedó dentro, erguida, pidiéndose agua en vez de otra cerveza. No se derrumbó ni le hizo el favor de volverlo imprescindible en su tristeza. Cuando Kirlian salió del bar entendió que, por una vez, la otra persona no iba a desempeñar ningún papel alegórico para él. Solo iba a seguir con su vida.
-
-La decisión seguía doliendo, pero el dolor ya no tenía la forma infantil del abandono. Se parecía más a una responsabilidad asumida tarde y mal, pero asumida al fin.
+Esa fue la inversión del espejo. Kirlian entendió que la confusión propia no lo absolvía. Y que la otra persona no estaba en la historia para confirmarle ninguna profundidad especial. Shayla tenía vida, criterio, límites. Salió del bar con todo eso intacto. A él le tocó aprender algo por primera vez sin la protección del victimismo.

@@ -4,26 +4,30 @@ weight = 9
 novela = ["libro3-La-Arquitectura-Del-Codigo"]
 +++
 
-Fue Índigo quien lo sacó del agujero. No con filosofía ni con terapia, sino con un mensaje a las once de la mañana:
+Índigo no lo rescató con discursos. Lo hizo con una pregunta banal enviada a las once de la mañana:
 
 *¿Hoy comedor?*
 
-Era 2021. Las restricciones se habían relajado lo suficiente como para que Kirlian volviera a Granada, a su piso compartido con Sandro, un físico teórico que hablaba de la materia oscura con la misma pasión con la que Kirlian hablaba del Omnihilismo.
+Kirlian tardó tres minutos en responder. Era suficiente para saber que seguía dentro del mundo.
 
-Índigo se presentó a las doce en punto con dos cafés del bar de abajo y una lista mental de planes para la semana que incluía un concierto, una casa rural y otra vuelta más a sus dramas con el carnet.
+Cuando volvió a Granada, Índigo empezó a aparecer con una puntualidad casi ofensiva: café en la mano, planes mal organizados, nombres de gente nueva, ganas de moverlo aunque fuera unos metros.
 
-—Te he apuntado a un intercambio de idiomas el jueves —dijo, dejando el café sobre la mesa—. Y antes de que protestes: no, no puedes quedarte aquí viendo documentales del Unabomber.
+—No puedes quedarte otra vez toda la tarde aquí dentro —le dijo una vez, abriendo la ventana de golpe—. Eso no es contemplación. Eso es moho con portátil.
 
-—No estaba viendo eso.
+Kirlian soltó una risa involuntaria.
 
-—Estabas viéndolo. Te conozco.
+—Qué delicadeza la tuya.
 
-Índigo no necesitaba entender todo para intervenir bien. Le bastaba con aparecer, arrastrarlo a comer y tratar la vida cotidiana como si todavía mereciera ser organizada. En esa superficie aparentemente banal, Kirlian encontró un suelo.
+—La delicadeza está sobrevalorada.
 
-—Me siento inútil —le confesó una noche, después de que Índigo volviera especialmente quemado de la autoescuela—. Siento que nunca voy a poder.
+Índigo sabía cuidar sin solemnidad. Preguntaba por los horarios, por si había comido, por el texto que estaba escribiendo, por si le apetecía bajar o al menos cambiar de habitación. Nunca lo trató como a una ruina ilustre.
 
-Índigo lo miró con esa mezcla de cariño y exasperación que solo los mejores amigos pueden fabricar.
+Una tarde le pidió que leyera un relato suyo. Se sentaron en una terraza con dos refrescos tibios y hablaron durante casi una hora de ritmo, de frases demasiado explicadas, de personajes que necesitaban aire. Fue Kirlian quien acabó sintiéndose acompañado por el simple hecho de que alguien le pidiera lectura en vez de diagnóstico.
 
-—Tío —dijo—, a mí me tiene humillado el carnet y aquí me ves, pidiendo otra ronda. No todo tiene que resolverse hoy para que la vida siga.
+—A veces pienso que ya no sé hacer nada bien —dijo al despedirse.
 
-Kirlian soltó una risa corta. No era Nietzsche. No era Camus. Era Índigo, y esa noche eso bastó.
+Índigo lo miró con cansancio amable.
+
+—Pues hoy has leído un texto, has dicho algo útil y has salido de casa. Para ser un desastre integral, no está mal.
+
+No era una epifanía. Era un andamiaje. Pero los andamios sostienen mientras uno vuelve a aprender dónde pisa.
