@@ -12,7 +12,7 @@ hide_title = true
 
 - [Capítulo 1: Omnihilismo](capitulo1-omnihilismo/)
 - [Capítulo 2: La Sombra de Alice](capitulo2-la-sombra-de-alice/)
-- [Capítulo 3: Ecos y Presencias](capitulo3-ecos-y-presencias/)
+- [Capítulo 3: Diciembre y la Cobra](capitulo3-diciembre-y-la-cobra/)
 - [Capítulo 4: El Despertar Londinense](capitulo4-el-despertar-londinense/)
 
 ---
