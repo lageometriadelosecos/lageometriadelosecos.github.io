@@ -4,6 +4,14 @@
 
 ---
 
+## 🖼️ Portada y EPUB
+
+![Portada de La Geometría de los Ecos](drafting/novela/portada_simple_luminosa.png)
+
+📥 **Descarga EPUB**: [novela_editorial_16_marzo.epub](drafting/tools/novela_editorial_16_marzo.epub)
+
+---
+
 ## 🏗️ Estructura del Proyecto
 
 El proyecto está organizado en cuatro áreas lógicas para facilitar el flujo de trabajo:
