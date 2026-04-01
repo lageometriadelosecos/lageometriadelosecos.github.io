@@ -12,7 +12,7 @@ hide_title = true
 
 - [Capítulo 5: Códigos Rotos](capitulo5-codigos-rotos/)
 - [Capítulo 6: El Rojo Sangre de Lea](capitulo6-el-rojo-sangre-de-lea/)
-- [Capítulo 7: Aquarium](capitulo7-aquarium/)
+- [Capítulo 7: Green Cross](capitulo7-green-cross/)
 
 ---
 
