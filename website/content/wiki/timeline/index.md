@@ -3,8 +3,6 @@ title = "Timeline General"
 weight = 10
 +++
 
-# Timeline General
-
 ## 1) Primera infancia
 
 El nucleo temprano aparece como origen de rasgos persistentes:

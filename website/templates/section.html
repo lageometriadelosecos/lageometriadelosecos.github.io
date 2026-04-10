@@ -89,7 +89,11 @@
         {{ section.content | safe }}
     </div>
 
-    {% if section.subsections %}
+    {% set hide_subsections = section.extra.hide_subsections | default(value=false) %}
+    {% set hide_pages = section.extra.hide_pages | default(value=false) %}
+    {% set is_book_section = section.path is starting_with("/libro") %}
+
+    {% if section.subsections and not hide_subsections %}
     <h2>Secciones</h2>
     <ul>
         {% for subsection_path in section.subsections %}
@@ -99,7 +103,7 @@
     </ul>
     {% endif %}
 
-    {% if section.pages %}
+    {% if section.pages and not hide_pages and not is_book_section %}
     <h2>Páginas</h2>
     <ul>
         {% for page in section.pages %}
