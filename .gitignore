@@ -10,10 +10,7 @@ credentials*.json
 *.p12
 *.crt
 *.cer
-Chats/Novela/
-Chats/Novela/*
-Chats/Novela
-Chats/Novela/README.md
+Chats/
 
 
 # Directorios de salida de audio y exportación
