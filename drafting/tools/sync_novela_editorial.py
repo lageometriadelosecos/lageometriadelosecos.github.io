@@ -165,9 +165,11 @@ def render_book_index(book: Book, prev_book: Book | None, next_book: Book | None
         "+++",
         f'title = "{book.heading}"',
         f"weight = {book.number}",
-        'template = "page.html"',
+        'template = "section.html"',
         "[extra]",
         "hide_title = true",
+        "hide_pages = true",
+        "hide_subsections = true",
         "+++",
         "",
         f"# {book.heading}",
@@ -177,16 +179,16 @@ def render_book_index(book: Book, prev_book: Book | None, next_book: Book | None
     ]
 
     for chapter in book.chapters:
-        lines.append(f"- [{chapter.heading}]({chapter.slug}/)")
+        lines.append(f"- [{chapter.heading}](@/{book.slug}/{chapter.slug}.md)")
 
     nav_parts: list[str] = []
     if prev_book is not None:
-        nav_parts.append(f"**[← Libro Anterior](@/{prev_book.slug}/index.md)**")
+        nav_parts.append(f"**[← Libro Anterior](@/{prev_book.slug}/_index.md)**")
     else:
         nav_parts.append("**[← Inicio](../)**")
     nav_parts.append("**[Inicio](../)**")
     if next_book is not None:
-        nav_parts.append(f"**[Siguiente Libro →](@/{next_book.slug}/index.md)**")
+        nav_parts.append(f"**[Siguiente Libro →](@/{next_book.slug}/_index.md)**")
 
     lines.extend(["", "---", "", "## Navegación", "", " | ".join(nav_parts)])
     return "\n".join(lines)
@@ -234,6 +236,9 @@ def render_root_index(books: list[Book]) -> str:
         "+++",
         'title = "La Geometría de los Ecos"',
         'sort_by = "weight"',
+        "[extra]",
+        "hide_subsections = true",
+        "hide_pages = true",
         "+++",
         "",
         "Una mente obsesionada con la lógica tropieza con el caos de la intimidad y el cuerpo. "
@@ -244,7 +249,7 @@ def render_root_index(books: list[Book]) -> str:
         "",
     ]
     for book in books:
-        lines.append(f"- **[{book.heading}](@/{book.slug}/index.md)**")
+        lines.append(f"- **[{book.heading}](@/{book.slug}/_index.md)**")
     lines.extend(["", "---", "", "*Cada momento aparentemente oscuro se revela como un paso necesario hacia la autenticidad y la conexión genuina.*"])
     return "\n".join(lines)
 
@@ -270,7 +275,7 @@ def sync_content(title: str, books: list[Book], content_dir: Path, chapter_nav_p
         prev_book = books[index - 1] if index > 0 else None
         next_book = books[index + 1] if index + 1 < len(books) else None
         book_dir = content_dir / book.slug
-        write_text(book_dir / "index.md", render_book_index(book, prev_book, next_book))
+        write_text(book_dir / "_index.md", render_book_index(book, prev_book, next_book))
         for chapter in book.chapters:
             write_text(book_dir / f"{chapter.slug}.md", render_chapter(book, chapter))
 
