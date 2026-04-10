@@ -11,8 +11,6 @@ credentials*.json
 *.crt
 *.cer
 Chats/Novela/
-!Chats/
-!Chats/Novela/
 Chats/Novela/*
 Chats/Novela
 Chats/Novela/README.md
