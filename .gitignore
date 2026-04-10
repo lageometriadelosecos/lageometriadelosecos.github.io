@@ -14,7 +14,9 @@ Chats/Novela/
 !Chats/
 !Chats/Novela/
 Chats/Novela/*
+Chats/Novela
 Chats/Novela/README.md
+
 
 # Directorios de salida de audio y exportación
 tools/audio_libro1/
