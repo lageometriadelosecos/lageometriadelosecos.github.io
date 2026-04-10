@@ -5,7 +5,7 @@ weight = 4
 
 ## 1. Datos Básicos (Ficcionales)
 *   **Arquetipo:** El Intelectual Hedonista / El Precursor.
-*   **Rol Narrativo:** Es el "Eslabón Perdido" entre la etapa de inocencia/búsqueda (Fuhrernand) y la consolidación del "Viernes Interior". Representa la posibilidad de un "tercero" en la dinámica de Kirlian y Ãrika DurÃ¡n antes de que Freddie ocupara ese lugar definitivamente. Es la prueba de que la intelectualidad y la fiesta pueden convivir.
+*   **Rol Narrativo:** Es el "Eslabón Perdido" entre la etapa de inocencia/búsqueda (Fuhrernand) y la consolidación del "Viernes Interior". Representa la posibilidad de un "tercero" en la dinámica de Kirlian y Érika Durán antes de que Freddie ocupara ese lugar definitivamente. Es la prueba de que la intelectualidad y la fiesta pueden convivir.
 *   **Deseo Consciente:** **Pasarlo bien estimulando la mente.** Para Canoa, una buena conversación sobre política o filosofía es tan estimulante como una copa.
 *   **Deseo Inconsciente:** **Pertenecer sin perder su libertad.** Se une a las conversaciones iniciáticas pero mantiene su espíritu "fiestero" e independiente, evitando quizás la intensidad emocional que atrapó a los otros.
 
