@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 8: El Glitch"
 weight = 8
-novela = ["libro3-La-Arquitectura-Del-Codigo"]
+novela = ["libro3-La-Cronica-Del-Codigo"]
 +++
 
 2020. El mundo se detuvo y Kirlian regresó a Almería con la sensación de haber llegado demasiado pronto a una vida que todavía no sabía sostener.

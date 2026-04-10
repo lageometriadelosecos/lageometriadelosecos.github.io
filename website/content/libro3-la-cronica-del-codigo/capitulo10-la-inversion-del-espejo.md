@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 10: La Inversión del Espejo"
 weight = 10
-novela = ["libro3-La-Arquitectura-Del-Codigo"]
+novela = ["libro3-La-Cronica-Del-Codigo"]
 +++
 
 Conoció a Shayla en una noche de fiesta en **Nueva Planta**.

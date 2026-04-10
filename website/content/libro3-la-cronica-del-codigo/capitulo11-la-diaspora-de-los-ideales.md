@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 11: La Diáspora de los Ideales"
 weight = 11
-novela = ["libro3-La-Arquitectura-Del-Codigo"]
+novela = ["libro3-La-Cronica-Del-Codigo"]
 +++
 
 Los años siguientes no fueron una revelación continua. Fueron una dispersión.

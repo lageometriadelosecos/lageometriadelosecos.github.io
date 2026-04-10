@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 9: El Andamiaje"
 weight = 9
-novela = ["libro3-La-Arquitectura-Del-Codigo"]
+novela = ["libro3-La-Cronica-Del-Codigo"]
 +++
 
 Índigo no lo rescató con discursos. Lo hizo con una pregunta banal enviada a las once de la mañana:

@@ -57,47 +57,47 @@
       }
     }
   },
-  "libro3-la-arquitectura-del-codigo": {
+  "libro3-la-cronica-del-codigo": {
     "capitulo8-el-glitch.md": {
       "next": {
         "title": "Capítulo 9: El Andamiaje",
-        "url": "/libro3-la-arquitectura-del-codigo/capitulo9-el-andamiaje/"
+        "url": "/libro3-la-cronica-del-codigo/capitulo9-el-andamiaje/"
       }
     },
     "capitulo9-el-andamiaje.md": {
       "previous": {
         "title": "Capítulo 8: El Glitch",
-        "url": "/libro3-la-arquitectura-del-codigo/capitulo8-el-glitch/"
+        "url": "/libro3-la-cronica-del-codigo/capitulo8-el-glitch/"
       },
       "next": {
         "title": "Capítulo 10: La Inversión del Espejo",
-        "url": "/libro3-la-arquitectura-del-codigo/capitulo10-la-inversion-del-espejo/"
+        "url": "/libro3-la-cronica-del-codigo/capitulo10-la-inversion-del-espejo/"
       }
     },
     "capitulo10-la-inversion-del-espejo.md": {
       "previous": {
         "title": "Capítulo 9: El Andamiaje",
-        "url": "/libro3-la-arquitectura-del-codigo/capitulo9-el-andamiaje/"
+        "url": "/libro3-la-cronica-del-codigo/capitulo9-el-andamiaje/"
       },
       "next": {
         "title": "Capítulo 11: La Diáspora de los Ideales",
-        "url": "/libro3-la-arquitectura-del-codigo/capitulo11-la-diaspora-de-los-ideales/"
+        "url": "/libro3-la-cronica-del-codigo/capitulo11-la-diaspora-de-los-ideales/"
       }
     },
     "capitulo11-la-diaspora-de-los-ideales.md": {
       "previous": {
         "title": "Capítulo 10: La Inversión del Espejo",
-        "url": "/libro3-la-arquitectura-del-codigo/capitulo10-la-inversion-del-espejo/"
+        "url": "/libro3-la-cronica-del-codigo/capitulo10-la-inversion-del-espejo/"
       },
       "next": {
         "title": "Capítulo 12: El Retorno del Ojo",
-        "url": "/libro3-la-arquitectura-del-codigo/capitulo12-el-retorno-del-ojo/"
+        "url": "/libro3-la-cronica-del-codigo/capitulo12-el-retorno-del-ojo/"
       }
     },
     "capitulo12-el-retorno-del-ojo.md": {
       "previous": {
         "title": "Capítulo 11: La Diáspora de los Ideales",
-        "url": "/libro3-la-arquitectura-del-codigo/capitulo11-la-diaspora-de-los-ideales/"
+        "url": "/libro3-la-cronica-del-codigo/capitulo11-la-diaspora-de-los-ideales/"
       }
     }
   }

@@ -1,7 +1,7 @@
 +++
 title = "Capítulo 12: El Retorno del Ojo"
 weight = 12
-novela = ["libro3-La-Arquitectura-Del-Codigo"]
+novela = ["libro3-La-Cronica-Del-Codigo"]
 +++
 
 Cuando Eileen le escribió para quedar, Granada ya no tenía el mismo relieve que en los años más duros. Seguía siendo la misma ciudad de cuestas, terrazas y estudiantes exhaustos, pero Kirlian la habitaba de otra manera: menos como prueba, más como lugar.
