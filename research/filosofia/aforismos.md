@@ -35,3 +35,13 @@ La fe de Kirlian no está en Dios, sino en el asombro redivivo.
 *   "¡Articulad vuestros pensamientos o caerán en el olvido!".
 *   "Confundimos compactificar con hacer poesía y poesía con hacer filosofía. La grandilocuencia es mentira".
 *   "Entiendo que todo el diario es una forma de luchar contra lo que se espera que haga".
+
+### **Ideas-fuerza del autor sobre educación y academia**
+
+*   Aprender vale más que acreditar, pero la acreditación condiciona oportunidades.
+*   El sistema premia a veces cumplimiento y resistencia más que comprensión profunda.
+*   La nota sirve como señal administrativa, no como medida plena de saber.
+*   La salud mental y corporal no es periférica: determina la trayectoria académica.
+*   Los hábitos son la infraestructura real del estudio (más que la motivación puntual).
+*   La socialidad académica puede ser soporte o ruido según etapa y equilibrio.
+*   Institucionalizar una pasión puede profesionalizarla, pero también erosionar su impulso vital.
