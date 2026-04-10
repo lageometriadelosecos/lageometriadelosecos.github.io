@@ -404,7 +404,7 @@ Lo que había empezado en la reja de Almería como un pensamiento compartido emp
 
 ---
 
-## Libro 3: La Arquitectura del Código
+## Libro 3: La Crónica del Código
 
 ### Capítulo 8: El Glitch
 
